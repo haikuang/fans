@@ -40,39 +40,8 @@
 "quickSearch":"0",
 "filterable":"1",
 "changeable":0,
+"jar": "./fty.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
 "ext":"./lib/alist.json"},
- {
-      "key": "爱奇异",
-      "name": "爱奇艺(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/ttkx.jar",
-    "ext": "./lib/爱奇艺.js"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/ttkx.jar",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯VIP(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/ttkx.jar",
-      "ext": "./lib/腾讯VIP.js"
-    },
-    {
-      "key": "芒果",
-      "name": "芒果(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/ttkx.jar",
-      "ext": "./lib/芒果.js"
-    },
 
     {
       "key": "玩偶",
