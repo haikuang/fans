@@ -40,7 +40,7 @@
 "quickSearch":"0",
 "filterable":"1",
 "changeable":0,
-"jar":"./jar/fty.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+"jar":"./fty.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
 "ext":"./json/alist.json"},
     {
       "key": "天天弹幕版",
