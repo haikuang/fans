@@ -73,14 +73,7 @@
       "jar": "./lib/ttkx.jar",
       "ext": "./lib/芒果.js"
     },
-    {
-      "key": "搜狗",
-      "name": "搜狗(官)",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./lib/ttkx.jar",
-      "ext": "./lib/搜狗.js"
-    },
+
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
