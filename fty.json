@@ -40,9 +40,34 @@
 "quickSearch":"0",
 "filterable":"1",
 "changeable":0,
-"jar": "./fty.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
-"ext":"./lib/alist.json"},
-
+"jar":"./jar/fty.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+"ext":"./json/alist.json"},
+    {
+      "key": "天天弹幕版",
+      "name": "⛅️天天┃弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ttkx.jar",
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+   {
+      "key": "csp_Nmys",
+      "name": "🕵农民┃APP",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ttkx.jar",
+      "ext": "https://vip.wwgz.cn/"
+    },
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
@@ -76,32 +101,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
-      "type": 3,
-      "api": "csp_UuSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
     },
     {
       "key": "Lib",
