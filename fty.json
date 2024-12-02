@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+  "spider": "./fty.jar;md5;99b6c138ce197b9cd89ccf9dc26a37bc",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -41,7 +41,7 @@
 "filterable":"1",
 "changeable":0,
 "jar":"./fty.txt;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
-"ext":"./json/alist.json"},
+"ext":"./lib/alist.json"},
     {
       "key": "天天弹幕版",
       "name": "⛅️天天┃弹幕",
@@ -68,7 +68,18 @@
       "jar": "./lib/ttkx.jar",
       "ext": "https://vip.wwgz.cn/"
     },
-    {
+{
+     "key":"lf_js_lf_live",
+     "name":"电视┃直播",
+     "type":3,
+     "api":"./lib/lf_live_min.js",
+     "style":{ "type":"oval"},
+     "searchable":1,
+     "changeable":0,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"./lib/lf_live.txt"},
+     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -101,6 +112,32 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "Lib",
@@ -470,6 +507,19 @@
       }
     },
     {
+      "key": "xzso",
+      "name": "👻盘它┃三盘",
+      "type": 3,
+      "api": "csp_xzso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
       "key": "米搜",
       "name": "🦋米搜┃夸父",
       "type": 3,
@@ -478,6 +528,20 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "夸搜",
+      "name": "😻夸搜┃夸父",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
