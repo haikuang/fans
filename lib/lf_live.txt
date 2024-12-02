@@ -10,6 +10,8 @@
 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 #猫TV•综合
 http://rihou.cc:567/gggg.nzk
+#晴天•综合
+http://rihou.cc:567/qtsd
 #开心·综合
 http://kxrj.site:55/lib/kx2024.txt
 #YanG-1989·综合
