@@ -25,30 +25,8 @@
 },
 
 {
-"key": "博看听书",
-"name": "📚️听书┃博看",
-"type": 3,
-"api": "./lib/drpy2.min.js",
-"changeable": 0,
-"jar": "./jar/ttkx.jar",
-"style": {"type": "rect","ratio": 1},
-"jar": "./lib/ttkx.jar",
-"ext": "./lib/博看听书.js"
-},
-
-{
-"key":"drpy_js_博看听书",
-"name":"听书┃博看听书2[js]",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"changeable":0,
-"style":{"type":"rect","ratio":1},
-"ext":"./lib/博看听书.js"
-},
-
-{
 "key":"drpy_js_相声随身听",
-"name":"相声┃相声随身听[js]",
+"name":"相声┃相声随身听",
 "type":3,
 "api":"./lib/drpy2.min.js",
 "changeable":0,
@@ -104,6 +82,27 @@
      "filterable":1,
      "ext":"./lib/lf_live.txt"
 },
+
+{
+"key":"drpy_js_博看听书",
+"name":"听书┃博看听书",
+"type":3,
+"api":"./lib/drpy2.min.js",
+"changeable":0,
+"style":{"type":"rect","ratio":1},
+"ext":"./lib/博看听书.js"
+},
+{
+"key":"1905",
+"name":"💡1905｜影视",
+"type":3,
+"api":"csp_Web1905",
+"searchable":1,
+"quickSearch":0,
+"filterable":0,
+"jar": "./lib/jar.php",
+},
+
      {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
