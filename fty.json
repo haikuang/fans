@@ -35,17 +35,14 @@
 "ext":"./lib/alist.json"
 },
     {
-      "key": "天天弹幕版",
-      "name": "⛅️天天┃弹幕",
+      "key": "️爱看Bot",
+      "name": "⛅️爱看Bot┃直连",
       "type": 3,
-      "api": "csp_TianTian",
+      "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/ttkx.jar",
-      "ext": {
-        "danmu": true
-      },
+      "jar": "./lib/okpng.jar",
       "timeout": 10
     },
    {
