@@ -34,17 +34,6 @@
 "changeable":0,
 "ext":"./lib/alist.json"
 },
-    {
-      "key": "️爱看Bot",
-      "name": "⛅️爱看Bot┃直连",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/okpng.jar",
-      "timeout": 10
-    },
    {
       "key": "csp_Nmys",
       "name": "🕵农民┃APP",
