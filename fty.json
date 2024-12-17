@@ -82,6 +82,14 @@
       },
       "timeout": 10
     },
+    {
+      "key": "csp_Xlys",
+      "name": "🍤哔嘀┃1080P",
+      "api": "csp_Xlys",
+      "type": 3,
+      "jar": "./lib/xiaoyii.jar",
+      "playerType": 2
+    },
      {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
