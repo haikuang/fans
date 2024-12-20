@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;c76ccccc921e555436828a86ed604fc1",
+  "spider": "./fty.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -689,7 +689,7 @@
         "json": "./lib/初中课堂.json"
       }
     },
-    {
+     {
       "key": "高中教育",
       "name": "📚高中┃课堂",
       "type": 3,
@@ -714,23 +714,23 @@
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "playerType": 1,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+      "logo": "https://epg.iill.top/logo/{name}.png"
     },
     {
       "name": "IPV4",
       "type": 0,
-      "url": "https://raw.gitmirror.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "url": "./lib/multicast.txt",
       "playerType": 1,
-      "logo": "https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+      "logo": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
     },
     {
       "name": "IPV6①",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "./lib/Gather.m3u",
       "playerType": 1
     },
     {
-        "name": "平台直播",
+      "name": "平台直播",
       "type": 0,
       "url": "http://tv.iill.top/m3u/Live",
       "ua": "okhttp/3.15",
