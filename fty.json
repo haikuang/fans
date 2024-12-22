@@ -34,7 +34,7 @@
 "changeable":0,
 "ext":"./lib/alist.json"
 },
-   {
+     {
       "key": "csp_Nmys",
       "name": "🕵农民┃APP",
       "type": 3,
@@ -87,7 +87,7 @@
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
       "type": 3,
-      "jar": "./lib/xiaoyii.jar",
+      "jar": "./lib/XMKX.jar",
       "playerType": 2
     },
      {
