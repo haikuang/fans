@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;262a678665ac3d5c727a8c812b31dfdf",
+  "spider": "./fty.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -81,6 +81,19 @@
         "danmu": true
       },
       "timeout": 10
+    },
+    {
+      "key": "csp_LaoBaiBook",
+      "name": "📚听书┃BOOK",
+      "type": 3,
+      "api": "csp_LaoBaiBook",
+      "jar": "./lib/XMKX.jar",
+      "playerType": 2,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
     },
     {
       "key": "csp_Xlys",
@@ -192,6 +205,15 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "苹果",
@@ -379,19 +401,6 @@
       }
     },
     {
-      "key": "310js",
-      "name": "⚽ 310┃看球",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/310直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
@@ -561,7 +570,7 @@
       "key": "Aliso",
       "name": "🙀盘搜┃阿狸",
       "type": 3,
-      "api": "csp_Aliso",
+      "api": "csp_PanSearch",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -689,7 +698,7 @@
         "json": "./lib/初中课堂.json"
       }
     },
-     {
+    {
       "key": "高中教育",
       "name": "📚高中┃课堂",
       "type": 3,
