@@ -24,30 +24,6 @@
 "order_num": 0,
 "ext": "./lib/央视大全.js"
 },
-
-{
-"key":"py_cctvdc",
-"name":"CCTV丨片库[PY]",
-"type":3,
-"api":"py_cctv",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar",
-"ext":"./lib/py2.json"
-},
-
-{
-"key":"py_cctv",
-"name":"CCTV丨节目[PY]",
-"type":3,
-"api":"py_cctv",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar",
-"ext":"./lib/py_cctv.py"
-},
 {
 "key":"csp_AList",
 "name":"AList┃网盘",
