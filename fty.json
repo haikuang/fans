@@ -83,14 +83,14 @@
       },
       "timeout": 10
     },
-    {
+   {
       "key": "csp_LaoBaiBook",
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/XMKX.jar",
+      "jar": "./lib/xiaom250102.jar",
       "playerType": 2,
-      "searchable": 0,
+      "searchable": 1,
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -100,8 +100,9 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
+      "searchable": 1,
       "type": 3,
-      "jar": "./lib/XMKX.jar",
+      "jar": "./lib/xiaom250102.jar",
       "playerType": 2
     },
      {
