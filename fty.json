@@ -1,12 +1,13 @@
 {
-  "spider": "./fty.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
+  "spider": "./fty.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "豆豆豆",
       "name": "🅱豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
+      "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -276,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
     },
     {
       "key": "热播",
