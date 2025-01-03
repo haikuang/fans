@@ -33,6 +33,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
+"jar": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar",
 "ext":"./lib/py2.json"
 },
 
@@ -44,6 +45,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
+"jar": "https://github.com/gaotianliuyun/gao/blob/master/jar/pg.jar",
 "ext":"./lib/py_cctv.py"
 },
 {
