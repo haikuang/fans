@@ -1,5 +1,6 @@
 {
   "spider": "./fty.jar;md5;ff90f08636149d5ad8dfa91af77b8955",
+"lives":[{"name":"范明明","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
