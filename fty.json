@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ff90f08636149d5ad8dfa91af77b8955",
+  "spider": "./fty.jar;md5;199d292d646c6d3b0d6a2b37eb30f05b",
 "lives":[{"name":"范明明","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
@@ -89,7 +89,7 @@
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/xiaom250102.jar",
+      "jar": "./lib/ts0106.jar",
       "playerType": 2,
       "searchable": 1,
       "style": {
@@ -103,7 +103,7 @@
       "api": "csp_Xlys",
       "searchable": 1,
       "type": 3,
-      "jar": "./lib/xiaom250102.jar",
+      "jar": "./lib/ts0106.jar",
       "playerType": 2
     },
      {
