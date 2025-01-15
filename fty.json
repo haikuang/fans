@@ -35,17 +35,15 @@
 "changeable":0,
 "ext":"./lib/alist.json"
 },
-     {
-      "key": "csp_Nmys",
-      "name": "🕵农民┃APP",
+    {
+      "key": "农民影视",
+      "name": "🎦农民｜影视",
       "type": 3,
-      "playerType": "2",
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/ttkx.jar",
-      "ext": "https://vip.wwgz.cn/"
+      "filterable": 1
+      "jar": "./lib/ttkx.jar"
     },
 {
      "key":"lf_js_lf_live",
@@ -111,13 +109,18 @@
       }
     },
     {
-      "key": "csp_Xlys",
-      "name": "🍤哔嘀┃1080P",
-      "api": "csp_Xlys",
-      "searchable": 1,
+      "key": "哔嘀弹幕",
+      "name": "💘哔嘀｜弹幕",
       "type": 3,
-      "jar": "./lib/0113-4.jar.jar",
-      "playerType": 2
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ttkx.jar",
+      "ext": {
+        "site": "https://www.xlys01.com",
+        "danmu": true
+      }
     },
      {
       "key": "玩偶",
