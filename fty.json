@@ -83,12 +83,26 @@
       },
       "timeout": 10
     },
+ {
+      "key": "天天弹幕",
+      "name": "💘天天｜弹幕",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./lib/ttkx.jar",
+      "ext": {
+        "danmu": true,
+        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
+      }
+    },
    {
       "key": "csp_LaoBaiBook",
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/ts0106.jar",
+      "jar": "./lib/0113-4.jar.jar",
       "playerType": 2,
       "searchable": 1,
       "style": {
@@ -102,7 +116,7 @@
       "api": "csp_Xlys",
       "searchable": 1,
       "type": 3,
-      "jar": "./lib/ts0106.jar",
+      "jar": "./lib/0113-4.jar.jar",
       "playerType": 2
     },
      {

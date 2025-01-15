@@ -9,16 +9,8 @@
       "name": "讴歌"
     },
     {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "ray"
-    },
-    {
       "url": "https://盒子迷.top/禁止贩卖",
       "name": "盒子迷"
-    },
-    {
-      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
-      "name": "道长"
     },
     {
       "url": "http://www.饭太硬.com/tv",
@@ -27,10 +19,6 @@
     {
       "url": "https://weixine.net/ysc.json",
       "name": "运输车"
-    },
-    {
-      "url": "http://cdn.qiaoji8.com/tvbox.json",
-      "name": "巧技"
     },
     {
       "url": "http://肥猫.com",
@@ -60,27 +48,6 @@
       "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "菜妮丝线"
     },
- {
-      "url": "https://11256.kstore.space/TWYS/api.json",
-      "name": "天微"
-    },
-
- {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
-      "name": "高天流云0826"
-    },
- {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
-      "name": "高天流云0827"
-    },
- {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-      "name": "高天流云XYQ"
-    },
-      {
-      "url": "https://raw.githubusercontent.com/haikuang/kite/main/fly.json",
-      "name": " 大鹏"
-    },
   {
       "url": "https://box.iqinu.com",
       "name": " 龙门影视"
@@ -90,28 +57,13 @@
       "name": " 巧技"
     },
   {
-      "url": "http://bp.tvbox.cam",
-      "name": "小白"
-    },
-{
-      "url": "http://ok321.top/tv",
-      "name": "ok321"
-    },
-  {
-      "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json",
-      "name": " 潇洒"
-    },
-  {
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": " 老刘备"
     },
   {
       "url": "http://tvbox.王二小放牛娃.top",
       "name": " 王二小放牛娃"
-    },
-  {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
-      "name": " 月光宝盒"
+
     }
   ]
 }
