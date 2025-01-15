@@ -20,7 +20,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"jar": "./lib/ttkx.jar",
+"jar": "./lib/微信公众号开心软件",
 "order_num": 0,
 "ext": "./lib/央视大全.js"
 },
@@ -35,16 +35,7 @@
 "changeable":0,
 "ext":"./lib/alist.json"
 },
-    {
-      "key": "农民影视",
-      "name": "🎦农民｜影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      "jar": "./lib/ttkx.jar"
-    },
+
 {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
@@ -89,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./lib/ttkx.jar",
+      "jar": "./lib/微信公众号开心软件",
       "ext": {
         "danmu": true,
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
@@ -100,7 +91,7 @@
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/0113-4.jar.jar",
+      "jar": "./lib/0113-4.jar",
       "playerType": 2,
       "searchable": 1,
       "style": {
@@ -109,19 +100,26 @@
       }
     },
     {
-      "key": "哔嘀弹幕",
-      "name": "💘哔嘀｜弹幕",
-      "type": 3,
-      "api": "csp_Bdys",
+      "key": "csp_Xlys",
+      "name": "🍤哔嘀┃1080P",
+      "api": "csp_Xlys",
+      "jar": "./lib/0113-4.jar",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/ttkx.jar",
-      "ext": {
-        "site": "https://www.xlys01.com",
-        "danmu": true
-      }
+      "type": 3,
+      "playerType": 2
     },
+   {
+      "key": "csp_Wwys",
+      "name": "👨农民┃1080P",
+      "type": 3,
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "jar": "./lib/0113-4.jar",
+      "ext": "https://www.wwgz.cn/"
+    },
+
      {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",

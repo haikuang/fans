@@ -36,6 +36,11 @@
       "url": "http://kxrj.site:55/天天开心",
       "name": "天天开心"
     },
+   {
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "天天开心0"
+    },
+
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "香雅情"
