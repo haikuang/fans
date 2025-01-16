@@ -46,7 +46,7 @@
       "name": "香雅情"
     },
       {
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/js.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流云JS"
     },
  {
