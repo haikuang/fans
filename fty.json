@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;5eaae4b083c5fc6c47c1cc0a204364b2",
+  "spider": "./fty.jar;md5;685fb6b2ffc841343f1135b82cda23e1",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -86,6 +86,16 @@
         "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
       }
     },
+{
+      "key": "csp_yumi",
+      "name": "🌽玉米┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MiTuApp",
+      "jar": "./lib/0119.jar",
+      "ext": "0YM2rlqPCLd5eMAslwMf/pkq/uUsA1uF3B25joY8JATIek3vhcdq9bMZ2NSRsZoHPWXfN0mYboypozT7qBZNw3dp/7SJL9zC7D6+VYxoNFI9F9KOs5FOj0L8CBPgIi9Q32p+zn/Qy1wkQ4F9bd6OE3+L3q8exNFplavF97PuAt4RjLnFQxxqZvmIssPYfKq0j3OzPUQU8QbeVY9y2gyignbiva/VY6FNyMiMuKlEW2E="
+    },
    {
       "key": "csp_LaoBaiBook",
       "name": "📚听书┃BOOK",
@@ -120,7 +130,7 @@
       "ext": "https://www.wwgz.cn/"
     },
 
-     {
+   {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -181,6 +191,37 @@
       }
     },
     {
+      "key": "原创",
+      "name": "☀原创┃不卡",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "白白",
+      "name": "🐟白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "AppSj",
+      "name": "👒视界┃多线",
+      "type": 3,
+      "api": "csp_AppSj",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "Lib",
       "name": "🌟立播┃秒播",
       "type": 3,
@@ -212,12 +253,11 @@
       "quickSearch": 1,
       "changeable": 1
     },
-   {
-      "key": "白白",
-      "name": "🐭白白┃秒播",
+    {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
       "type": 3,
-      "api": "csp_Sbaibai",
-      "playerType": 2,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -243,35 +283,24 @@
       "changeable": 1
     },
     {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
+      "key": "贱贱",
+      "name": "🐭贱贱┃P2P",
       "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCz",
+      "api": "csp_JPJ",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
+      "changeable": 0
+    },
+    {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "木星",
@@ -303,7 +332,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
     },
     {
       "key": "欢视",
@@ -317,16 +346,6 @@
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
@@ -337,15 +356,15 @@
       "changeable": 1
     },
     {
-      "key": "贱贱",
-      "name": "🐭贱贱┃P2P",
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
       "type": 3,
+      "api": "csp_NewCz",
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/jp.js"
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "Auete",
@@ -634,7 +653,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/bilibili.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
       }
     },
     {
@@ -650,7 +669,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/biliych.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
       }
     },
     {
@@ -680,7 +699,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/少儿教育.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
       }
     },
     {
@@ -696,7 +715,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/小学课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
       }
     },
     {
@@ -712,7 +731,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/初中课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
       }
     },
     {
@@ -728,14 +747,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/高中课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
       }
     }
   ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
-      "name": "牛播一（新版影视仓/ok影视）",
+      "name": "牛播一（仅新版影视仓/ok影视）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "playerType": 1,
@@ -747,12 +766,12 @@
       "type": 0,
       "url": "./lib/multicast.txt",
       "playerType": 1,
-      "logo": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+      "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
     },
     {
       "name": "IPV6①",
       "type": 0,
-      "url": "./lib/Gather.m3u",
+      "url": "./lib/ipv6.m3u",
       "playerType": 1
     },
     {
