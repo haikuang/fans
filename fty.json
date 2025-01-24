@@ -72,19 +72,14 @@
       },
       "timeout": 10
     },
- {
-      "key": "天天弹幕",
-      "name": "💘天天｜弹幕",
+    {
+      "key": "天天",
+      "name": "天天┃App",
       "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/微信公众号开心软件",
-      "ext": {
-        "danmu": true,
-        "site": "aHR0cDovL29wLnlzZHFqcy5jbg=="
-      }
+      "api": "csp_TTian",
+      "playerType": 1,
+      "jar": "./lib/fix250118.jar",
+      "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
 {
       "key": "csp_yumi",
