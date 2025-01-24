@@ -129,6 +129,15 @@
       "jar": "./lib/0119.jar",
       "ext": "https://www.wwgz.cn/"
     },
+    {
+     "key":"drpy_js_武享吧",
+    "name":"格斗丨武享吧[js]",
+    "type":3,
+    "api":"./lib/drpy2.min.js",
+    "changeable":0,
+     "jar": "./lib/pg.jar",
+     "ext":"./lib/武享吧.js"
+     },
 
      {
       "key": "玩偶",
