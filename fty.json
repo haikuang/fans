@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;1aa6ec5b5545453d6850174fc1fcc78c",
+  "spider": "./fty.jar;md5;1f46119840ac6ad605ee2b36300962cf",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -137,7 +137,7 @@
    "ext":"./lib/武享吧.js"
     },
 
-     {
+  {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -776,7 +776,7 @@
       "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
     },
     {
-      "name": "IPV6①",
+      "name": "范明明",
       "type": 0,
       "url": "./lib/ipv6.m3u",
       "playerType": 1
