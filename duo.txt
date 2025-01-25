@@ -51,12 +51,12 @@
       "name": "荷城茶秀"
     },
    {
-      "url": "http://kxrj.site:55/天天开心",
-      "name": "天天开心"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "南风"
     },
    {
       "url": "http://rihou.cc:55/天天开心",
-      "name": "天天开心0"
+      "name": "天天开心"
     },
 
     {
