@@ -18,7 +18,9 @@ http://rihou.cc:567/qtsd
 http://kxrj.site:55/lib/kx2024.txt
 #YanG-1989·综合
 https://iptv.b2og.com/txt/y_g.txt
-#TV·综合
-https://www.mytvsuper.xyz/m3u/Live.m3u
+#IP·综合
+https://www.mytvsuper.com.mp/m3u/Live.m3u
 #讴歌·综合
 https://tv.nxog.top/m//tv/
+#新AKTV港台
+http://aktv.top/live.m3u

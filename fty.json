@@ -90,6 +90,33 @@
       "jar": "./lib/fix250118.jar",
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },
+    {
+      "key": "蝴蝶",
+      "name": "🎦蝴蝶｜影视",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "jar": "./lib/fix250118.jar",
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+    },
+   {
+      "key": "雨滴",
+      "name": "雨滴┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "jar": "./lib/fix250118.jar",
+      "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+    },
+    {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 1,
+      "jar": "./lib/fix250118.jar",
+      "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
+    },
 {
       "key": "csp_yumi",
       "name": "🌽玉米┃1080P",
