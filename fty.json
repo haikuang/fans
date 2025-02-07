@@ -24,6 +24,16 @@
 "order_num": 0,
 "ext": "./lib/央视大全.js"
 },
+  {
+      "key": "1905",
+      "name": "🎦1905｜影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "./lib/微信公众号开心软件"
+    },
 {
 "key":"csp_AList",
 "name":"AList┃网盘",
@@ -117,22 +127,22 @@
       "jar": "./lib/fix250118.jar",
       "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
-{
-      "key": "csp_yumi",
-      "name": "🌽玉米┃1080P",
+ {
+      "key": "csp_DUODUO",
+      "name": "💨多多┃1080P",
       "type": 3,
-      "searchable": 1,
       "quickSearch": 1,
       "api": "csp_MiTuApp",
-      "jar": "./lib/012403.jar",
-       "ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q="
+      "jar": "./lib/fix250118.jar",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
     },
+
    {
       "key": "csp_LaoBaiBook",
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/012403.jar",
+      "jar": "./lib/0207-1.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 0,
@@ -145,7 +155,7 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
-      "jar": "./lib/012403.jar",
+      "jar": "./lib/0207-1.jar",
       "searchable": 1,
       "quickSearch": 1,
       "type": 3,
@@ -160,7 +170,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "api": "csp_Wwys",
-      "jar": "./lib/012403.jar",
+      "jar": "./lib/0207-1.jar",
       "ext": "https://www.wwgz.cn/"
     },
     {"key":"drpy_js_武享吧",
