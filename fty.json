@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;77857b24f2d062790ba1e556078f1ea6",
+  "spider": "./f0206.txt;md5;77857b24f2d062790ba1e556078f1ea6",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -649,15 +649,9 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "咕咕咕",
-      "type": 0,
-      "url": "./lib/migu.m3u",
-      "playerType": 1
-    },
-    {
       "name": "范明明",
       "type": 0,
-      "url": "./lib/ipv6.m3u",
+      "url": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
       "playerType": 1
     },
     {
