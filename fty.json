@@ -20,7 +20,7 @@
 "searchable": 1,
 "quickSearch": 1,
 "filterable": 1,
-"jar": "./lib/微信公众号开心软件",
+"jar": "./lib/微信公众号开心软件.jar",
 "order_num": 0,
 "ext": "./lib/央视大全.js"
 },
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./lib/微信公众号开心软件"
+      "jar": "./lib/微信公众号开心软件.jar"
     },
 {
 "key":"csp_AList",
@@ -88,7 +88,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix250118.jar",
+      "jar": "./lib/fix250207.jar",
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
@@ -97,7 +97,7 @@
       "type": 3,
       "api": "csp_APPTT",
       "playerType": 1,
-      "jar": "./lib/fix250118.jar",
+      "jar": "./lib/fix250207.jar",
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },
     {
@@ -106,7 +106,7 @@
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
-      "jar": "./lib/fix250118.jar",
+      "jar": "./lib/fix250207.jar",
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
    {
@@ -115,7 +115,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250118.jar",
+      "jar": "./lib/fix250207.jar",
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
@@ -124,19 +124,9 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250118.jar",
+      "jar": "./lib/fix250207.jar",
       "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
- {
-      "key": "csp_DUODUO",
-      "name": "💨多多┃1080P",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "jar": "./lib/fix250118.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
-    },
-
    {
       "key": "csp_LaoBaiBook",
       "name": "📚听书┃BOOK",
