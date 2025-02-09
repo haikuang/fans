@@ -75,7 +75,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix250207.jar",
+      "jar": "./lib/fix250211.jar",
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
@@ -84,16 +84,16 @@
       "type": 3,
       "api": "csp_APPTT",
       "playerType": 1,
-      "jar": "./lib/fix250207.jar",
+      "jar": "./lib/fix250211.jar",
       "ext": "cTTFtUDdPa0x3SzNyanpQKnxFNW9WTzFlek40cGgxVTV3MXFORjVaa0NzMEFZanpQKnxodHRwOi8vNDMuMjQ4LjExNy4yNTM6NTU4OC98RERIR2xKNmVVSHoyNmxnZHxxT3FaOU9QNEsxTkxCZjRIaDVKQnc5VUxsSzg5R2V1VA=="
     },
     {
       "key": "蝴蝶",
-      "name": "🎦蝴蝶｜影视",
+      "name": "蝴蝶｜APP",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
-      "jar": "./lib/fix250207.jar",
+      "jar": "./lib/fix250211.jar",
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
    {
@@ -102,7 +102,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250207.jar",
+      "jar": "./lib/fix250211.jar",
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
@@ -111,7 +111,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250207.jar",
+      "jar": "./lib/fix250211.jar",
       "ext": "jaHR0cHM6Ly9jajJkOGFvdzI2Ym85OTgyb3AxMi5ieXRlaW1nLnN0b3JlOjU2ODl8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
    {
@@ -130,7 +130,7 @@
     },
     {
       "key": "csp_Xlys",
-      "name": "🍤哔嘀┃1080P",
+      "name": "哔嘀┃1080P",
       "api": "csp_Xlys",
       "jar": "./lib/0207-1.jar",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
    {
       "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
+      "name": "农民┃1080P",
       "type": 3,
       "playerType": 2,
       "searchable": 1,
@@ -152,7 +152,7 @@
     },
     {
       "key": "csp_DUODUO",
-      "name": "💨多多┃1080P",
+      "name": "多多┃1080P",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_MiTuApp",
@@ -161,7 +161,7 @@
     },
     {
       "key": "csp_AppDrama3",
-      "name": "👀眼镜┃1080P",
+      "name": "眼镜┃1080P",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppDrama",
