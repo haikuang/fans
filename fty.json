@@ -119,7 +119,7 @@
       "name": "📚听书┃BOOK",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/0213.jar",
+      "jar": "./lib/0213-1.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 0,
@@ -130,25 +130,19 @@
     },
     {
       "key": "csp_Xlys",
-      "name": "哔嘀┃1080P",
+      "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
-      "jar": "./lib/0213.jar",
-      "searchable": 1,
-      "quickSearch": 1,
+      "jar": "./lib/0213-1.jar",
       "type": 3,
       "playerType": 2
     },
-   {
+    {
       "key": "csp_Wwys",
       "name": "农民┃1080P",
       "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
       "api": "csp_Wwys",
-      "jar": "./lib/0213.jar",
-      "ext": "https://www.wwgz.cn/"
+      "jar": "./lib/0213-1.jar",
+      "ext": "https://m.wwgz.cn"
     },
     {
       "key": "csp_DUODUO",
@@ -156,8 +150,8 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_MiTuApp",
-      "jar": "./lib/0213.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
+      "jar": "./lib/0213-1.jar",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1pQ1vkhef+muSxZLPS9vDhFqja5QKdX0vSluV77MzWchMKBe9DRUsldTdVVDNp14s"
     },
     {
       "key": "csp_AppDrama3",
@@ -165,7 +159,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppDrama",
-      "jar": "./lib/0213.jar",
+      "jar": "./lib/0213-1.jar",
       "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M="
     },
     {"key":"drpy_js_武享吧",
