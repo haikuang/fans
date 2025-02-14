@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;793d41d0573885b6f21c8cef69624881",
+  "spider": "./fty.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -145,23 +145,18 @@
       "ext": "https://m.wwgz.cn"
     },
     {
-      "key": "csp_多多",
-      "name": "👔多多┃1080P",
+      "key": "csp_Lkdy",
+      "name": "来看┃1080P",
       "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MiTuApp",
       "jar": "./lib/0214.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1pQ1vkhef+muSxZLPS9vDhFqja5QKdX0vSluV77MzWchMKBe9DRUsldTdVVDNp14s"
+      "api": "csp_Lkdy"
     },
     {
-      "key": "csp_良人",
-      "name": "⚽️良人┃1080P",
+      "key": "csp_Lgyy",
+      "name": "️流光┃1080P",
       "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_MiTu",
       "jar": "./lib/0214.jar",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNn0Whw+jpp24kW5u+x7quxXdQzFJek0l4ALR6YAKsw5NVExSVI0Q8wY3mmxjpEiMUL"
+      "api": "csp_Lgyy"
     },
 
     {
@@ -396,8 +391,8 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "926看球",
+ {
+      "key": "926",
       "name": "⚽926┃看球",
       "type": 3,
       "api": "csp_kanqiu926",
@@ -408,10 +403,21 @@
       }
     },
     {
-      "key": "88看球",
+      "key": "88",
       "name": "⚽88┃看球",
       "type": 3,
       "api": "csp_Sir88",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "看球",
+      "name": "⚽看球┃直播",
+      "type": 3,
+      "api": "csp_Kanqiu",
       "searchable": 0,
       "changeable": 0,
       "style": {
