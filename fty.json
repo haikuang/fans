@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+  "spider": "./fty.jar;md5;cfc1ba3b4c8f760fe6ecaf93abfa5bfc",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -12,18 +12,18 @@
       "quickSearch": 0,
       "filterable": 0
     },
-{
-"key": "央视大全",
-"name": "🌔央视大全",
-"type": 3,
-"api": "./lib/drpy2.min.js",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"jar": "./lib/微信公众号开心软件.jar",
-"order_num": 0,
-"ext": "./lib/央视大全.js"
-},
+    {
+      "key": "央视大全",
+      "name": "🌔央视大全",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "jar": "./lib/微信公众号开心软件",
+      "ext": "./lib/央视大全.js"
+    },
   {
       "key": "1905",
       "name": "🎦1905｜影视",
@@ -32,7 +32,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./lib/微信公众号开心软件.jar"
+      "jar": "./lib/微信公众号开心软件"
     },
 {
 "key":"csp_AList",
@@ -152,14 +152,6 @@
       "api": "csp_Lkdy"
     },
     {
-      "key": "csp_Lgyy",
-      "name": "️流光┃1080P",
-      "type": 3,
-      "jar": "./lib/0214.jar",
-      "api": "csp_Lgyy"
-    },
-
-    {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
    "type":3,
@@ -230,10 +222,10 @@
       }
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "流光",
+      "name": "💡流光┃秒播",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_Lgyy",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -321,6 +313,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "可可",
@@ -627,10 +629,10 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
-    {
-      "name": "范明明",
+   {
+      "name": "V4聚合",
       "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+      "url": "./lib/tv.m3u",
       "playerType": 1
     },
     {
