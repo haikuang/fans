@@ -152,6 +152,13 @@
       "api": "csp_Lkdy"
     },
     {
+     "key":"csp_Lgyy",
+     "name":"⏳️️流光┃1080P",
+     "type":3,
+     "jar": "./lib/0214.jar",
+     "api":"csp_Lgyy"
+    },
+    {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
    "type":3,
