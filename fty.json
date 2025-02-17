@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;e7f40f74273fa4c916264d3ccba9a50f",
+  "spider": "./fty.jar;md5;1b66f0def8a6e3846860add1b4196cc4",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -123,15 +123,13 @@
       "jar": "./lib/fix250217.jar",
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
-   {
+    {
       "key": "csp_LaoBaiBook",
-      "name": "📚听书┃BOOK",
+      "name": "📚老白┃听书",
       "type": 3,
       "api": "csp_LaoBaiBook",
-      "jar": "./lib/0214.jar",
-      "playerType": 2,
       "searchable": 1,
-      "quickSearch": 0,
+      "jar": "./lib/0126.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -141,7 +139,7 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
-      "jar": "./lib/0214.jar",
+      "jar": "./lib/0126.jar",
       "type": 3,
       "playerType": 2
     },
@@ -150,21 +148,21 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0214.jar",
+      "jar": "./lib/0126.jar",
       "ext": "https://m.wwgz.cn"
     },
     {
       "key": "csp_Lkdy",
       "name": "来看┃1080P",
       "type": 3,
-      "jar": "./lib/0214.jar",
+      "jar": "./lib/0126.jar",
       "api": "csp_Lkdy"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0214.jar",
+     "jar": "./lib/0126.jar",
      "api":"csp_Lgyy"
     },
     {
@@ -176,7 +174,7 @@
    "ext":"./lib/武享吧.js"
     },
 
-    {
+   {
       "key": "YGP",
       "name": "🚀叨观荐影┃预告片",
       "type": 3,
@@ -206,16 +204,6 @@
       "changeable": 1
     },
     {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_Sbaibai",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
       "type": 3,
@@ -238,16 +226,6 @@
       }
     },
     {
-      "key": "流光",
-      "name": "💡流光┃秒播",
-      "type": 3,
-      "api": "csp_Lgyy",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "zxzj",
       "name": "🍊在线┃秒播",
       "type": 3,
@@ -268,14 +246,24 @@
       "changeable": 1
     },
     {
-      "key": "贱贱",
-      "name": "🐭荐片┃P2P",
+      "key": "白白",
+      "name": "🐟白白┃秒播",
       "type": 3,
-      "api": "csp_JPJ",
+      "api": "csp_Sbaibai",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
+    },
+    {
+      "key": "流光",
+      "name": "💡流光┃秒播",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFroJrJ90NH51SB20XsrCj31gJFYOI5njIyE/D76CwGS6vcGeIyX0m1Tx3UzdrENUwPVNMXtSS0BjRKD9A3SMQguo="
     },
     {
       "key": "低端",
@@ -283,6 +271,27 @@
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "港迷",
+      "name": "💯港迷┃粤语",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -331,20 +340,30 @@
       "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     {
-      "key": "文采",
-      "name": "💮文采┃秒播",
+      "key": "可可",
+      "name": "👻可可┃多线",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_Kekys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
     {
-      "key": "可可",
-      "name": "👻可可┃多线",
+      "key": "贱贱",
+      "name": "🐭荐片┃P2P",
       "type": 3,
-      "api": "csp_Kekys",
+      "api": "csp_JPJ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -409,7 +428,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
- {
+    {
       "key": "926",
       "name": "⚽926┃看球",
       "type": 3,
@@ -510,18 +529,6 @@
       "style": {
         "type": "rect",
         "ratio": 3.8
-      }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
       }
     },
     {
@@ -645,7 +652,7 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
-   {
+    {
       "name": "V4聚合",
       "type": 0,
       "url": "./lib/tv.m3u",
