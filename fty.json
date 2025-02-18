@@ -3,7 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆豆",
+      "key": "豆豆",
       "name": "首页┃选电影、电视剧",
       "type": 3,
       "api": "csp_DouDou",
@@ -275,16 +275,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key": "流光",
-      "name": "💡流光┃秒播",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFroJrJ90NH51SB20XsrCj31gJFYOI5njIyE/D76CwGS6vcGeIyX0m1Tx3UzdrENUwPVNMXtSS0BjRKD9A3SMQguo="
     },
     {
       "key": "低端",
