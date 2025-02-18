@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;1b66f0def8a6e3846860add1b4196cc4",
+  "spider": "./fty.jar;md5;0849d9b214667fd4d4af3ddb9c060d74",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -203,6 +203,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
+{
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
+    },
     {
       "key": "糯米",
       "name": "🍓糯米┃秒播",
@@ -255,6 +266,16 @@
       "quickSearch": 1,
       "changeable": 1
     },
+   {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "流光",
       "name": "💡流光┃秒播",
@@ -296,7 +317,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
+     {
       "key": "木星",
       "name": "🌞木星┃多线",
       "type": 3,
@@ -304,7 +325,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+      "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
     },
     {
       "key": "热播",
@@ -349,37 +370,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "贱贱",
-      "name": "🐭荐片┃P2P",
-      "type": 3,
-      "api": "csp_JPJ",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCz",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
-    },
+
     {
       "key": "Auete",
       "name": "🏝奥特┃无广",
@@ -391,6 +382,16 @@
       "changeable": 1,
       "ext": "https://auete.com/"
     },
+    {
+      "key": "贱贱",
+      "name": "🐭荐片┃P2P",
+      "type": 3,
+      "api": "csp_JPJ",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    }
     {
       "key": "新6V",
       "name": "🧲新6V┃磁力",
