@@ -75,7 +75,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
@@ -84,7 +84,7 @@
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
    {
@@ -93,7 +93,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
@@ -102,7 +102,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
     {
@@ -111,7 +111,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
@@ -120,7 +120,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "jar": "./lib/fix250217.jar",
+      "jar": "./lib/fix250220.jar",
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
@@ -129,7 +129,7 @@
       "type": 3,
       "api": "csp_LaoBaiBook",
       "searchable": 1,
-      "jar": "./lib/0126.jar",
+      "jar": "./lib/cs.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -139,7 +139,7 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
-      "jar": "./lib/0126.jar",
+      "jar": "./lib/cs.jar",
       "type": 3,
       "playerType": 2
     },
@@ -148,21 +148,21 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0126.jar",
+      "jar": "./lib/cs.jar",
       "ext": "https://m.wwgz.cn"
     },
     {
       "key": "csp_Lkdy",
       "name": "来看┃1080P",
       "type": 3,
-      "jar": "./lib/0126.jar",
+      "jar": "./lib/cs.jar",
       "api": "csp_Lkdy"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0126.jar",
+     "jar": "./lib/cs.jar",
      "api":"csp_Lgyy"
     },
     {
