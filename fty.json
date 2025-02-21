@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ba35fb2f0e67c77dce39098d79093a8e",
+  "spider": "./fty.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -237,6 +237,16 @@
       }
     },
     {
+      "key": "白白",
+      "name": "🐟白白┃秒播",
+      "type": 3,
+      "api": "csp_Sbaibai",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "zxzj",
       "name": "🍊在线┃秒播",
       "type": 3,
@@ -252,16 +262,6 @@
       "name": "🍄比特┃秒播",
       "type": 3,
       "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_Sbaibai",
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -286,15 +286,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "港迷",
-      "name": "💯港迷┃粤语",
+   {
+      "key": "兄弟",
+      "name": "🍊兄弟┃多线",
       "type": 3,
-      "api": "csp_AppSK",
+      "api": "csp_AppSx",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
     },
     {
       "key": "南瓜",
