@@ -12,9 +12,7 @@ http://rihou.cc:55/lib/kx2024.txt
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 #猫TV•综合
 http://rihou.cc:567/gggg.nzk
-#晴天•综合
-http://rihou.cc:567/qtsd
-#YanG-1989·综合
-https://iptv.b2og.com/txt/y_g.txt
 #讴歌·综合
 https://tv.nxog.top/m//tv/
+#范明明·综合
+https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
