@@ -16,3 +16,5 @@ http://rihou.cc:567/gggg.nzk
 https://tv.nxog.top/m//tv/
 #范明明·综合
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+#小马·综合
+https://szyyds.cn/tv/live/x.txt
