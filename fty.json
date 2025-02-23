@@ -651,7 +651,7 @@
     {
       "name": "LIVE直播",
       "type": 0,
-      "url": "http://rihou.cc:55/lib/kx2024.txt",
+      "url": "http://ttkx.cc:55/lib/kx2024.txt",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",

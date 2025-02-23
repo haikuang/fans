@@ -7,7 +7,7 @@
 以/开头，存储卡的根目录
 
 #天天•综合
-http://rihou.cc:55/lib/kx2024.txt
+http://ttkx.cc:55/lib/kx2024.txt
 #范明明•电台
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 #猫TV•综合
@@ -16,5 +16,5 @@ http://rihou.cc:567/gggg.nzk
 https://tv.nxog.top/m//tv/
 #范明明·综合
 https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-#小马·综合
-https://szyyds.cn/tv/live/x.txt
+#LIVE·综合
+https://epg.pw/test_channels.m3u

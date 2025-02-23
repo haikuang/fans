@@ -68,7 +68,7 @@
       "name": "香雅情"
     },
       {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
       "name": "高天流云JS"
     },
  {
