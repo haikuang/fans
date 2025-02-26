@@ -1,12 +1,12 @@
 {
-  "spider": "./fty.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3",
+  "spider": "./fty.jar;md5;c4701a89448cfd4b3840d57729772b3b",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
       "key": "豆豆",
       "name": "首页┃选电影、电视剧",
       "type": 3,
-      "api": "csp_DouDou",
+      "api": "csp_DouDouGuard",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
@@ -178,7 +178,7 @@
       "key": "YGP",
       "name": "🚀叨观荐影┃预告片",
       "type": 3,
-      "api": "csp_YGP",
+      "api": "csp_YGPGuard",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -187,7 +187,7 @@
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
-      "api": "csp_YCyz",
+      "api": "csp_YCyzGuard",
       "timeout": 15,
       "playerType": 1,
       "searchable": 1,
@@ -198,7 +198,7 @@
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
-      "api": "csp_LiteApple",
+      "api": "csp_LiteAppleGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -207,7 +207,7 @@
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
-      "api": "csp_NewCz",
+      "api": "csp_NewCzGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -218,7 +218,7 @@
       "key": "糯米",
       "name": "🍓糯米┃秒播",
       "type": 3,
-      "api": "csp_Nmyswv",
+      "api": "csp_NmyswvGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -227,7 +227,7 @@
       "key": "Lib",
       "name": "🌟立播┃秒播",
       "type": 3,
-      "api": "csp_Libvio",
+      "api": "csp_LibvioGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -240,7 +240,7 @@
       "key": "白白",
       "name": "🐟白白┃秒播",
       "type": 3,
-      "api": "csp_Sbaibai",
+      "api": "csp_SbaibaiGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -250,7 +250,7 @@
       "key": "神车",
       "name": "🚎神车┃秒播",
       "type": 3,
-      "api": "csp_AppSx",
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -260,7 +260,7 @@
       "key": "zxzj",
       "name": "🍊在线┃秒播",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_ZxzjGuard",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -271,7 +271,7 @@
       "key": "比特",
       "name": "🍄比特┃秒播",
       "type": 3,
-      "api": "csp_Bttwoo",
+      "api": "csp_BttwooGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -280,7 +280,7 @@
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_JpysGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -290,28 +290,17 @@
       "key": "低端",
       "name": "⏮️低端┃外剧",
       "type": 3,
-      "api": "csp_Ddrk",
+      "api": "csp_DdrkGuard",
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-   {
-      "key": "港迷",
-      "name": "💯港迷┃粤语",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
-    },
-
      {
       "key": "木星",
       "name": "🌞木星┃多线",
       "type": 3,
-      "api": "csp_AppSx",
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -321,7 +310,7 @@
       "key": "兄弟",
       "name": "🍊兄弟┃多线",
       "type": 3,
-      "api": "csp_AppSx",
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -331,7 +320,7 @@
       "key": "热播",
       "name": "📺热播┃多线",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_AppTTGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -342,7 +331,7 @@
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_AppTTGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -353,7 +342,7 @@
       "key": "欢视",
       "name": "👓欢视┃多线",
       "type": 3,
-      "api": "csp_AppTT",
+      "api": "csp_AppTTGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -364,7 +353,7 @@
       "key": "可可",
       "name": "👻可可┃多线",
       "type": 3,
-      "api": "csp_Kekys",
+      "api": "csp_KekysGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -375,7 +364,7 @@
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
       "type": 3,
-      "api": "csp_JPJ",
+      "api": "csp_JPJGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -385,7 +374,7 @@
       "key": "新6V",
       "name": "🧲新6V┃磁力",
       "type": 3,
-      "api": "csp_SixV",
+      "api": "csp_SixVGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -395,7 +384,7 @@
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
-      "api": "csp_Dm84",
+      "api": "csp_Dm84Guard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -404,7 +393,7 @@
       "key": "Ysj",
       "name": "🎀异界┃动漫",
       "type": 3,
-      "api": "csp_Ysj",
+      "api": "csp_YsjGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -413,7 +402,7 @@
       "key": "Anime1",
       "name": "🐾日本┃动漫",
       "type": 3,
-      "api": "csp_Anime1",
+      "api": "csp_Anime1Guard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -422,7 +411,7 @@
       "key": "926",
       "name": "⚽926┃看球",
       "type": 3,
-      "api": "csp_kanqiu926",
+      "api": "csp_kanqiu926Guard",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -433,7 +422,7 @@
       "key": "88",
       "name": "⚽88┃看球",
       "type": 3,
-      "api": "csp_Sir88",
+      "api": "csp_Sir88Guard",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -444,7 +433,7 @@
       "key": "看球",
       "name": "⚽看球┃直播",
       "type": 3,
-      "api": "csp_Kanqiu",
+      "api": "csp_KanqiuGuard",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -482,7 +471,7 @@
       "key": "MTV",
       "name": "🎧明星┃MV",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -512,7 +501,7 @@
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
-      "api": "csp_FirstAid",
+      "api": "csp_FirstAidGuard",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -525,7 +514,7 @@
       "key": "Bili",
       "name": "🅱哔哔合集┃弹幕",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -541,7 +530,7 @@
       "key": "Biliych",
       "name": "🅱哔哔演唱会┃弹幕",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -571,7 +560,7 @@
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -587,7 +576,7 @@
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -603,7 +592,7 @@
       "key": "初中课堂",
       "name": "📚初中┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -619,7 +608,7 @@
       "key": "高中教育",
       "name": "📚高中┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
