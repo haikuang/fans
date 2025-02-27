@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;925a350dec8cef32186a919fe28e2fe4",
+  "spider": "./fty.jar;md5;25b32305035f0fbea264f3155436860e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -359,7 +359,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
-
+    {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
+      "type": 3,
+      "api": "csp_AueteGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/"
+    },
     {
       "key": "贱贱",
       "name": "🐭荐片┃P2P",
