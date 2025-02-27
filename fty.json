@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;25b32305035f0fbea264f3155436860e",
+  "spider": "./fty.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -33,6 +33,16 @@
       "quickSearch": 0,
       "filterable": 0,
       "jar": "./lib/ttkx.jar"
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲美剧迷",
+      "type": 3,
+      "jar": "./lib/ttkx.jar"
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
 {
 "key":"csp_AList",
@@ -129,7 +139,7 @@
       "type": 3,
       "api": "csp_LaoBaiBook",
       "searchable": 1,
-      "jar": "./lib/0226.jar",
+      "jar": "./lib/02027.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -139,7 +149,7 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_Xlys",
-      "jar": "./lib/0226.jar",
+      "jar": "./lib/02027.jar",
       "type": 3,
       "playerType": 2
     },
@@ -148,21 +158,21 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0226.jar",
+      "jar": "./lib/02027.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
       "key": "csp_Lkdy",
       "name": "来看┃1080P",
       "type": 3,
-      "jar": "./lib/0226.jar",
+      "jar": "./lib/02027.jar",
       "api": "csp_Lkdy"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0226.jar",
+     "jar": "./lib/02027.jar",
      "api":"csp_Lgyy"
     },
     {
@@ -173,7 +183,21 @@
    "changeable":0,
    "ext":"./lib/武享吧.js"
     },
-
+   {
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
    {
       "key": "YGP",
       "name": "🚀叨观荐影┃预告片",
@@ -182,6 +206,20 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "pturl": "http://mo.muouso.fun/|http://149.88.87.72:5666/|http://54271.fun/"
+      }
     },
     {
       "key": "原创",
@@ -634,7 +672,7 @@
   "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
-      "name": "牛播一（仅新版影视仓/ok影视）",
+      "name": "牛播一（仅新版影视仓┃ok影视）",
       "type": 0,
       "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
       "playerType": 1,
@@ -642,7 +680,7 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "V4聚合",
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
       "url": "./lib/tv.m3u",
       "playerType": 1

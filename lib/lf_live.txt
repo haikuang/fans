@@ -15,4 +15,4 @@ http://rihou.cc:567/gggg.nzk
 #讴歌·综合
 https://tv.nxog.top/m//tv/
 #范明明·综合
-https://fanmingming.com/txt?url=https://live.fanmingming.cn/tv/m3u/ipv6.m3u
+https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
