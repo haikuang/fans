@@ -38,7 +38,7 @@
       "key": "csp_MeijuMi",
       "name": "🧲美剧迷",
       "type": 3,
-      "jar": "./lib/ttkx.jar"
+      "jar": "./lib/ttkx.jar",
       "api": "csp_MeijuMi",
       "searchable": 1,
       "quickSearch": 1,
