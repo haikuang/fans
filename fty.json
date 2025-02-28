@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
+  "spider": "./fty.jar;md5;d120ab9d895e9b465616b544ea5a3878",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -137,9 +137,9 @@
       "key": "csp_LaoBaiBook",
       "name": "📚老白┃听书",
       "type": 3,
-      "api": "csp_LaoBaiBook",
+      "api": "csp_LaoBaiBookGuard",
       "searchable": 1,
-      "jar": "./lib/02027.jar",
+      "jar": "./lib/0228JG1.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -148,8 +148,8 @@
     {
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
-      "api": "csp_Xlys",
-      "jar": "./lib/02027.jar",
+      "api": "csp_XlysGuard",
+      "jar": "./lib/0228JG1.jar",
       "type": 3,
       "playerType": 2
     },
@@ -158,22 +158,22 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/02027.jar",
+      "jar": "./lib/0228JG1.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
       "key": "csp_Lkdy",
       "name": "来看┃1080P",
       "type": 3,
-      "jar": "./lib/02027.jar",
-      "api": "csp_Lkdy"
+      "jar": "./lib/0228JG1.jar",
+      "api": "csp_LkdyGuard"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/02027.jar",
-     "api":"csp_Lgyy"
+     "jar": "./lib/0228JG1.jar",
+      "api": "csp_LgyyGuard"
     },
     {
    "key":"drpy_js_武享吧",
