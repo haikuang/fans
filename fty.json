@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
+  "spider": "./fty.jar;md5;efbaf2ca30df17927e5ffc7604cd31d4",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -43,6 +43,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "88看球",
+      "name": "⚽88┃看球",
+      "type": 3,
+      "jar": "./lib/ttkx.jar",
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10
     },
 {
 "key":"csp_AList",
@@ -162,31 +175,11 @@
       "ext": "https://www.wwgz.cn"
     },
     {
-      "key": "csp_Lkdy",
-      "name": "来看┃1080P",
-      "type": 3,
-      "jar": "./lib/0228JG1.jar",
-      "api": "csp_LkdyGuard"
-    },
-    {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
      "jar": "./lib/0228JG1.jar",
       "api": "csp_LgyyGuard"
-    },
-    {
-      "key": "88看球",
-      "name": "🏀看球┃直播",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-     "jar": "./lib/0228JG1.jar",
-      "ext": "./lib/kanqiu.js"
     },
     {
    "key":"drpy_js_武享吧",
