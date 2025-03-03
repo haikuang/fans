@@ -194,7 +194,7 @@
    "name":"闪雷┃MP4",
    "type":3,
    "api":"./lib/drpy2.min.js",
-    "jar": "./lib//fan.txt;md5;925a350dec8cef32186a919fe28e2fe4",
+    "jar": "./lib/fan.txt;md5;925a350dec8cef32186a919fe28e2fe4",
    "ext":"./lib/678.js"
    },
 
