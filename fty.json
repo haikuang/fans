@@ -189,6 +189,13 @@
    "changeable":0,
    "ext":"./lib/武享吧.js"
     },
+    {
+   "key":"闪雷",
+   "name":"闪雷┃MP4",
+   "type":3,
+   "api":"./lib/drpy2.min.js",
+   "ext":"./lib/678.js"
+   },
    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
