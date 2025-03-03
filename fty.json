@@ -194,7 +194,22 @@
    "name":"闪雷┃MP4",
    "type":3,
    "api":"./lib/drpy2.min.js",
+    "jar": "./lib//fan.txt;md5;925a350dec8cef32186a919fe28e2fe4"
    "ext":"./lib/678.js"
+   },
+
+   {
+   "key": "🌟客星",
+   "name": "🌟客星|1080P",
+   "type": 3,
+   "api": "csp_Xdai",
+   "searchable":1,
+   "quickSearch":1,
+   "changeable":1,
+   "order_num": 0,
+   "playerType": 2,
+   "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+   "jar": "./lib/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
    },
    {
       "key": "玩偶",
