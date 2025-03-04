@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;56d69deee45f5be9e68c7d393a749c79",
+  "spider": "./fty.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -98,7 +98,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
     },
     {
@@ -107,7 +107,7 @@
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
     },
    {
@@ -116,7 +116,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
     },
     {
@@ -125,7 +125,7 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA=="
     },
     {
@@ -134,7 +134,7 @@
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
     },
     {
@@ -143,7 +143,7 @@
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
-      "jar": "./lib/fix250303.ja",
+      "jar": "./lib/fix250304.jar",
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
@@ -214,7 +214,7 @@
    "name":"闪雷┃MP4",
    "type":3,
    "api":"./lib/drpy2.min.js",
-    "jar": "./lib/fan.txt;md5;925a350dec8cef32186a919fe28e2fe4",
+    "jar": "./lib/fan.txt",
    "ext":"./lib/678.js"
    },
 
@@ -229,7 +229,7 @@
    "order_num": 0,
    "playerType": 2,
    "ext": "caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-   "jar": "./lib/qj.jar;md5;68959abc51dbfcba14fb08d537dbf230"
+   "jar": "./lib/qj.jar"
    },
    {
       "key": "玩偶",
