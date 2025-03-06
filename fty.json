@@ -152,7 +152,7 @@
       "type": 3,
       "api": "csp_LaoBaiBookGuard",
       "searchable": 1,
-      "jar": "./lib/03033.jar",
+      "jar": "./lib/0306.jar",
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -162,7 +162,7 @@
       "key": "csp_Xlys",
       "name": "🍤哔嘀┃1080P",
       "api": "csp_XlysGuard",
-      "jar": "./lib/03033.jar",
+      "jar": "./lib/0306.jar",
       "type": 3,
       "playerType": 2
     },
@@ -171,15 +171,15 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/03033.jar",
+      "jar": "./lib/0306.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/03033.jar",
-      "api": "csp_LgyyGuard"
+     "jar": "./lib/0306.jar",
+      "api": "csp_FreeOkGuard"
     },
     {
       "key": "悠悠",
