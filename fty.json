@@ -58,15 +58,16 @@
       "timeout": 10
     },
     {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./lib/alist.json"
-    },
-
+    "key":"csp_AList",
+    "name":"AList┃网盘",
+    "type":"3",
+    "api":"csp_AList",
+    "searchable":"0",
+    "quickSearch":"0",
+    "filterable":"1",
+    "changeable":0,
+    "ext":"./lib/alist.json"
+  },
 {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
