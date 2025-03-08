@@ -69,8 +69,6 @@
      "jar":"./lib/fan.txt;md5;d271c32f94a78064aa1506b8dd732015",
      "ext":"./lib/alist.json"
     },
-{"key":"drpy_js_武享吧","name":"格斗 | 武享吧[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./lib/武享吧.js"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./lib/alist.json"},
    {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
