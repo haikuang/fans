@@ -57,7 +57,7 @@
       },
       "timeout": 10
     },
-    {
+     {
     "key":"csp_AList",
     "name":"AList┃网盘",
     "type":"3",
@@ -66,9 +66,10 @@
     "quickSearch":"0",
     "filterable":"1",
     "changeable":0,
-    "ext":"./lib/alist.json"
-  },
-{
+     "jar":"./lib/fan.txt;md5;d271c32f94a78064aa1506b8dd732015",
+     "ext":"./lib/alist.json"
+    },
+   {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
      "type":3,
@@ -80,7 +81,6 @@
      "filterable":1,
      "ext":"./lib/lf_live.txt"
 },
-
 {
 "key":"drpy_js_博看听书",
 "name":"听书┃博看",
@@ -208,15 +208,6 @@
    "changeable":0,
    "ext":"./lib/武享吧.js"
     },
-    {
-   "key":"闪雷",
-   "name":"闪雷┃MP4",
-   "type":3,
-   "api":"./lib/drpy2.min.js",
-    "jar": "./lib/fan.txt",
-   "ext":"./lib/678.js"
-   },
-
    {
    "key": "🌟客星",
    "name": "🌟客星|1080P",
