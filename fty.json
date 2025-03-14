@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
+  "spider": "./fty.jar;md5;8ad692765d808a238dce3ed344c24116",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -10,7 +10,7 @@
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0
     },
     {
       "key": "央视大全",
@@ -146,38 +146,18 @@
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
-      "key": "csp_LaoBaiBook",
-      "name": "📚老白┃听书",
-      "type": 3,
-      "api": "csp_LaoBaiBookGuard",
-      "searchable": 1,
-      "jar": "./lib/0306.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-    {
-      "key": "csp_Xlys",
-      "name": "🍤哔嘀┃1080P",
-      "api": "csp_XlysGuard",
-      "jar": "./lib/0306.jar",
-      "type": 3,
-      "playerType": 2
-    },
-    {
       "key": "csp_Wwys",
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0306.jar",
+      "jar": "./lib/0316.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0306.jar",
+     "jar": "./lib/0316.jar",
       "api": "csp_FreeOkGuard"
     },
     {
@@ -187,7 +167,7 @@
       "api": "csp_Muou",
       "playerType": 2,
       "quickSearch": 1,
-      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS44",
+      "ext": "caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA==",
       "jar": "./lib/0303.jar"
     },
     {
@@ -263,8 +243,7 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
+        "from": "4k|auto"
       }
     },
     {
@@ -338,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
+      "ext": "rfOX1voDIQhH8epBwpmIsuSzrWqbloq80ygmO9WjCB9RMwhf/nZ7r/EzcL5d1Nw67mKKK4Je"
     },
     {
       "key": "zxzj",
@@ -350,6 +329,16 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzjhd.com/"
+    },
+   {
+      "key": "溢彩",
+      "name": "💡溢彩┃秒播",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
     },
     {
       "key": "比特",
@@ -380,16 +369,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-     {
-      "key": "木星",
-      "name": "🌞木星┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
-    },
     {
       "key": "兄弟",
       "name": "🍊兄弟┃多线",
@@ -398,7 +377,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdBHCJkQSzBQt+vmhxkUAtbepC6RjQjA6r70U2OrZ3mJyX4hh2AsXS8mTp9pKB8="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPP18283TImLpLgExtYZQQN4zdk5+Noc/Eej5B9p2CFZsBC2H4u6nl5FPAqUtc="
+    },
+    {
+      "key": "火星",
+      "name": "🌞火星┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSlujLK3srq3iIoaYP8Hh5fZE0d4nF48/dsb7YNi44z/yjNcsFajjBz6XJtDuw2FdqR/a6UV3ywWevO"
     },
     {
       "key": "热播",
@@ -409,7 +398,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+      "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
       "key": "萌米",
@@ -420,7 +409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg=="
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
     },
     {
       "key": "欢视",
@@ -431,17 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
-    },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_KekysGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
     {
       "key": "奥特",
