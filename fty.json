@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
+  "spider": "./fty.jar;md5;a0e22e79a8fed34ecb3b1f09399f4f50",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -220,7 +220,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
+        "siteUrl": "https://www.wogg.one/",
         "danMu": "弹"
       }
     },
@@ -265,17 +265,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-{
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "糯米",
@@ -339,6 +328,17 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+    },
+    {
+      "key": "厂长",
+      "name": "📔厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCzGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "比特",
