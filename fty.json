@@ -146,18 +146,27 @@
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
     {
+      "key": "听书",
+      "name": "📚听书┃BOOK",
+      "type": 3,
+      "api": "csp_TingBookGuard",
+      "searchable": 1,
+      "jar": "./lib/0319.jar",
+      "ext": "http://www.6yueting.com"
+    },
+    {
       "key": "csp_Wwys",
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0316.jar",
+      "jar": "./lib/0319.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0316.jar",
+     "jar": "./lib/0319.jar",
       "api": "csp_FreeOkGuard"
     },
     {
@@ -171,14 +180,11 @@
       "jar": "./lib/0303.jar"
     },
     {
-      "key": "追忆",
-      "name": "🦔追忆┃1080P",
+      "key": "csp_SAOHUO",
+      "name": "🔥火火┃1080P",
       "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "quickSearch": 1,
-      "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44",
-      "jar": "./lib/0303.jar"
+      "jar": "./lib/0319.jar",
+      "api": "csp_SaoHuoGuard"
     },
     {
    "key":"drpy_js_武享吧",
