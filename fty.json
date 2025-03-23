@@ -151,7 +151,7 @@
       "type": 3,
       "api": "csp_TingBookGuard",
       "searchable": 1,
-      "jar": "./lib/0319.jar",
+      "jar": "./lib/0322.jar",
       "ext": "http://www.6yueting.com"
     },
     {
@@ -159,21 +159,21 @@
       "name": "农民┃1080P",
       "type": 3,
       "api": "csp_Wwys",
-      "jar": "./lib/0319.jar",
+      "jar": "./lib/0322.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
      "key":"csp_Lgyy",
      "name":"⏳️️流光┃1080P",
      "type":3,
-     "jar": "./lib/0319.jar",
+     "jar": "./lib/0322.jar",
       "api": "csp_FreeOkGuard"
     },
     {
       "key": "csp_SAOHUO",
       "name": "🔥火火┃1080P",
       "type": 3,
-      "jar": "./lib/0319.jar",
+      "jar": "./lib/0322.jar",
       "api": "csp_SaoHuoGuard"
     },
  {
@@ -183,7 +183,7 @@
       "changeable": "0",
       "api": "csp_DuopanGuard",
       "filterable": 1,
-      "jar": "./lib/0319.jar",
+      "jar": "./lib/0322.jar",
       "ext": {
         "site_urls": [
           "https://mihdr.top",
