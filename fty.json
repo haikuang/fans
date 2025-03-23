@@ -45,6 +45,16 @@
       "filterable": 1
     },
     {
+      "key": "瓜子",
+      "name": "🎦瓜子｜影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "./lib/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "88看球",
       "name": "⚽88┃看球",
       "type": 3,
@@ -145,16 +155,7 @@
       "jar": "./lib/fix250304.jar",
       "ext": "caHR0cHM6Ly9tdW91Lmxpbmd1dHYuY2586L+95Ymn5b2x6ZmifDQuMS44"
     },
-    {
-      "key": "瓜子",
-      "name": "🎦瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./lib/fix250304.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "听书",
       "name": "📚听书┃BOOK",
