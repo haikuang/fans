@@ -100,7 +100,15 @@
 "style":{"type":"rect","ratio":1},
 "ext":"./lib/博看听书.js"
 },
-
+    {
+      "key": "巧技",
+      "name": "巧技┃专线",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "./lib/fix250304.jar",
+      "ext": "./lib/cksp.txt"
+    },
     {
       "key": "天天",
       "name": "天天┃App",
