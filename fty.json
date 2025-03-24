@@ -195,32 +195,6 @@
       "jar": "./lib/0322.jar",
       "api": "csp_SaoHuoGuard"
     },
- {
-      "key": "csp_Netfixtv",
-      "name": "💌至臻┃4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_DuopanGuard",
-      "filterable": 1,
-      "jar": "./lib/0322.jar",
-      "ext": {
-        "site_urls": [
-          "https://mihdr.top",
-          "http://www.miqk.cc",
-          "http://www.xhww.net",
-          "http://xhww.net",
-          "https://xiaomiai.site"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 400,
-          "threads": 12
-        }
-      }
-    },
     {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
