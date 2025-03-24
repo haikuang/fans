@@ -233,7 +233,7 @@
       "key": "MV大全",
       "name": "💽MV大全",
       "type": 4,
-      "jar": "./lib/分享者0.zip",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
       "api": "http://120.53.102.254/dsp/",
       "searchable": 1,
       "quickSearch": 1,
