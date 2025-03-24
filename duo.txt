@@ -75,6 +75,10 @@
       "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "菜妮丝线"
     },
+ {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "name": "分享者"
+    },
   {
       "url": "https://box.iqinu.com",
       "name": " 龙门影视"
