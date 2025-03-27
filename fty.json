@@ -21,8 +21,8 @@
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
-      "jar": "./lib/ttkx.jar",
-      "ext": "./lib/央视大全.js"
+      "jar": "./lib/ttkx.jar"
+      "ext": "./lib/js/央视大全.js"
     },
   {
       "key": "1905",
