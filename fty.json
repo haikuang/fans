@@ -45,6 +45,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "jar": "./lib/ttkx.jar",
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "瓜子",
       "name": "🎦瓜子｜影视",
       "type": 3,
