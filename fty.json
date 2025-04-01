@@ -221,15 +221,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Iktv",
-      "name": "🎤KTV┃音乐🎤",
-      "type": 3,
-      "jar": "./lib/wex.txt",
-      "api": "csp_WexIktvGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
