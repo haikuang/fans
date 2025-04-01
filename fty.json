@@ -45,16 +45,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_SeedHub",
-      "name": "🧲SeedHub",
-      "type": 3,
-      "jar": "./lib/ttkx.jar",
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "瓜子",
       "name": "🎦瓜子｜影视",
       "type": 3,
@@ -180,7 +170,7 @@
       "type": 3,
       "api": "csp_TingBookGuard",
       "searchable": 1,
-      "jar": "./lib/0327.jar",
+      "jar": "./lib/0331.jar",
       "ext": "http://www.6yueting.com"
     },
     {
@@ -188,21 +178,21 @@
       "name": "👨农民┃1080P",
       "type": 3,
       "api": "csp_WwysGuard",
-      "jar": "./lib/0327.jar",
+      "jar": "./lib/0331.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
       "key": "csp_Lgyy",
       "name": "⏳️️流光┃1080P",
       "type": 3,
-     "jar": "./lib/0327.jar",
+     "jar": "./lib/0331.jar",
       "api": "csp_FreeOkGuard"
     },
     {
       "key": "csp_SAOHUO",
       "name": "🔥火火┃1080P",
       "type": 3,
-      "jar": "./lib/0327.jar",
+      "jar": "./lib/0331.jar",
       "api": "csp_SaoHuoGuard"
     },
     {
@@ -230,6 +220,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "Iktv",
+      "name": "🎤KTV┃音乐🎤",
+      "type": 3,
+      "jar": "./lib/wex.txt",
+      "api": "csp_WexIktvGuard",
+      "searchable": 1,
+      "changeable": 0
     },
    {
       "key": "玩偶",
