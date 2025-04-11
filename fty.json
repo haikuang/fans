@@ -148,6 +148,15 @@
       "jar": "./lib/fix250411.jar",
       "ext": "7lj763gg402i79425l279ijih4128l9ig8lh9h0h9gi62h24504217liki13141i1k9g5igkj6429h946408gl8lgh"
     },
+    {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "./lib/fix250411.jar",
+      "ext": "7lj763gg402i79425j2893i0h14i8596k6h1i75gj4i76g791i4602g9g8410i5642j951h5814192943219g99glhh319l7k02k6046l0gkigki2l842jk363gl5453l1l2jhl3g02l3k798l4h3j4582lh4g7l61hgll7776h096h0j4jh7k"
+    },
    {
       "key": "追剧",
       "name": "追剧┃App",
@@ -201,14 +210,6 @@
       "jar": "./lib/0408.jar",
       "quickSearch": 1,
       "api": "csp_SaoHuoGuard"
-    },
-    {
-      "key": "人人",
-      "name": "⛄️人人┃1080P",
-      "type": 3,
-      "jar": "./lib/0408.jar",
-      "api": "csp_AppGetGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn5lWAFk63MKp99BaRaCwGwVoPMXpUrRhJupGqVQN8zzRhc0PCuL4mVzuh+KN84Fro7WINX8x2KJlpNKTLBLPlTuVfsg1mblMWUa4ZqZVqz8bk6MbJPrt3r0jg7nCMVsUaeYm/CFBu4z4N5c4sNExHQ44DdF44W2s6KWUWZpSkfRb2WJdy5v0GcpIoQuxWUsh9EnK9D3N3m64NCPyEyiwAVg="
     },
     {
    "key":"drpy_js_武享吧",
