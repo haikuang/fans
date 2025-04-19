@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;7472da5d5d66556654e08770042564ab",
+  "spider": "./fty.jar;md5;44e99542b9a58cfdf064c595268980fb",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -137,7 +137,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "👨农民┃1080P",
+      "name": "农民┃1080P",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_WwysGuard",
@@ -162,7 +162,7 @@
    },
     {
       "key": "MV大全",
-      "name": "💽MV大全",
+      "name": "MV┃大全",
       "type": 4,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
       "api": "http://120.53.102.254/dsp/",
@@ -172,7 +172,7 @@
     },
     {
       "key": "py_jieyingshi",
-      "name": "分享影界",
+      "name": "分享┃影界",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
       "api": "./lib/py_jieyingshi.py",
@@ -180,6 +180,29 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
+    },
+    {
+      "key": "专线",
+      "name": "分享┃专线",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
+      "api": "csp_FourKTV",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./lib/分享者专线.jar"
+    },
+    {
+      "key": "csp_ipianba",
+      "name": "分享┃片吧",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4"
+      }
     },
     {
       "key": "玩偶",
