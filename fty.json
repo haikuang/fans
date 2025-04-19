@@ -194,17 +194,6 @@
       "jar": "./lib/分享者专线.jar"
     },
     {
-      "key": "csp_ipianba",
-      "name": "分享┃片吧",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar",
-      "api": "csp_XBPQ",
-      "ext": {
-        "分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
-        "分类": "电影$1#剧集$2#动漫$3#综艺$4"
-      }
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
