@@ -132,7 +132,7 @@
       "type": 3,
       "api": "csp_TingBookGuard",
       "searchable": 1,
-      "jar": "./lib/0416.jar",
+      "jar": "./lib/0421.jar",
       "ext": "http://www.6yueting.com"
     },
     {
@@ -141,7 +141,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_WwysGuard",
-      "jar": "./lib/0416.jar",
+      "jar": "./lib/0421.jar",
       "ext": "https://www.wwgz.cn"
     },
     {
