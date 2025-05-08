@@ -107,16 +107,6 @@
 "ext":{"url":"http://tt.ysdqjs.cn"}
 },
 {
-"key":"瓜子影视",
-"name":"瓜子｜影视",
-"type":3,
- "jar": "./lib/jar.php",
-"api":"csp_Gz360",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
-{
 "key":"剧迷",
 "name":"美剧迷┃磁力",
 "type":3,
@@ -130,9 +120,9 @@
       "key": "听书",
       "name": "📚听书┃BOOK",
       "type": 3,
-      "api": "csp_TingBookGuard",
+      "api": "csp_TingBook",
       "searchable": 1,
-      "jar": "./lib/0426.jar",
+      "jar": "./lib/mi0508.txt",
       "ext": "http://www.6yueting.com"
     },
     {
@@ -140,9 +130,17 @@
       "name": "农民┃1080P",
       "type": 3,
       "quickSearch": 1,
-      "api": "csp_WwysGuard",
-      "jar": "./lib/0426.jar",
+      "api": "csp_Wwys",
+      "jar": "./lib/mi0508.txt",
       "ext": "https://www.wwgz.cn"
+    },
+    {
+      "key": "csp_Gz360",
+      "name": "🍉瓜子┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "./lib/mi0508.txt",
+      "api": "csp_Gz360"
     },
     {
    "key":"drpy_js_武享吧",
