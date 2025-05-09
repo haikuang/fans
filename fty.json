@@ -24,16 +24,6 @@
       "jar": "./lib/ttkx.jar",
       "ext": "./lib/央视大全.js"
     },
-  {
-      "key": "1905",
-      "name": "🎦1905｜影视",
-      "type": 3,
-      "api": "csp_Web1905",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "./lib/ttkx.jar"
-    },
     {
       "key": "AList",
       "name": "🅰AList",
@@ -43,6 +33,20 @@
       "changeable": 0,
       "jar": "./lib/Yoursmile.jar",
       "ext": "./lib/alist.json"
+    },
+    {
+      "key": "csp_Kanqiu",
+      "name": "⚾看球",
+      "type": 3,
+      "jar": "./lib/Yoursmile.jar",
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "csp_Czsapp",
@@ -55,6 +59,37 @@
       "filterable": 1,
       "jar": "./lib/Yoursmile.jar",
       "ext": "https://www.czzymovie.com/"
+    },
+    {
+      "key": "csp_Mp4Mov",
+      "name": "🧲Mp4电影",
+      "type": 3,
+      "jar": "./lib/Yoursmile.jar",
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xlmp4.com"
+    },
+    {
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "jar": "./lib/Yoursmile.jar",
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_DyGod",
+      "name": "🧲电影天堂",
+      "type": 3,
+      "jar": "./lib/Yoursmile.jar",
+      "api": "csp_DyGod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_BLSGod",
@@ -86,15 +121,6 @@
 "changeable":0,
 "style":{"type":"rect","ratio":1},
 "ext":"./lib/博看听书.js"
-},
-{
-"key":"88看球",
-"name":"⚽88｜看球",
-"type":3,
-"api":"./lib/drpy2.min.js",
-"style":{"type":"list"},
- "jar": "./lib/jar.php",
-"ext":"./lib/88看球.js"
 },
 {
 "key":"天天影视",
@@ -143,6 +169,16 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1
+    },
+   {
+    "key":"1905",
+    "name":"💡1905｜影视",
+    "type":3,
+     "jar": "./lib/jar.php",
+    "api":"csp_Web1905",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":0
     },
     {
    "key":"drpy_js_武享吧",
