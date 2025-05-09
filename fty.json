@@ -82,16 +82,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_DyGod",
-      "name": "🧲电影天堂",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar",
-      "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_BLSGod",
       "name": "🧲80S影视",
       "type": 3,
