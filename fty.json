@@ -208,15 +208,6 @@
       "jar": "./lib/分享者专线.jar"
     },
     {
-      "key": "趣看",
-      "name": "趣看┃App",
-      "type": 3,
-      "api": "csp_Muou",
-      "playerType": 2,
-      "jar": "./lib/fix250524.jar",
-      "ext": "7lj763gg402i7942463j9j9jg1499j87l9g9i413il8gqiaoji20g7g4919j3g019296lk9351hh3k5gg38lj0754il3jg"
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
