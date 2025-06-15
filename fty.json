@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;677399a8a27a64506b814ed92ee7acbe",
+  "spider": "./fty.jar;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -137,6 +137,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
+     "jar": "./lib/jar.php",
      "ext":"./lib/nmys.json"
      }, 
 
@@ -227,6 +228,24 @@
       "jar": "./lib/分享者专线.jar"
     },
     {
+      "key": "雨滴",
+      "name": "雨滴┃App",
+      "type": 3,
+      "api": "csp_Shark",
+      "playerType": 2,
+      "jar": "./lib/fix250611.jar",
+      "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8824hjj902309g182l7kl0hk3l4776346lihki7kl3kj425kl3jk31j0kggkhj0g7l5632376984k395496k449626gh0k66l26k7j6h49j9331h9701k106i"
+    },
+    {
+      "key": "优质",
+      "name": "优质┃App",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "./lib/fix250611.jar",
+      "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
+    },
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -292,7 +311,7 @@
       "name": "🐟白白┃秒播",
       "type": 3,
       "api": "csp_SbaibaiGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -303,7 +322,7 @@
       "name": "☀原创┃不卡",
       "type": 3,
       "api": "csp_YCyzGuard",
-      "timeout": 10,
+      "timeout": 30,
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
@@ -314,7 +333,7 @@
       "name": "🍎苹果┃不卡",
       "type": 3,
       "api": "csp_LiteAppleGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -324,7 +343,7 @@
       "name": "🍓糯米┃秒播",
       "type": 3,
       "api": "csp_NmyswvGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -334,7 +353,7 @@
       "name": "💮文采┃秒播",
       "type": 3,
       "api": "csp_JpysGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -345,7 +364,7 @@
       "name": "💡溢彩┃秒播",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -356,7 +375,7 @@
       "name": "🌟立播┃秒播",
       "type": 3,
       "api": "csp_LibvioGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -370,7 +389,7 @@
       "name": "🍊在线┃秒播",
       "type": 3,
       "api": "csp_ZxzjGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -381,7 +400,7 @@
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -392,7 +411,7 @@
       "name": "🍄比特┃手机",
       "type": 3,
       "api": "csp_BttwooGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -402,7 +421,7 @@
       "name": "⏮️低端┃外剧",
       "type": 3,
       "api": "csp_DdrkGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
@@ -413,7 +432,7 @@
       "name": "👀萌米┃多线",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -425,7 +444,7 @@
       "name": "📺热播┃多线",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -437,7 +456,7 @@
       "name": "🍊水星┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -448,7 +467,7 @@
       "name": "🐻即看┃多线",
       "type": 3,
       "api": "csp_AppSxGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
@@ -459,7 +478,7 @@
       "name": "👓欢视┃多线",
       "type": 3,
       "api": "csp_AppTTGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -471,7 +490,7 @@
       "name": "🏝奥特┃多线",
       "type": 3,
       "api": "csp_AueteGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -482,7 +501,7 @@
       "name": "🐭荐片┃P2P",
       "type": 3,
       "api": "csp_JPJGuard",
-      "timeout": 10,
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -493,7 +512,7 @@
       "name": "🧲新6V┃磁力",
       "type": 3,
       "api": "csp_SixVGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -504,7 +523,7 @@
       "name": "🚌巴士┃动漫",
       "type": 3,
       "api": "csp_Dm84Guard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -514,7 +533,7 @@
       "name": "🎀异界┃动漫",
       "type": 3,
       "api": "csp_YsjGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -524,7 +543,7 @@
       "name": "🐾日本┃动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -534,7 +553,7 @@
       "name": "⚽926┃看球",
       "type": 3,
       "api": "csp_kanqiu926Guard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -546,7 +565,7 @@
       "name": "⚽88┃看球",
       "type": 3,
       "api": "csp_Sir88Guard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -558,7 +577,7 @@
       "name": "⚽看球┃直播",
       "type": 3,
       "api": "csp_KanqiuGuard",
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -591,7 +610,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "timeout": 10,
+      "timeout": 15,
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
@@ -607,7 +626,7 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "timeout": 10,
+      "timeout": 15,
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
@@ -623,7 +642,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "timeout": 10,
+      "timeout": 15,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -859,14 +878,6 @@
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
     {
-      "name": "V4肥羊",
-      "type": 0,
-      "url": "./lib/juhe_42636_b9e159834f.txt",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png"
-    },
-    {
       "name": "V6范明明（需开启V6网络）",
       "type": 0,
       "url": "./lib/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
@@ -881,9 +892,9 @@
       "logo": "https://epg.v1.mk/logo/{name}.png"
     },
     {
-      "name": "央视卫视",
+      "name": "V4聚合（卡顿请按左┃右键换线）",
       "type": 0,
-      "url": "./TV01.txt",
+      "url": "./lib/tv.m3u",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.v1.mk/logo/{name}.png"
