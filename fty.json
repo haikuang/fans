@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+  "spider": "./fty.jar;md5;9b4406d5c1de4d695db13d5f771a835a",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -169,7 +169,7 @@
     "jar": "./lib/jar.php",
    "ext":{"url":"https://app.ystva.com","dataKey":"A1akVPQmnnE4Fz9Z","dataIv":"A1akVPQmnnE4Fz9Z","deviceId":"2112fc5eac600314ba95c4d65da9286b3","version":"134"}
    },
-    {
+   {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
    "type":3,
