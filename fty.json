@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;e7c6b481d880ce98ced16bd11d936e71",
+  "spider": "./fty.jar;md5;e875d5382573fcd72aea4c5da44637fe",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -207,7 +207,7 @@
       "type": 3,
       "api": "csp_Shark",
       "playerType": 2,
-      "jar": "./lib/fix250611.jar",
+      "jar": "./lib/fix250711.jar",
       "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8824hjj902309g182l7kl0hk3l4776346lihki7kl3kj425kl3jk31j0kggkhj0g7l5632376984k395496k449626gh0k66l26k7j6h49j9331h9701k106i"
     },
     {
@@ -216,8 +216,17 @@
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 2,
-      "jar": "./lib/fix250611.jar",
+      "jar": "./lib/fix250711.jar",
       "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
+    },
+    {
+      "key": "专业",
+      "name": "专业┃APP",
+      "type": 3,
+      "api": "csp_Shark",
+      "playerType": 1,
+      "jar": "./lib/fix250711.jar",
+      "ext": "7lj763gg0939795i007gi487k212jhjig3lh9g079jj16g774k401gk0kg135l190i8k45hh94418hj52301kiijg3h248lhk265774gk5hiiil0238439k06kg95541k6l6i3g3kk6l3g60875g245491l4"
     },
     {
       "key": "玩偶",

@@ -10,9 +10,10 @@
       "name": "饭太硬"
     },
     {
-      "url": "http://pandown.pro/tvbox/tvbox.json",
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": " 巧技"
     },
+
   {
       "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": " 老刘备"
