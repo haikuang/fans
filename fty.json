@@ -71,6 +71,16 @@
       "filterable": 1
     },
     {
+      "key": "csp_DyGod",
+      "name": "🧲电影天堂",
+      "type": 3,
+      "jar": "./lib/Yoursmile.jar",
+      "api": "csp_DyGod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_BLSGod",
       "name": "🧲80S影视",
       "type": 3,
@@ -200,6 +210,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "jar": "./lib/分享者专线.jar"
+    },
+    {
+      "key": "臻彩天堂",
+      "name": "💝分享天堂",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "ext": "http://cmstt.lfytv.cn/api.php/app/"
     },
     {
       "key": "雨滴",
