@@ -212,17 +212,6 @@
       "jar": "./lib/分享者专线.jar"
     },
     {
-      "key": "臻彩天堂",
-      "name": "💝分享天堂",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "ext": "http://cmstt.lfytv.cn/api.php/app/"
-    },
-    {
       "key": "雨滴",
       "name": "雨滴┃App",
       "type": 3,
