@@ -162,6 +162,14 @@
     "quickSearch":0,
     "filterable":0
     },
+  {"key":"哔滴",
+   "name":"👑哔滴｜弹幕",
+    "type":3,
+    "quickSearch":1,
+    "api":"csp_AppGet2",
+     "jar": "./lib/jar.php",
+    "ext":{"url":"","site":"./lib/ip.json","dataKey":"5ae8ee4bb95ea0ce","dataIv":"5ae8ee4bb95ea0ce","deviceId":"","version":"120"}
+    },
    {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
