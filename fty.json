@@ -131,8 +131,8 @@
 "quickSearch":1,
 "filterable":1
 },
-
-    {"key":"csp_nongmin",
+   {
+   "key":"csp_nongmin",
     "name":"💡农民｜影视",
     "type":3,
     "api":"csp_Wwys",
@@ -142,6 +142,18 @@
      "jar": "./lib/jar.php",
     "ext":"https://wwgz.cn/"
      },
+   {
+    "key":"农民影视",
+    "name":"🧿农民｜影视",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+     "jar": "./lib/jar.php",
+    "ext":"./lib/nmys.json"
+    }, 
+
    {
      "key":"瓜子影视",
      "name":"瓜子｜影视",
