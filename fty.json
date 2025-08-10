@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;74a78ddc8af2f6518952b52c94067ee7",
+  "spider": "./fty.jar;md5;c62c307314178af8637480fcb2fe61f7",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -174,13 +174,13 @@
     "quickSearch":0,
     "filterable":0
     },
-  {"key":"哔滴",
-   "name":"👑哔滴｜弹幕",
-    "type":3,
-    "quickSearch":1,
-    "api":"csp_AppGet2",
+   {
+    "key":"蓝光",
+    "name":"蓝光｜弹幕",
+    "type":3,"quickSearch":1,
+    "api":"csp_AppGet",
      "jar": "./lib/jar.php",
-    "ext":{"url":"","site":"./lib/ip.json","dataKey":"5ae8ee4bb95ea0ce","dataIv":"5ae8ee4bb95ea0ce","deviceId":"","version":"120"}
+    "ext":{"url":"http://122.228.193.2:9654","dataKey":"ca94b06ca3c7d80e","dataIv":"ca94b06ca3c7d80e","deviceId":"","version":"119"}
     },
    {
    "key":"drpy_js_武享吧",
@@ -220,16 +220,18 @@
       "changeable": 1
     },
     {
-      "key": "专线",
-      "name": "分享┃专线",
+      "key": "py_金牌影视",
+      "name": "分享｜金榜",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "csp_FourKTV",
-      "playerType": 2,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./lib/分享者专线.jar"
+      "filterable": 1,
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
     },
     {
       "key": "雨滴",
