@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;98ca59a872d6d4d89c8c7e2aafb4dae1",
+  "spider": "./fty.jar;md5;f00b79d236ab569c48ffc2f8fc702297",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -566,7 +566,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
     },
     {
@@ -590,7 +590,7 @@
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/斗鱼直播.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -753,7 +753,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-438811-ee1bf539a68c4aa696de6280903c8a9a.json"
+        "json": "./lib/0075389dca9afadd4614e9713765ff17.txt"
       }
     },
     {
@@ -769,7 +769,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
+        "json": "./lib/6496356286589c68f52c2f99c0c674c7.txt"
       }
     },
     {
@@ -777,7 +777,7 @@
       "name": "📚儿童┃启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -799,7 +799,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-675236-05edd84dd04d48f0b394a11d0a6098f6.json"
+        "json": "./lib/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
     },
     {
@@ -815,7 +815,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-417036-ab02e4b2c6494f69a83e84dbe371ff82.json"
+        "json": "./lib/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       }
     },
     {
@@ -831,7 +831,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-368432-c7a7bcfa51154bf9bdb98888d3f26000.json"
+        "json": "./lib/8f55d520f8d70056695740ef151744a7.txt"
       }
     },
     {
@@ -847,42 +847,56 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/20250818-691234-03d78c46fc2f458d81b895121c27d088.json"
+        "json": "./lib/c66a4b5356141c49fd45ec51568017b4.txt"
       }
     }
   ],
   "logo": "https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   "lives": [
     {
-      "name": "V4-mursor（卡顿请换源）",
+      "name": "V4-develop202",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "./lib/interface.txt",
       "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://11.112114.xyz/logo/{name}.png",
-      "ua": "okHttp/Mod-1.3.0.0"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
       "name": "V6-范明明（需开启V6网络）",
       "type": 0,
-      "url": "./lib/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u",
-      "playerType": 2,
-      "logo": "https://11.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "牛播一",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "playerType": 2,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://11.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "平台直播",
-      "type": 0,
-      "url": "http://tv.iill.top/m3u/Live",
-      "ua": "okhttp/3.15",
+      "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "./lib/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "./lib/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "./lib/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "./lib/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.4.0.0"
     }
   ]
 }
