@@ -48,48 +48,58 @@
         "type": "list"
       }
     },
+    {"key":"厂长",
+    "name":"🧿厂长｜影视",
+    "type":3,"api":"csp_XBPQ",
+    "jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+    "ext":"./lib/厂长资源.json"
+     },
+
     {
-      "key": "csp_Czsapp",
-      "name": "🏭厂长",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/Yoursmile.jar",
-      "ext": "https://www.czzymovie.com/"
+    "key":"New6v",
+    "name":"🎃New6V┃磁力",
+    "type":3,"api":"csp_New6v",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1, 
+    "jar": "./lib/jar.php",
+    "ext":"https://www.xb6v.com"
     },
+
     {
-      "key": "csp_New6v",
-      "name": "🧲新6V",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar",
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    "key":"剧迷",
+    "name":"🎃剧迷┃磁力",
+    "type":3,
+    "jar": "./lib/jar.php",
+    "api":"csp_MeijuMi",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+     },
+
     {
-      "key": "csp_DyGod",
-      "name": "🧲电影天堂",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar",
-      "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    "key":"80S",
+    "name":"🎃80S｜磁力",
+    "type":3,
+    "jar": "./lib/jar.php",
+    "api":"csp_BLSGod",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
     },
+
     {
-      "key": "csp_BLSGod",
-      "name": "🧲80S影视",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar",
-      "api": "csp_BLSGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    "key":"天堂",
+    "name":"🎃美剧┃磁力",
+    "type":3, 
+    "jar": "./lib/jar.php",
+    "api":"csp_MeijuTT",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
     },
+
    {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
@@ -174,15 +184,6 @@
     "quickSearch":0,
     "filterable":0
     },
-  {
-    "key":"哔滴",
-    "name":"👑哔滴｜弹幕",
-    "type":3,
-    "quickSearch":1,
-    "api":"csp_AppQi",
-     "jar": "./lib/jar.php",
-    "ext":{"url":"","site":"./lib/ip.json","dataKey":"5ae8ee4bb95ea0ce","dataIv":"5ae8ee4bb95ea0ce","deviceId":"","version":"120","ua":"okhttp/3.10.0BDYS/109.0.0.8"}},
-     },
    {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
@@ -234,14 +235,14 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
       }
     },
-    {
-      "key": "雨滴",
-      "name": "雨滴┃App",
+      {
+      "key": "柠檬",
+      "name": "柠檬┃App",
       "type": 3,
-      "api": "csp_Shark",
+      "api": "csp_Nmvod",
       "playerType": 2,
-      "jar": "./lib/fix250711.jar",
-      "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8824hjj902309g182l7kl0hk3l4776346lihki7kl3kj425kl3jk31j0kggkhj0g7l5632376984k395496k449626gh0k66l26k7j6h49j9331h9701k106i"
+    "jar": "./lib/fix250711.jar",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "优质",
@@ -252,14 +253,14 @@
       "jar": "./lib/fix250711.jar",
       "ext": "7lj763gg402i7942503g83j2g04i8090khhh8451ik902l6l53510hg9gi410i5607974jhk994283883904gk88l3k549h1g87i754kkjh3jhki2g8724k064g85411gigljkl3g620"
     },
-    {
-      "key": "专业",
-      "name": "专业┃APP",
+      {
+      "key": "yunyun",
+      "name": "云云┃无搜索",
       "type": 3,
-      "api": "csp_Shark",
-      "playerType": 1,
+      "api": "csp_Qiji",
+      "playerType": 2,
       "jar": "./lib/fix250711.jar",
-      "ext": "7lj763gg0939795i007gi487k212jhjig3lh9g079jj16g774k401gk0kg135l190i8k45hh94418hj52301kiijg3h248lhk265774gk5hiiil0238439k06kg95541k6l6i3g3kk6l3g60875g245491l4"
+      "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"
     },
     {
       "key": "玩偶",
