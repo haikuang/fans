@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;f00b79d236ab569c48ffc2f8fc702297",
+  "spider": "./fty.jar;md5;e0739e1404018d77ae4e039bf44094d7",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -221,19 +221,6 @@
       "filterable": 1,
       "changeable": 1
     },
-    {
-      "key": "py_金牌影视",
-      "name": "分享｜金榜",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/金牌.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://m.fjvtw.com/,https://m.hhduc.com,https://www.hellorlgzf7sn.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
     },
       {
       "key": "柠檬",
@@ -591,7 +578,7 @@
       "name": "🐟斗鱼┃直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -778,7 +765,7 @@
       "name": "📚儿童┃启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "ext": "./lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
