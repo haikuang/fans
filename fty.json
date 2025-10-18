@@ -3,7 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "豆豆",
+      "key": "豆",
       "name": "首页┃选电影、电视剧",
       "type": 3,
       "api": "csp_DouDouGuard",
@@ -38,7 +38,7 @@
       "key": "88看球",
       "name": "⚽88┃看球",
       "type": 3,
-      "jar": "https://pan.qingyuji.cn/f/nOGrUy/kk.png;md5;d56c209ca830cfdb7ca80b38a49cd559",
+      "jar": "./lib/kk.png",
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "quickSearch": 0,
@@ -225,7 +225,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
-    },
     },
       {
       "key": "柠檬",
@@ -522,6 +521,7 @@
       },
       "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
     },
+
     {
       "key": "看球",
       "name": "⚽手机┃看球",
