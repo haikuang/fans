@@ -49,6 +49,42 @@
       "timeout": 10
     },
     {
+      "key": "云云",
+      "name": "云云┃App",
+      "type": 3,
+      "jar": "./lib/kk.png",
+      "api": "csp_YunYunGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "雄鹰",
+      "name": "雄鹰┃App",
+      "type": 3,
+      "jar": "./lib/kk.png",
+      "api": "csp_XiongYingGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "咖啡",
+      "name": "咖啡┃App",
+      "type": 3,
+      "jar": "./lib/kk.png",
+      "api": "csp_KaFeiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
      "key":"厂长",
     "name":"🧿厂长｜影视",
     "type":3,"api":"csp_XBPQ",
