@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;a3723bd0083731bc4afd2d4f2e8c4603",
+  "spider": "./fty.jar;md5;b7101f8bcbd4821c475d8c77493c9e3c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -38,7 +38,7 @@
       "key": "88看球",
       "name": "⚽88┃看球",
       "type": 3,
-      "jar": "./lib/oo.png",
+      "jar": "./lib/o.png",
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "quickSearch": 0,
@@ -52,7 +52,7 @@
       "key": "云云",
       "name": "云云┃App",
       "type": 3,
-      "jar": "./lib/oo.png",
+      "jar": "./lib/o.png",
       "api": "csp_YunYunGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -64,7 +64,7 @@
       "key": "雄鹰",
       "name": "雄鹰┃App",
       "type": 3,
-      "jar": "./lib/oo.png",
+      "jar": "./lib/o.png",
       "api": "csp_XiongYingGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -76,7 +76,7 @@
       "key": "咖啡",
       "name": "咖啡┃App",
       "type": 3,
-      "jar": "./lib/oo.png",
+      "jar": "./lib/o.png",
       "api": "csp_KaFeiGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -99,7 +99,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1, 
-    "jar": "./lib/jar.php",
+    "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "ext":"https://www.xb6v.com"
     },
 
@@ -107,7 +107,7 @@
     "key":"剧迷",
     "name":"🎃剧迷┃磁力",
     "type":3,
-    "jar": "./lib/jar.php",
+    "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "api":"csp_MeijuMi",
     "searchable":1,
     "quickSearch":1,
@@ -118,7 +118,7 @@
     "key":"80S",
     "name":"🎃80S｜磁力",
     "type":3,
-    "jar": "./lib/jar.php",
+    "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "api":"csp_BLSGod",
     "playerType":1,
     "searchable":1,
@@ -130,7 +130,7 @@
     "key":"天堂",
     "name":"🎃美剧┃磁力",
     "type":3, 
-    "jar": "./lib/jar.php",
+    "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "api":"csp_MeijuTT",
     "searchable":1,
     "quickSearch":1,
@@ -176,7 +176,7 @@
 "key":"剧迷",
 "name":"美剧迷┃磁力",
 "type":3,
- "jar": "./lib/jar.php",
+ "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
 "api":"csp_MeijuMi",
 "searchable":1,
 "quickSearch":1,
@@ -190,7 +190,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-     "jar": "./lib/jar.php",
+     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "ext":"https://wwgz.cn/"
      },
    {
@@ -201,25 +201,36 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-     "jar": "./lib/jar.php",
+     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "ext":"./lib/nmys.json"
     }, 
-
-   {
-     "key":"瓜子影视",
-     "name":"瓜子｜影视",
-     "type":3,
-     "jar": "./lib/jar.php",
-     "api":"csp_Gz360",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable":1
+    {
+      "key": "瓜子影视",
+      "name": "💡瓜子｜影视",
+      "type": 3,
+     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "电影天堂",
+      "name": "🎞️天堂┃采集",
+      "type": 1,
+     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
     },
    {
     "key":"1905",
     "name":"💡1905｜影视",
     "type":3,
-     "jar": "./lib/jar.php",
+     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "api":"csp_Web1905",
     "searchable":1,
     "quickSearch":0,
@@ -288,9 +299,7 @@
       "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.com/",
-        "danMu": "弹"
+        "from": "4k|auto"
       }
     },
     {
