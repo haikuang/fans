@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;b7101f8bcbd4821c475d8c77493c9e3c",
+  "spider": "./fty.jar;md5;11b6dbd2b630fc9c95e36247917f55db",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -38,7 +38,7 @@
       "key": "88看球",
       "name": "⚽88┃看球",
       "type": 3,
-      "jar": "./lib/o.png",
+      "jar": "./lib/k.png",
       "api": "csp_KanqiuGuard",
       "searchable": 0,
       "quickSearch": 0,
@@ -52,7 +52,7 @@
       "key": "云云",
       "name": "云云┃App",
       "type": 3,
-      "jar": "./lib/o.png",
+      "jar": "./lib/k.png",
       "api": "csp_YunYunGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -64,7 +64,7 @@
       "key": "雄鹰",
       "name": "雄鹰┃App",
       "type": 3,
-      "jar": "./lib/o.png",
+      "jar": "./lib/k.png",
       "api": "csp_XiongYingGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -76,7 +76,7 @@
       "key": "咖啡",
       "name": "咖啡┃App",
       "type": 3,
-      "jar": "./lib/o.png",
+      "jar": "./lib/k.png",
       "api": "csp_KaFeiGuard",
       "searchable": 1,
       "quickSearch": 1,
@@ -193,17 +193,6 @@
      "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
     "ext":"https://wwgz.cn/"
      },
-   {
-    "key":"农民影视",
-    "name":"🧿农民｜影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-     "jar": "./lib/jar?id=index;md5;b8ccf68972d12e3983a93b35b4024345",
-    "ext":"./lib/nmys.json"
-    }, 
     {
       "key": "瓜子影视",
       "name": "💡瓜子｜影视",
@@ -414,6 +403,16 @@
       "changeable": 1
     },
     {
+      "key": "下饭",
+      "name": "🍙下饭┃多线",
+      "type": 3,
+      "api": "csp_AppSxGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
+    },
+    {
       "key": "鲸鱼",
       "name": "👀鲸鱼┃多线",
       "type": 3,
@@ -457,16 +456,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTh0TYsL4PsF1wEM1kc4mV87b9fc/FN//x7jUuaRvFX81tz8A=="
-    },
-    {
-      "key": "下饭",
-      "name": "🍙下饭┃多线",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuStuSyZxtH332ksdImjS1xHcE9fpWVy8fNjc+8DhNI67j3SJZRGjnM="
     },
     {
       "key": "糯米",

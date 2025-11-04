@@ -6,12 +6,12 @@
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
 #天天•综合
-http://lisha521.dynv6.net.fh4u.org/hlj.txt
+https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 #范明明•电台
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 #猫TV•综合
-http://rihou.cc:567/gggg.nzk
+https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 #讴歌·综合
-https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u
-#歌曲•MTV
-https://github.moeyy.xyz/https://raw.githubusercontent.com/haikuang/fans/main/MTV.txt
+http://itvbox.cc/云星日记/Ipv4.txt
+#咪咕•综合
+http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Ffy.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingchawusifengxian%26json%3Dtrue
