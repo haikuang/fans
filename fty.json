@@ -145,16 +145,6 @@
         "type": "list"
       }
     },
-{
-"key":"剧迷",
-"name":"美剧迷┃磁力",
-"type":3,
- "jar": "./lib/jar?id=index;md5;a6ebc84c6585b51653c3a29d56848185",
-"api":"csp_MeijuMi",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
     {
       "key": "瓜子影视",
       "name": "💡瓜子｜影视",
