@@ -4,7 +4,10 @@
       "url": "https://raw.githubusercontent.com/haikuang/fans/main/fty.json",
       "name": "大鹏"
     },
-
+ {
+      "url": "https://gitee.com/haikuang/fans/blob/master/fty.json",
+      "name": "疾影琦心"
+    },
     {
       "url": "http://www.饭太硬.com/tv",
       "name": "饭太硬"
