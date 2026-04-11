@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;96ea56039dad3f4c0438f9b1f949a66a",
+  "spider": "./fty.jar;md5;596fe0f8b20d34e041cb3727b64ec13e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -45,23 +45,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
-    {
-      "key": "永乐",
-      "name": "永乐｜影视",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar",
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-        "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      }
     },
     {
       "key": "88看球",
@@ -134,7 +117,7 @@
     "key":"1905",
     "name":"1905｜影视",
     "type":3,
-     "jar": "./lib/jar?jar?id=index;md5;649a8b69e7aea254797e8fddca12ae6f",
+     "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
     "api":"csp_Web1905",
     "searchable":1,
     "quickSearch":1,
@@ -296,7 +279,7 @@
     },
     {
       "key": "seed",
-      "name": "💡聚剧剧┃三盘",
+      "name": "💡聚剧剧┃四盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
@@ -310,7 +293,7 @@
     },
     {
       "key": "ZPan",
-      "name": "🎈聚盘搜┃三盘",
+      "name": "🎈聚盘搜┃四盘",
       "type": 3,
       "api": "csp_S_zpsGuard",
       "searchable": 1,
@@ -699,7 +682,7 @@
     },
     {
       "key": "米搜",
-      "name": "🦋米搜┃优夸",
+      "name": "🦋米搜┃夸嘟",
       "type": 3,
       "api": "csp_MIPanSoGuard",
       "searchable": 1,
