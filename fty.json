@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;596fe0f8b20d34e041cb3727b64ec13e",
+  "spider": "./fty.jar;md5;66c8320a11411420db914bba8b77e34b",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+     "ext":"7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "金牌",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+      "ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "88看球",
@@ -67,7 +67,7 @@
      "key":"厂长",
     "name":"厂长｜影视",
     "type":3,"api":"csp_XBPQ",
-    "jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+"jar":"https://alicliimg.clewm.net/342/790/68790342/175492501342882a47a74800c50acc8fee173f0038fe31754925012.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
     "ext":"./lib/厂长资源.json"
      },
     {
@@ -124,14 +124,6 @@
     "filterable":0
     },
    {
-      "key": "韩国",
-      "name": "韩国｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0113/09/75ad8b27e65c2e4c7e13e5c558e60bc0.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
-      "ext": "./lib/韩剧看看.json"
-    },
-   {
    "key":"drpy_js_武享吧",
    "name":"格斗丨武享吧",
    "type":3,
@@ -149,16 +141,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1
-    },
-    {
-      "key": "py_两个BTPY",
-      "name": "两个BT┃影视",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "./lib/两个BT.py",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "type": 3
     },
     {
       "key": "分享农民",
@@ -179,15 +161,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": ""
-    },
-    {
-      "key": "柠檬",
-      "name": "柠檬┃影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./lib/lh260223.jar;md5;671e242ecba31efec15dca7156486c9b",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
       "key": "py_爱听",
@@ -214,17 +187,30 @@
       "timeout": 60
     },
     {
-      "key": "立播",
-      "name": "立播┃秒播",
+      "key": "花猪",
+      "name": "花猪┃1080P",
       "type": 3,
-      "jar": "./lib/fty0227.jar",
-      "api": "csp_LibvioGuard",
+     "jar": "./lib/20260401232042-14-Vwa30U.jpg",
+      "api": "csp_AppGet",
+      "ext": "https://niuhulu.oss-cn-hangzhou.aliyuncs.com/niuniu.txt|uxxDgHxsdoSgVGZZ|122|okhttp/3.10.0|Lavf/58.12.100"
+    },
+    {
+      "key": "四叶草",
+      "name": "星叶|1080P",
+      "type": 3,
+     "jar": "./lib/20260401232042-14-Vwa30U.jpg",
+      "api": "csp_AppGet",
+      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
+    },
+    {
+      "key": "爱营",
+      "name": "爱影｜1080P",
+      "type": 3,
       "searchable": 1,
       "changeable": 1,
-      "timeout": 10,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
+     "jar": "./lib/20260401232042-14-Vwa30U.jpg",
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
     },
     {
       "key": "MDrive",
@@ -384,6 +370,16 @@
       "changeable": 1
     },
     {
+      "key": "糯米",
+      "name": "🍓糯米┃多线",
+      "type": 3,
+      "api": "csp_NmyswvGuard",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "热播",
       "name": "📺热播┃多线",
       "type": 3,
@@ -396,16 +392,6 @@
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
     {
-      "key": "糯米",
-      "name": "🍓糯米┃多线",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "剧圈",
       "name": "🐻剧圈┃多线",
       "type": 3,
@@ -414,7 +400,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+S3T18333j8hL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k5GV9Quw0AIzUurGBVyPqCLrdirfpAz+n0Qh7PVBWo8uxWhO1Bs1MCYA1oiM="
+      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
       "key": "光影",
@@ -425,7 +411,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprGv+T3sSDQnNf20CkhL572CklJZUYN/js2+K5iYulIwYR+oXDNMYJMzXdzsy11CuhjOZO3s+jeWEqEX/jI1qY="
+      "ext": "rfOX1voDIQhH8epBwtCFsub18Wmenoi4l29kKsy7X0oRJRBVvSwnsuM5MO9ZiIJs6T6MfJNEk2ptvW4yXL42Edzeou/SHng="
     },
     {
       "key": "视界",
@@ -447,7 +433,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TbEn4q2l2kibom2DB9cJ0IB72Vu7apib64Gl9Ew6WDTJcIVzWsluDxqEaBqWIyM77GBXCPqCPmCyOr3RGfwjlsjchkArMHzTFT1VY9QUooz8m8BXA2mSa/whkG7SpZP100qUm6hMmTjm8YQQ51m6mxEE7hhEK1eNQ=="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLV183v12klao6oAAgFfVcL8D0quLA1d+RRyMN4vnPZetdOm08F3TlgCOxqWIyX+afCECO7aPaKnovDOCeMkxglOhlDv9axDFC5RYVbAYd+"
     },
     {
       "key": "播客",
@@ -458,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS1pGyZxdH63T1kep6jS1xHcE9fpWUnrqJhf/sMidJ9qDXccstMjiJz925iVqZ9QpyF"
+      "ext": "rfOX1voDIQhH8epBwpmIsuS1pDrb3t3j0G9nLcv9Hk5HJ1EK9mVu7apib64Gl9tN42ugKclqmXsYtX9DROtqWIyC+ajCEDTiHrA="
     },
     {
       "key": "爱影",
@@ -480,7 +466,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwtCFsub1+2malYq8nGlnJc27UEwSIhBVvSwnsuM5MP9Wy9pxq2yEJ8wa1nw5tzoyXL42Edzeou/SHng="
+      "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0kuzomBOA4Uobe87udCDvyXaLcmpT5AzDxpSkECnVSqNy7UE+qFZ1UBoc16Q=="
     },
     {
       "key": "奥特",
@@ -547,7 +533,7 @@
     },
     {
       "key": "88",
-      "name": "⚽88┃看球",
+      "name": "⚽八八┃看球",
       "type": 3,
       "api": "csp_Sir88Guard",
       "timeout": 10,
@@ -559,16 +545,15 @@
     },
     {
       "key": "超全",
-      "name": "⚽超全┃看球",
+      "name": "⚽吃瓜┃看球",
       "type": 3,
-      "api": "csp_ZbzGuard",
+      "api": "csp_LiveGzGuard",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      },
-      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
+      }
     },
     {
       "key": "看球",
@@ -697,6 +682,18 @@
       "name": "🐟盘她┃夸父",
       "type": 3,
       "api": "csp_YpanSoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "BpanSo",
+      "name": "🐞盘他┃嘟嘟",
+      "type": 3,
+      "api": "csp_BpanSoGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
