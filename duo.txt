@@ -58,7 +58,7 @@
       "name": "荷城茶秀"
     },
    {
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
     },
    {
@@ -83,7 +83,7 @@
       "name": "菜妮丝线"
     },
  {
-      "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "url": "https://raw.githubusercontent.com/maoystv/6/refs/heads/main/000.json",
       "name": "分享者"
     },
   {
