@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;927158dd12133ed25e056d3659a6b3ca",
+  "spider": "./fty.jar;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -160,7 +160,7 @@
     },
     {
       "key": "js集合",
-      "name": "JS合集┃影视┃影视",
+      "name": "JS合集┃影视",
       "type": 4,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api": "http://zhangqun1818.serv00.net/js.php",
