@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
+  "spider": "./fty.jar;md5;bb41630d62485b4e6645f39c35a83d30",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -17,7 +17,7 @@
       "name": "央视大全",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "./lib/分享央视.py",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享央视.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -131,19 +131,13 @@
       "api": "./lib/VmOlRys8_vip.js"
     },
     {
-      "key": "秒看",
-      "name": "秒看┃影视",
+      "key": "剧评",
+      "name": "剧评┃影视",
       "type": 3,
-     "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-      }
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "追剧达人",
@@ -179,7 +173,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
-      "ext": "./lib/分享农民.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
     {
       "key": "py_爱听",
@@ -295,7 +289,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "http://42.194.240.43:8888/"
+        "siteUrl": "http://152.53.164.245:18080/"
       },
       "indexs": 0,
       "style": {
