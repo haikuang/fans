@@ -7,8 +7,8 @@
 以/开头，存储卡的根目录
 #develop202•综合
 https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-#范明明•综合
-https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u
+#XC•综合
+https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 #猫TV•综合
 https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
 #电视·综合

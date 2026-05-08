@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ee702f5f6eca6841835f5c14d05445d4",
+  "spider": "./fty.jar;md5;f7e44566784c484988817ca04edc772e",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -90,6 +90,20 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+    },
+    {
+      "key": "秒看",
+      "name": "秒看｜影视",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+      }
     },
    {
      "key":"lf_js_lf_live",
@@ -200,6 +214,17 @@
       "timeout": 60
     },
     {
+      "key": "csp_sp_Alist",
+      "name": "网盘┃合集",
+      "type": 3,
+      "jar": "http://test.59bang.com/jar/lm0819.jar;md5;6289657838e40d786dfe97ab218e5298",
+      "api": "csp_AList",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./lib/AlistNew.json"
+    },
+    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
@@ -273,7 +298,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "siteUrl": "https://ps.i3ei.com/"
+        "siteUrl": "http://107.173.211.148/"
       },
       "indexs": 0,
       "style": {
