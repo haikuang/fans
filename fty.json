@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;f7e44566784c484988817ca04edc772e",
+  "spider": "./fty.jar;md5;448a9f26f33109f6aa148971c3adab46",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-     "ext":"7lj763gg0939791h1l3888jig44gi291li"
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "金牌",
@@ -44,7 +44,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
       "key": "88看球",
@@ -90,20 +90,6 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
-    {
-      "key": "秒看",
-      "name": "秒看｜影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://mk1080.top/get.txt",
-        "dataKey": "c60d88b2eep53za8",
-        "dataIv": "c60d88b2eep53za8",
-        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-      }
     },
    {
      "key":"lf_js_lf_live",
@@ -212,6 +198,46 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60
+    },
+    {
+      "key": "首发",
+      "name": "首发┃影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "api": "./lib/get.js",
+      "ext": {
+        "host": "./lib/600.txt",
+        "key": "FTgP4Gq8zPiqbt7M",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "无水印采集",
+      "name": "纯净┃影视",
+      "type": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "台湾剧",
+        "日剧",
+        "海外剧",
+        "泰剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "惊悚片",
+        "战争片"
+      ]
     },
     {
       "key": "csp_sp_Alist",
@@ -846,18 +872,18 @@
   ],
   "lives": [
     {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "./lib/iptv.m3u",
-      "playerType": 2
-    },
-    {
       "name": "develop202",
       "type": 0,
       "url": "./lib/interface.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "./lib/iptv.m3u",
+      "playerType": 2
     },
     {
       "name": "范明明（需开启V6网络）",

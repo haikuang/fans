@@ -7,11 +7,11 @@
 以/开头，存储卡的根目录
 #develop202•综合
 https://gh.llkk.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-#XC•综合
-https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
+#电视•综合1
+https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt
 #猫TV•综合
 https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/hipy-sniffer/refs/heads/main/static/lives/lives.txt
-#电视·综合
+#电视·综合2
 http://47.120.41.246:8899/zb.txt
 #冰茶•综合
 https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true
