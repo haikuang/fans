@@ -1,7 +1,7 @@
 {
   "urls": [
  {
-      "url": "https://raw.githubusercontent.com/haikuang/fans/main/fty.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/haikuang/fans/main/fty.json",
       "name": "大鹏"
     },
  {
@@ -45,7 +45,7 @@
       "name": "小米"
     },
    {
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
     },
    {
@@ -53,11 +53,11 @@
       "name": "摸鱼儿"
     },
     {
-      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
       "name": "香雅情"
     },
       {
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
+      "url": https://gh-proxy.com/"https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
       "name": "高天流云JS"
     },
  {
@@ -65,7 +65,7 @@
       "name": "菜妮丝线"
     },
  {
-      "url": "https://raw.githubusercontent.com/maoystv/6/refs/heads/main/000.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/000.json",
       "name": "分享者"
     },
  {

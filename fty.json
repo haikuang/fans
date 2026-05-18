@@ -28,82 +28,34 @@
       "key": "天天",
       "name": "天天｜影视",
       "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TTian",
-      "playerType": 2,
-      "jar": "./lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
       "key": "金牌影视",
       "name": "金牌｜影视",
       "type": 3,
-    "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
+    "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
-      "key": "看球",
-      "name": "88┃体育",
+      "key": "csp_Kanqiu",
+      "name": "⚾看球",
       "type": 3,
-      "jar": "https://nos.netease.com/ysf/086049b8ca8bf3b53988e860c89a40dd.txt;md5;105e052a76be2de50e76630da0bde937",
-      "api": "csp_KanqiuGuard",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_Kanqiu",
       "searchable": 1,
+      "quickSearch": 1,
       "changeable": 0,
+      "gridview": 3,
       "style": {
         "type": "list"
       }
-    },
-    {
-      "key": "zy_鸭鸭资源",
-      "name": "鸭鸭｜影视",
-      "type": 1,
-      "jar": "./lib/lm0819.jar",
-      "api": "https://cj.yayazy.net/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "全部",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "纪录片",
-        "战争片",
-        "动画片",
-        "邵氏电影",
-        "4K电影",
-        "国产剧",
-        "欧美剧",
-        "韩剧",
-        "日剧",
-        "港剧",
-        "台剧",
-        "泰剧",
-        "海外剧",
-        "演唱会",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "有声动漫",
-        "女频恋爱",
-        "反转爽剧",
-        "古装仙侠",
-        "年代穿越",
-        "脑洞悬疑",
-        "现代都市",
-        "影视解说",
-        "篮球",
-        "足球"
-      ]
     },
     {
     "key":"New6v",
@@ -112,7 +64,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1, 
-    "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
+    "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
     "ext":"https://www.xb6v.com"
     },
    {
@@ -131,7 +83,7 @@
       "key": "瓜子影视",
       "name": "瓜子｜影视",
       "type": 3,
-     "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
+     "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
       "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
@@ -141,18 +93,11 @@
     "key":"1905",
     "name":"1905｜影视",
     "type":3,
-     "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
+     "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
     "api":"csp_Web1905",
     "searchable":1,
     "quickSearch":1,
     "filterable":0
-    },
-    {
-      "key": "独播库",
-      "name": "播库┃影视",
-      "type": 3,
-     "jar": "./lib/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098",
-      "api": "./lib/VmOlRys8_vip.js"
     },
     {
       "key": "剧评",
@@ -872,8 +817,8 @@
   ],
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
-    "img1.wsyzy.org=danmu.888484.xyz",
-    "fiizvfck.top=danmu.888484.xyz"
+    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
+    "fiizvfck.top=fan.cloudflare.182682.xyz"
   ],
   "lives": [
     {
