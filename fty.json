@@ -36,10 +36,21 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
+      "key": "csp_MeijuMi",
+      "name": "美剧｜影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.meijumi.net/"
+    },
+    {
       "key": "金牌影视",
       "name": "金牌｜影视",
       "type": 3,
-    "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
+    "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
@@ -64,7 +75,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1, 
-    "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
+    "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
     "ext":"https://www.xb6v.com"
     },
    {
@@ -83,7 +94,7 @@
       "key": "瓜子影视",
       "name": "瓜子｜影视",
       "type": 3,
-     "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
+     "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
       "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
@@ -93,7 +104,7 @@
     "key":"1905",
     "name":"1905｜影视",
     "type":3,
-     "jar": "./lib/b32780122019edfafa305b6cac1f03cd.jpg;md5;3daf7396337aca0f94e0e29898266521",
+     "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
     "api":"csp_Web1905",
     "searchable":1,
     "quickSearch":1,
