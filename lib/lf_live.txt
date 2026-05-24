@@ -10,6 +10,6 @@ https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/re
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #LIVE•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/LIVE.txt
 #分享•综合
 http://lisha521.dynv6.net.fh4u.org/hlj.txt
