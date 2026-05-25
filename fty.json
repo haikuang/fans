@@ -36,14 +36,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
     {
-      "key": "金牌影视",
-      "name": "金牌｜影视",
-      "type": 3,
-    "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
-      "api": "csp_Jpys",
-      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-    },
-    {
       "key": "csp_Kanqiu",
       "name": "⚾看球",
       "type": 3,
@@ -120,16 +112,7 @@
      "filterable":1,
      "ext":"./lib/lf_live.txt"
 },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子｜影视",
-      "type": 3,
-     "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
    {
     "key":"1905",
     "name":"1905｜影视",
@@ -148,6 +131,24 @@
       "playerType": 1,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+    {
+      "key": "瓜子影视",
+      "name": "瓜子｜影视",
+      "type": 3,
+     "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "金牌｜影视",
+      "type": 3,
+    "jar": "./lib/9e2f951b6887c1b57ad600b25c53fb27.jpg;md5;7848a2534d2fc0016671ccd41dc49f0d",
+      "api": "csp_Jpys",
+      "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
     {
       "key": "py_jieyingshi",
@@ -853,7 +854,7 @@
     {
       "name": "develop202",
       "type": 0,
-      "url": "./lib/interface.txt",
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -861,7 +862,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
