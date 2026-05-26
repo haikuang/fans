@@ -162,17 +162,6 @@
       "changeable": 1
     },
     {
-      "key": "360影视",
-      "name": "360┃影视",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-    {
       "key": "分享农民",
       "name": "农民┃影视",
       "type": 3,
