@@ -100,6 +100,20 @@
       "filterable": 1,
       "ext": "https://www.meijumi.net/"
     },
+    {
+      "key": "片库",
+      "name": "七味｜影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_Qiwei",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.qwnull.com",
+        "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+      }
+    },
    {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
