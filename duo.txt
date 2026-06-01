@@ -29,7 +29,7 @@
       "name": "俊于"
     },
  {
-      "url": "http://tv.nxog.top/m/",
+      "url": "https://tv.nxog.top?mm=259&ou=%E8%A3%85%F0%9F%85%B1",
       "name": "讴歌"
     },
     {
