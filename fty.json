@@ -110,7 +110,22 @@
      "filterable":1,
      "ext":"./lib/lf_live.txt"
 },
-
+    {
+      "key": "csp_Kugou",
+      "name": "酷狗┃音乐",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_Kugou",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
     {
       "key": "热播",
       "name": "剧评┃影视",
