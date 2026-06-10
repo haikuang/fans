@@ -253,6 +253,47 @@
       ]
     },
     {
+      "key": "1905",
+      "name": "1905｜影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "蜻蜓FM",
+      "name": "蜻蜓｜FM",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_QingtingFM",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "世界听书",
+      "name": "世界｜听书",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_TingShijie",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TVB云播",
+      "name": "TVB云播 | 影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,

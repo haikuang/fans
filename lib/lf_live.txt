@@ -5,6 +5,8 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
+#咪咕•综合
+https://develop202.github.io/migu_video/interface.txt
 #develop202•综合
 https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 #result•综合
