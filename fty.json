@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;8f59443d53d73ef5e34581b77e3c5a15",
+  "spider": "./fty.jar;md5;3fb1099140d04a0cdfde755ccafe8f62",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -73,16 +73,6 @@
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_QnMp4",
-      "name": "七妹┃磁力",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_QnMp4",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -235,13 +225,6 @@
             "ext": "http://43.248.117.123:4680"
         },
     {
-            "key": "1剧吧",
-            "name": "剧吧┃影视",
-            "type": 3,
-           "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/JB.py"
-        },
-    {
       "key": "无水印采集",
       "name": "纯净┃影视",
       "type": 1,
@@ -369,7 +352,7 @@
         "ratio": 1
       },
       "playerType": 2,
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -622,8 +605,20 @@
       }
     },
     {
+      "key": "多多",
+      "name": "🏀多多┃看球",
+      "type": 3,
+      "api": "csp_DoubaoGuard",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "超全",
-      "name": "⚽吃瓜┃看球",
+      "name": "🏐吃瓜┃看球",
       "type": 3,
       "api": "csp_LiveGzGuard",
       "searchable": 0,
@@ -928,6 +923,12 @@
       "name": "范明明（需开启V6网络）",
       "type": 0,
       "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "世界杯",
+      "type": 0,
+      "url": "./lib/fwc.m3u",
       "playerType": 2
     },
     {
