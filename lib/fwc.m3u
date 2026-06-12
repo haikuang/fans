@@ -21,3 +21,7 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="México v. Sudáfrica" group-title="4K杜比视界世界杯正赛",México v. Sudáfrica_2026-06-12 02:40:00_1781203200000
+https://cdn.99998888.cc/event/8585b934-f3b2-321a-9ca8-c557927c9f75?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="República de Corea v. Chequia" group-title="4K杜比视界世界杯正赛",República de Corea v. Chequia_2026-06-12 09:40:00_1781228400000
+https://cdn.99998888.cc/event/00e43092-95be-360d-8cba-5d59a912141f?prefix=https://cdn.99998888.cc
