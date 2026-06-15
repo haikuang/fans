@@ -40,12 +40,12 @@
       "key": "BbkqLive",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_BbkqLiveAmns",
+        "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
+      "jar": "https://zl.wpscdn.cn/2026/06/15/space_img/1546282b-dbae-48e7-9ea7-87856e4af7bc.png"
     },
     {
       "key": "csp_Dygang",
@@ -67,16 +67,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "csp_DyGod",
-      "name": "电影天堂┃磁力",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "csp_MeijuMi",
       "name": "美剧迷┃磁力",
@@ -101,6 +92,17 @@
      "ext":"./lib/lf_live.txt"
 },
     {
+      "key": "金牌",
+      "name": "金牌┃影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+    {
       "key": "csp_Kugou",
       "name": "酷狗┃音乐",
       "type": 3,
@@ -124,18 +126,6 @@
       "api": "csp_Jpys",
       "playerType": 2,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
-
-    {
-      "key": "金牌",
-      "name": "金牌┃影视",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
     },
     {
@@ -331,6 +321,27 @@
         "package": "com.iksp.adsys.jjsp",
         "buildNumber": "2001",
         "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
+      }
+    },
+    {
+      "key": "天堂",
+      "name": "天堂┃影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "电影天堂",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+        "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.dytiantang.one",
+        "host": "",
+        "site": "./lib/app_dyttandroid.txt",
+        "version": "3.0.0.7",
+        "decrypt": "0"
       }
     },
     {
