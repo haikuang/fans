@@ -40,12 +40,12 @@
       "key": "BbkqLive",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_BbkqLiveAmns",
+       "api": "csp_BbkqLiveAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://zl.wpscdn.cn/2026/06/16/space_img/2fb1f359-7eef-4545-b2d7-bd0b2f9aaa4a.png"
+      "jar": "https://zl.wpscdn.cn/2026/06/17/space_img/4f04d259-c2ec-45a7-9992-5a1f985ab148.png"
     },
     {
       "key": "csp_Dygang",
@@ -240,6 +240,16 @@
         "战争片"
       ]
     },
+   {
+      "key": "js_en_gf",
+      "name": "官方┃采集",
+      "type": 3,
+       "api": "https://d.kstore.dev/download/4127/js/官采.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
     {
       "key": "TVB云播",
       "name": "TVB云播 | 影视",
@@ -289,7 +299,7 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-    {
+   {
       "key": "橙子99",
       "name": "橙子丨APP",
       "type": 3,
