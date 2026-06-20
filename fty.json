@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;357636f9e5add95f79fc7de2e84a2517",
+  "spider": "./fty.jar;md5;592dc49c783d89dcde066bf1b72ad0d3",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -356,8 +356,24 @@
       }
     },
     {
+      "key": "蓝鹰",
+      "name": "蓝鹰｜APP",
+      "type": 3,
+     "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "天堂",
-      "name": "天堂┃影视",
+      "name": "天堂┃APP",
       "type": 3,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_AppDrama",
@@ -371,7 +387,7 @@
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
         "pkg": "com.dytiantang.one",
         "host": "",
-        "site": "./lib/app_dyttandroid.txt",
+        "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
       }
