@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;592dc49c783d89dcde066bf1b72ad0d3",
+  "spider": "./fty.jar;md5;1a7ffa0691e3836e78668e5f8b19f9f1",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://zl.wpscdn.cn/2026/06/21/space_img/5d0cbd9b-56a1-4eb5-8676-4bf3d222718d.png"
+      "jar": "https://zl.wpscdn.cn/2026/06/23/space_img/49314d6e-5791-450d-aa25-35e5a69b82bc.png"
     },
     {
       "key": "csp_Dygang",
@@ -239,17 +239,6 @@
         "惊悚片",
         "战争片"
       ]
-    },
-   {
-      "key": "js_en_gf",
-      "name": "官方┃采集",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://d.kstore.dev/download/4127/js/官采.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
     },
     {
       "key": "TVB云播",
@@ -520,6 +509,17 @@
       }
     },
     {
+      "key": "瓜子",
+      "name": "👀瓜子┃不卡",
+      "type": 3,
+      "api": "csp_AppgzGuard",
+      "timeout": 15,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "比特",
       "name": "🍄比特┃不卡",
       "type": 3,
@@ -604,17 +604,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-    },
-    {
-      "key": "米陌",
-      "name": "👀米陌┃多线",
-      "type": 3,
-      "api": "csp_AppNoxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2F7bP2pj/S2dv+12kxb9+pQQpHMwhf/DAv+ahpb/AK395yqCLHO95E22owqzUyRqJqWIyC7r+JSyPqCPuBxumlV3vunhcnNWtev8SxRwL2VYpMG5d0/TUVDE7mCv2zjQblQ8wz+UVUWDTwR2GS7sg9EpVHt2hIHOIxP/JOfx41qZOnwrLi/T1ZMKs9ZLjhUBrKbdac8P7cwYvGOKuQESIsCAZBDXQMZ/wXycxJI3t3jLYfuPU3mD54+aDQ5IAghbm+"
     },
     {
       "key": "剧圈",
@@ -704,7 +693,7 @@
       }
     },
     {
-      "key": "超全",
+      "key": "吃瓜",
       "name": "🏐吃瓜┃看球",
       "type": 3,
       "api": "csp_LiveGzGuard",
@@ -977,7 +966,8 @@
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-    "fiizvfck.top=fan.cloudflare.182682.xyz"
+    "fiizvfck.top=fan.cloudflare.182682.xyz",
+    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
   ],
   "lives": [
     {
@@ -1033,7 +1023,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "url": "./lib/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
