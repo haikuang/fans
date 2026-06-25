@@ -160,18 +160,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
     {
-      "key": "py_爱听",
-      "name": "爱听┃音乐",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/爱听音乐.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
