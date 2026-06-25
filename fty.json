@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://zl.wpscdn.cn/2026/06/23/space_img/49314d6e-5791-450d-aa25-35e5a69b82bc.png"
+      "jar": "https://zl.wpscdn.cn/2026/06/25/space_img/21ce5d94-5375-4e79-b02d-dd770c414473.png"
     },
     {
       "key": "csp_Dygang",
@@ -280,6 +280,18 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": " 博看┃听书",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "./lib/博看听书.js"
     },
     {
       "key": "预告",
@@ -1023,7 +1035,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "./lib/yylunbo.m3u",
+         "url": "https://sub.ottiptv.cc/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
