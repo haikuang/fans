@@ -372,6 +372,13 @@
       }
     },
     {
+      "key": "鬼片",
+      "name": "惊悚｜影视",
+      "type": 3,
+       "jar": "/lib/3c2fe19f3ae9dcf760356cb9e958ef48.jpg",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/鬼片之家.js"
+    },
+    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
