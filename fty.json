@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;a4a7f967a36e78f6a72ee638585a6a71",
+  "spider": "./fty.jar;md5;cc4f45deda39564e41b80ba7b921718b",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-     "jar": "https://zl.wpscdn.cn/2026/07/03/space_img/492387b9-1482-4e06-9633-95dbb0f2d7eb.png"
+      "jar": "https://zl.wpscdn.cn/2026/07/05/space_img/ddbfd62d-723d-4982-b10e-8b9c24db4ebb.png"
     },
     {
       "key": "csp_Dygang",
@@ -314,22 +314,6 @@
       }
     },
     {
-      "key": "蓝鹰",
-      "name": "蓝鹰｜APP",
-      "type": 3,
-     "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
-        "dataKey": "ca94b06ca359d80e",
-        "dataIv": "ca94b06ca359d80e",
-        "init": "initV120",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
       "key": "天堂",
       "name": "天堂┃APP",
       "type": 3,
@@ -369,6 +353,22 @@
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
         "version": "3.0.2.1",
         "decrypt": "1"
+      }
+    },
+    {
+      "key": "蓝鹰",
+      "name": "蓝鹰｜APP",
+      "type": 3,
+     "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -763,7 +763,7 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "api": "./lib/drpy2.min.js",
       "ext": "./lib/虎牙.js",
       "style": {
         "type": "rect",
