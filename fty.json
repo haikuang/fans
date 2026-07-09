@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;cc4f45deda39564e41b80ba7b921718b",
+  "spider": "./fty.jar;md5;22b7154a36907cabc183fcc53044d025",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -34,18 +34,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
-      "name": "🏆88体育",
-      "key": "BbkqLive",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_BbkqLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-     "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png"
     },
     {
       "key": "csp_Dygang",
@@ -431,33 +419,14 @@
     },
     {
       "key": "seed",
-      "name": "💡聚剧剧┃四盘",
+      "name": "💡聚剧┃四盘",
       "type": 3,
       "api": "csp_SeedhubGuard",
       "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "ZPan",
-      "name": "🎈聚盘搜┃四盘",
-      "type": 3,
-      "api": "csp_S_zpsGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://107.173.211.148/"
-      },
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      }
+      "indexs": 0
     },
     {
       "key": "光影",
@@ -792,27 +761,35 @@
       "changeable": 0
     },
     {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
+      "key": "ZPan",
+      "name": "🎈盘搜┃四盘",
       "type": 3,
-      "api": "csp_KkSsGuard",
+      "api": "csp_S_zpsGuard",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "siteUrl": "http://107.173.211.148/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
+      "key": "JPan",
+      "name": "🦋易搜┃四盘",
       "type": 3,
-      "api": "csp_UuSsGuard",
+      "api": "csp_S_zpsGuard",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
+        "siteUrl": "https://so.252035.xyz/"
+      },
+      "indexs": 0,
+      "style": {
+        "type": "list"
       }
     },
     {
@@ -840,12 +817,25 @@
       }
     },
     {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
+      "key": "抠搜",
+      "name": "🍄抠抠┃搜搜",
       "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "quickSearch": 0,
+      "api": "csp_KkSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
+      "type": 3,
+      "api": "csp_UuSsGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
@@ -942,6 +932,22 @@
       "changeable": 0,
       "ext": {
         "json": "./lib/8f55d520f8d70056695740ef151744a7.txt"
+      }
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "./lib/c66a4b5356141c49fd45ec51568017b4.txt"
       }
     }
   ],
