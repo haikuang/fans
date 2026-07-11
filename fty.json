@@ -25,6 +25,18 @@
       "timeout": 60
     },
     {
+      "name": "🏆88体育",
+      "key": "BbkqLive",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
+      "jar": "https://cdn.waimaimingtang.com/file/images/bwc/20260710134123-31654126d0.ong"
+    },
+    {
       "key": "天天",
       "name": "天天｜影视",
       "type": 3,
