@@ -9,48 +9,20 @@
       "name": "疾影琦心"
     },
     {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "饭太硬"
-    },
-    {
       "url": "http://www.饭太硬.net/tv",
-      "name": "饭太硬备用"
-    },
-    {
-      "url": "http://ok213.top/tv",
-      "name": " 321OK"
+      "name": "饭太硬"
     },
   {
       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
       "name": " 王二小放牛娃"
     },
- {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "俊于"
-    },
- {
-      "url": "https://tv.nxog.top?mm=259&ou=%E8%A3%85%F0%9F%85%B1",
-      "name": "讴歌"
-    },
     {
       "url": "https://盒子迷.top/禁止贩卖",
       "name": "盒子迷"
     },
-    {
-      "url": "http://肥猫.com",
-      "name": "肥猫"
-    },
-    {
-      "url": "http://mitvbox.xyz/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "小米"
-    },
    {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
       "name": "南风"
-    },
-   {
-      "url": "http://我不是.摸鱼儿.top",
-      "name": "摸鱼儿"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
