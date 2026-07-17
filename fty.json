@@ -34,7 +34,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://zl.wpscdn.cn/2026/07/11/space_img/64dea739-dfa3-4797-b25a-68c47f222e0a.png"
+     "jar": "https://nos.netease.com/ysf/4e96ca1a41efeb4b3fa96a507f12b74b.png"
     },
     {
       "key": "天天",
@@ -319,7 +319,7 @@
       "name": "天堂┃APP",
       "type": 3,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-       "api": "csp_AppDrama",
+      "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
