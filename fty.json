@@ -25,6 +25,29 @@
       "timeout": 60
     },
     {
+      "name": "🏆瓜子体育",
+      "key": "GuaziLive",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_GuaziLiveAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com",
+      "jar": "https://nos.netease.com/ysf/bb8475cf497085d16969b265a1e8e3f9.png"
+    },
+    {
+      "name": "🏆飞球体育",
+      "key": "FeiqLive",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_FeiqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://nos.netease.com/ysf/bb8475cf497085d16969b265a1e8e3f9.png"
+    },
+    {
       "name": "🏆88体育",
       "key": "BbkqLive",
       "type": 3,
