@@ -381,6 +381,17 @@
       "api": "./lib/鬼片之家.js"
     },
     {
+      "key": "csp_sp_龙门影视",
+      "name": "龙门┃影视",
+      "type": 3,
+     "jar": "./lib/lm60601.jar",
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://movie.iqinu.com/api.php/v1.vod"
+    },
+    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
