@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;7e3ad194f8f1898506604a0972223c3b",
+  "spider": "./fty.jar;md5;4f014e5152a3481b34b34b52292b94b1",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -228,20 +228,7 @@
         "战争片"
       ]
     },
-    {
-      "key": "采集集合",
-      "name": "合集｜影视",
-      "type": 4,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "ext": "1",
-      "changeable": 1
-    },
+
     {
       "key": "1905",
       "name": "1905｜影视",
