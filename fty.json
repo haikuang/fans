@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;dd8f442e52e1a2136d435707d3d743c9",
+  "spider": "./fty.jar;md5;4f014e5152a3481b34b34b52292b94b1",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -303,24 +303,6 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-    {
-      "key": "无极99",
-      "name": "无极丨 APP",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://111.170.140.70:19987/app/bn",
-        "LoginPath": "/app/log",
-        "version": "",
-        "appkey": "c403317c2a2946659b0bcbabdd5de43a",
-        "versionName": "1.0.1",
-        "name": "无极影视",
-        "package": "com.wujiys.app",
-        "buildNumber": "2001",
-        "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
-      }
-    },
    {
       "key": "橙子99",
       "name": "橙子丨APP",
@@ -394,6 +376,20 @@
         "dataIv": "ca94b06ca359d80e",
         "init": "initV120",
         "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "茉莉",
+      "name": "茉莉 • APP",
+      "type": 3,
+     "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
       }
     },
     {
