@@ -63,7 +63,7 @@
       "key": "金牌",
       "name": "金牌┃影视",
       "type": 3,
-       "jar":https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_Jpys",
       "searchable": 1,
       "quickSearch": 1,
