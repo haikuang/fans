@@ -5,7 +5,7 @@
       "name": "大鹏"
     },
  {
-      "url": "https://gitee.com/haikuang/fans/raw/master/fty.json",
+      "url": "https://gh-proxy.com/https://raw.giteeusercontent.com/haikuang/forks/raw/master/fty.json",
       "name": "疾影琦心"
     },
     {
