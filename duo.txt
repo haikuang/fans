@@ -5,7 +5,7 @@
       "name": "大鹏"
     },
  {
-      "url": "https://gh-proxy.com/https://raw.giteeusercontent.com/haikuang/forks/raw/master/fty.json",
+      "url": "https://raw.giteeusercontent.com/haikuang/forks/raw/master/fty.json",
       "name": "疾影琦心"
     },
     {
@@ -47,10 +47,6 @@
  {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/000.json",
       "name": "分享者"
-    },
- {
-      "url": "https://tvbox.catvod.com/catvod.json",
-      "name": "CAT"
     },
   {
       "url": "https://box.iqinu.com",
