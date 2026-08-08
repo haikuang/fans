@@ -422,6 +422,17 @@
       "filterable": 1,
       "ext": "http://movie.iqinu.com/api.php/v1.vod"
     },
+    {
+    "key": "TVB云播",
+    "name": "TVB云播",
+     "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "changeable": 1
+      },
    {
      "key":"lf_js_lf_live",
      "name":"电视┃直播",
