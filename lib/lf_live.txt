@@ -7,8 +7,6 @@
 以/开头，存储卡的根目录
 #咪咕•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/interface.txt
-#develop202•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/TV/live20220813.txt
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #LIVE•综合
