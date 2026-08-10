@@ -389,14 +389,14 @@
       "key": "鬼片",
       "name": "惊悚｜影视",
       "type": 3,
-     "jar": "./lib/359c60089176c437e74e96d685b8a72e",
+     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069",
       "api": "./lib/鬼片之家.js"
     },
     {
       "key": "两个BT",
       "name": "两个BT丨影视",
       "type": 3,
-     "jar": "./lib/359c60089176c437e74e96d685b8a72e",
+     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069",
       "api": "./lib/两个BT.py"
     },
     {
