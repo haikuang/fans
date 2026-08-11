@@ -34,7 +34,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com",
-      "jar": "https://nos.netease.com/ysf/5796b487b7b641255c855359718d6315.png"
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/20e4ea98-d34f-4dc1-88ef-df3f30582e9a.png"
     },
     {
       "name": "🏆飞球体育",
@@ -45,7 +45,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/5796b487b7b641255c855359718d6315.png"
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/20e4ea98-d34f-4dc1-88ef-df3f30582e9a.png"
     },
     {
       "name": "🏆88体育",
@@ -57,7 +57,19 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://nos.netease.com/ysf/5796b487b7b641255c855359718d6315.png"
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/20e4ea98-d34f-4dc1-88ef-df3f30582e9a.png"
+    },
+    {
+      "name": "蒙太奇┃影视",
+      "key": "AppV7Mtq",
+      "type": 3,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Mtq",
+      "jar": "https://zl.wpscdn.cn/2026/08/08/space_img/20e4ea98-d34f-4dc1-88ef-df3f30582e9a.png"
     },
     {
       "key": "金牌",
@@ -389,14 +401,14 @@
       "key": "鬼片",
       "name": "惊悚｜影视",
       "type": 3,
-     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069",
+     "jar": "./lib/e47bd6eef03a535ffa9cdf716acc5ae6.jpg",
       "api": "./lib/鬼片之家.js"
     },
     {
       "key": "两个BT",
       "name": "两个BT丨影视",
       "type": 3,
-     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069",
+     "jar": "./lib/e47bd6eef03a535ffa9cdf716acc5ae6.jpg",
       "api": "./lib/两个BT.py"
     },
     {
