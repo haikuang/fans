@@ -401,14 +401,14 @@
       "key": "鬼片",
       "name": "惊悚｜影视",
       "type": 3,
-     "jar": "./lib/e47bd6eef03a535ffa9cdf716acc5ae6.jpg",
+     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069.jpg",
       "api": "./lib/鬼片之家.js"
     },
     {
       "key": "两个BT",
       "name": "两个BT丨影视",
       "type": 3,
-     "jar": "./lib/e47bd6eef03a535ffa9cdf716acc5ae6.jpg",
+     "jar": "./lib/07c0fbbe1dd22a9e7e7dd8de6c0fe069.jpg",
       "api": "./lib/两个BT.py"
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "name": "develop202",
       "type": 0,
-      "url": "./lib/interface.txt",
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1061,7 +1061,7 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "./lib/iptv.m3u",
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     },
     {
