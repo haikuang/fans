@@ -404,20 +404,6 @@
       }
     },
     {
-      "key": "茉莉",
-      "name": "茉莉┃APP",
-      "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-        "dataKey": "88689667dce61725",
-        "dataIv": "88689667dce61725"
-      }
-    },
-    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
