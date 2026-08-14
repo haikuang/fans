@@ -11,8 +11,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/m
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #LIVE•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/LIVE.txt
-#Kimentanm•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 #南风•综合
 https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 #IPTV-1•综合
