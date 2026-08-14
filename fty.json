@@ -295,6 +295,19 @@
       }
     },
     {
+      "key": "博看听书",
+      "name": "博看 • 听书",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_TingBokan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "drpy_js_博看听书",
       "name": "博看┃听书",
       "type": 3,

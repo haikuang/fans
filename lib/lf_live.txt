@@ -23,3 +23,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/he
 https://gh-proxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/refs/heads/main/live.m3u
 #IPTV-5•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/MannixJ/iptv-api/refs/heads/master/output/result.m3u
+#IPTV-6•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
