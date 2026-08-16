@@ -240,20 +240,6 @@
       ]
     },
     {
-      "key": "采集集合",
-      "name": "综合┃影视",
-      "type": 4,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "ext": "1",
-      "changeable": 1
-    },
-    {
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
@@ -332,7 +318,7 @@
       "name": "剧圈┃APP",
       "type": 3,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "csp_App99",
+     "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
         "appkey": "d1f0c269eab74d93821fffc9befdbbba",
