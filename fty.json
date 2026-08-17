@@ -414,6 +414,22 @@
       }
     },
     {
+      "key": "蓝鹰",
+      "name": "蓝鹰 ┃ APP",
+      "type": 3,
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://103.217.190.91:5566",
+        "dataKey": "hagYExMdMkeWfemK",
+        "dataIv": "hagYExMdMkeWfemK",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
       "type": 3,
