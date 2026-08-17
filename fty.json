@@ -28,7 +28,7 @@
       "key": "央视片库",
       "name": "央视大全",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "jar":"./lib/分享者0.zip",
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享央视.py",
       "searchable": 1,
       "quickSearch": 1,
@@ -83,7 +83,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/ysf/648866e65bfbae8010145f8abcc12f5f.png"
+      "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png"
     },
 
     {
@@ -146,8 +146,8 @@
       "key": "csp_XYQHikerNm",
       "name": "在线┃影视",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
+      "jar":"./lib/分享者0.zip",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 0,
@@ -157,27 +157,22 @@
             "key": "爱剧",
             "name": "爱剧┃影视",
             "type": 3,
-            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-            "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
-            "ext": "http://43.248.117.123:4680"
-        },
-    {
-      "key": "py_guazi",
-      "name": "瓜子┃影视",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/瓜子.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60
+            "jar":"./lib/分享者0.zip",
+           "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+           "ext": "http://43.248.117.123:4680"
     },
     {
+      "key": "GZ",
+      "name": "瓜子┃影视",
+      "type": 3,
+     "jar":"./lib/分享者0.zip",
+     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py"
+    },
+      {
       "key": "py_jieyingshi",
       "name": "界影┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "jar": "./lib/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/py_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 1,
@@ -192,12 +187,11 @@
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
-
     {
       "key": "热播",
       "name": "剧评┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "jar": "./lib/分享者0.zip",
       "api": "csp_Jpys",
       "playerType": 2,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
@@ -207,7 +201,7 @@
       "key": "天天",
       "name": "天天┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "jar": "./lib/分享者0.zip",
       "api": "csp_TTian",
       "playerType": 2,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
@@ -217,8 +211,8 @@
       "key": "无水印采集",
       "name": "纯净┃影视",
       "type": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "jar": "./lib/分享者0.zip",
+     "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
       "categories": [
         "国产剧",
         "欧美剧",
@@ -243,7 +237,7 @@
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "jar": "./lib/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
       "searchable": 1,
       "quickSearch": 0,
