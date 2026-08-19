@@ -300,14 +300,6 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js"
     },
     {
-      "key": "韩圈",
-      "name": "韩圈 ┃APP",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "csp_Hxq",
-      "ext": "http://www.小不点.com/api/2026/fishhxq.php"
-    },
-    {
       "key": "剧圈99",
       "name": "剧圈┃APP",
       "type": 3,
@@ -422,6 +414,16 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
+    },
+    {
+      "key": "爱听音乐",
+      "name": "爱听┃ 音乐",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/爱听音乐.py"
     },
     {
       "key": "MDrive",
