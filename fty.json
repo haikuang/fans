@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
+  "spider": "./fty.jar;md5;1fb66ff185ea35252d2ae2a07d058ec1",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -162,16 +162,11 @@
             "ext": "http://43.248.117.123:4680"
         },
     {
-      "key": "py_guazi",
+      "key": "GZ",
       "name": "瓜子┃影视",
       "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/瓜子.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py"
     },
     {
       "key": "py_jieyingshi",
@@ -188,11 +183,10 @@
       "key": "分享农民",
       "name": "农民┃影视",
       "type": 3,
-      "api": "csp_XBPQ",
+         "api": "csp_XBPQ",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
-
     {
       "key": "热播",
       "name": "剧评┃影视",
@@ -525,7 +519,7 @@
     },
     {
       "key": "海绵",
-      "name": "⏮️海绵┃不卡",
+      "name": "🐬海绵┃不卡",
       "type": 3,
       "api": "csp_HmysGuard",
       "timeout": 10,
@@ -868,7 +862,7 @@
     },
     {
       "key": "YpanSo",
-      "name": "🐟盘她┃夸父",
+      "name": "🐌盘她┃夸父",
       "type": 3,
       "api": "csp_YpanSoGuard",
       "searchable": 1,
@@ -1050,10 +1044,10 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "./lib/iptv.m3u",
       "playerType": 2
     },
-   {
+    {
       "name": "综合直播",
       "type": 0,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
@@ -1069,7 +1063,7 @@
     {
       "name": "虎牙一起看",
       "type": 0,
-      "url": "./lib/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
+      "url": "./lib/huyayqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -1077,7 +1071,7 @@
     {
       "name": "斗鱼一起看",
       "type": 0,
-      "url": "./lib/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
+      "url": "./lib/douyuyqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -1093,7 +1087,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "./lib/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
+      "url": "./lib/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
