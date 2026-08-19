@@ -9,8 +9,6 @@
 https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-#result2•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/junchao321/JunTV/refs/heads/main/output/result.m3u
 #LIVE•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/LIVE.txt
 #南风•综合
