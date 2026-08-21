@@ -27,3 +27,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/MannixJ/iptv-api/refs/hea
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 #IPTV-7•综合
 http://193.123.86.190:14888/TV/iptv.php
+#IPTV-8•综合
+https://iptv-org.github.io/iptv/languages/zho.m3u
+#IPTV-9•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
