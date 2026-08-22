@@ -63,6 +63,17 @@
       }
     },
     {
+      "key": "天天",
+      "name": "天天┃影视",
+      "type": 3,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_TTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+    },
+    {
       "key": "金牌",
       "name": "金牌┃影视",
       "type": 3,
@@ -153,6 +164,13 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key": "pomo",
+      "name": "Pomo┃影视"",
+      "type": 3,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/pomo🍀TG @hshsjk9.py"
+    },
           {
             "key": "爱剧",
             "name": "爱剧┃影视",
@@ -188,50 +206,12 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
     {
-      "key": "热播",
+      "key": "2070335664787820544",
       "name": "剧评┃影视",
-      "type": 3,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-    },
-    {
-      "key": "天天",
-      "name": "天天┃影视",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "csp_TTian",
-      "playerType": 2,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
-    {
-      "key": "无水印采集",
-      "name": "纯净┃影视",
-      "type": 1,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
-      "api": "https://api.wsyzy.net/api.php/provide/vod/?ac=list",
-      "categories": [
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩剧",
-        "台湾剧",
-        "台湾剧",
-        "日剧",
-        "海外剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "惊悚片",
-        "战争片"
-      ]
+      "api": "https://banyeomni.780420.xyz:17777/api/tvbox/source/2070335664787820544?token=banye666",
+      "searchable": 1,
+      "type": 4
     },
     {
       "key": "py_枫叶音乐",
