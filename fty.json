@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;1ac25ccd1b5ac56fd19eb91c6f7daf4d",
+  "spider": "./fty.jar;md5;608d621640f5ed5ae8c78158ca61bff7",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
@@ -426,7 +426,7 @@
       "timeout": 30,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
@@ -696,7 +696,7 @@
     },
     {
       "key": "多多",
-      "name": "🏀多多┃看球",
+      "name": "🏀多多┃回放",
       "type": 3,
       "api": "csp_DoubaoGuard",
       "searchable": 0,
