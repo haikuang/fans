@@ -87,6 +87,17 @@
       "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png"
     },
     {
+      "name": "韩剧┃影视",
+      "key": "Hxq",
+      "type": 3,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "api": "csp_HxqAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://nos.netease.com/ysf/7cf170254bd20a7e7c2f4f2f6471d4db.png"
+    },
+    {
       "key": "csp_Kugou",
       "name": "酷狗┃音乐",
       "type": 3,
