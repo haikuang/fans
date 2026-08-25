@@ -180,77 +180,75 @@
       "key": "预告",
       "name": "新片┃预告",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_YGP",
-      "searchable": 0
+      "searchable": 0,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "1905",
       "name": "1905｜影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_Web1905",
       "searchable": 1,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "蜻蜓FM",
       "name": "蜻蜓┃FM",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_QingtingFM",
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "博看听书",
       "name": "博看 • 听书",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_TingBokan",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "drpy_js_博看听书",
       "name": "博看┃听书",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
       "changeable": 0,
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js",
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "剧圈99",
-      "name": "剧圈┃APP",
+      "name": "剧圈 ┃APP",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-     "api": "csp_App99",
+      "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
         "versionName": "1.2.0",
         "name": "剧圈圈",
         "package": "com.qingtangxiaozhuan.xyz",
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "天堂",
       "name": "天堂┃APP",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -265,13 +263,13 @@
         "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
         "version": "3.0.0.7",
         "decrypt": "0"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "橘汁",
       "name": "橘汁 ┃APP",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
+       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -286,13 +284,13 @@
         "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
         "version": "3.0.2.3",
         "decrypt": "1"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "苹果",
       "name": "苹果┃APP",
       "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -307,13 +305,13 @@
         "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
         "version": "1.0.0.3",
         "decrypt": "0"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "蓝鹰",
       "name": "蓝鹰 ┃ APP",
       "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_AppQi",
       "searchable": 1,
       "changeable": 1,
@@ -323,31 +321,32 @@
         "dataIv": "hagYExMdMkeWfemK",
         "init": "initV122",
         "ua": "okhttp/3.10.0"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "瓜子影视",
       "name": "瓜子 • 影视",
       "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_Gz360",
-      "searchable": 1
+      "searchable": 1,
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "独播影视",
       "name": "独播 ┃影视",
       "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_Duboku",
-      "searchable": 1
+      "searchable": 1,
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "金牌影视",
       "name": "金牌 ┃影视",
       "type": 3,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "爱听音乐",
@@ -356,8 +355,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/爱听音乐.py"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/爱听音乐.py",
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "New6v",
