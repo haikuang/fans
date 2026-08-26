@@ -31,3 +31,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/r
 https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u
 #IPTV-9•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
+#IPTV-10•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt
+#IPTV-11•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
