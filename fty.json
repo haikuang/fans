@@ -87,27 +87,27 @@
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
     },
     {
-      "name": "追剧┃影视",
+      "name": "🏃‍♂️‍➡️追剧",
       "key": "AppV7Zjdr",
       "type": 3,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Zjdr",
-      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png",
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
     },
     {
-      "name": "富强┃听书",
+      "name": "📖富强听书",
       "key": "TSty",
       "type": 3,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png",
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
     },
     {
       "key": "csp_Kugou",
