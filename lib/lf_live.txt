@@ -22,14 +22,8 @@ http://rihou.cc:555/gggg.nzk
 #IPTV-4•综合
 http://193.123.86.190:14888/TV/iptv.php
 #IPTV-5•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/MannixJ/iptv-api/refs/heads/master/output/result.m3u
-#IPTV-6•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
-#IPTV-7•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-#IPTV-8•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u
-#IPTV-9•综合
+#IPTV-6•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
-#IPTV-10•综合
+#IPTV-7•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt
