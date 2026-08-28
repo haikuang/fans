@@ -28,70 +28,91 @@
       "key": "央视片库",
       "name": "央视大全",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/分享央视.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
-      "timeout": 60
+      "timeout": 60,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "瓜子体育",
       "name": "瓜子 • 体育",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_SportsGuazi",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "咖啡体育",
       "name": "咖啡 • 体育",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar",
       "api": "csp_SportsKafei",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "style": {
         "type": "list"
-      }
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "天天",
       "name": "天天┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
+      "ext": "7lj763gg0939791h1l3888jig44gi291li",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
     },
 
     {
       "name": "蒙太奇┃影视",
       "key": "AppV7Mtq",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png"
+      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png",
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
     },
-
+    {
+      "name": "追剧┃影视",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "AppV7Zjdr",
+      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png",
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+    },
+    {
+      "name": "富强┃听书",
+      "key": "TSty",
+      "type": 3,
+      "api": "csp_TStyAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://nos.netease.com/ysf/bbf42fe09621015de1fef36dac2e4e80.png",
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+    },
     {
       "key": "csp_Kugou",
       "name": "酷狗┃音乐",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_Kugou",
       "playerType": 2,
       "ext": {
@@ -101,13 +122,13 @@
             "type_id": "kugou"
           }
         ]
-      }
+      },
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
     },
     {
       "key": "首发",
       "name": "首发┃影视",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
       "ext": {
         "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
@@ -115,46 +136,55 @@
         "init": "V122",
         "api": 2,
         "ua": "okhttp/3.10.0"
-      }
+      },
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "csp_XYQHikerNm",
       "name": "在线┃影视",
       "type": 3,
-      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
           {
             "key": "爱剧",
             "name": "爱剧┃影视",
             "type": 3,
-            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
             "api":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680",
-             "searchable": 1
+             "searchable": 1,
+            "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
         },
+    {
+      "key": "高清点播",
+      "name": "高清┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/高清点播🍀TG @hshsjk9.py",
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
     {
       "key": "GZ",
       "name": "瓜子┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py",
-      "searchable": 1
+      "searchable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "py_jieyingshi",
       "name": "界影┃影视",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/py_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "分享农民",
@@ -169,13 +199,13 @@
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 0,
-      "timeout": 60
+      "timeout": 60,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "预告",
