@@ -263,7 +263,7 @@
     },
     {
       "key": "剧圈99",
-      "name": "剧圈 ┃APP",
+      "name": "剧圈 • APP",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -278,7 +278,7 @@
     },
     {
       "key": "天堂",
-      "name": "天堂┃APP",
+      "name": "天堂 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -299,8 +299,8 @@
     },
     {
       "key": "橘汁",
-      "name": "橘汁 ┃APP",
-       "type": 3,
+      "name": "橘汁 • APP",
+      "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "苹果",
-      "name": "苹果┃APP",
+      "name": "苹果 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -341,7 +341,7 @@
     },
     {
       "key": "蓝鹰",
-      "name": "蓝鹰 ┃ APP",
+      "name": "蓝鹰 • APP",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -373,7 +373,7 @@
     },
     {
       "key": "金牌影视",
-      "name": "金牌 ┃影视",
+      "name": "金牌 • 影视",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
