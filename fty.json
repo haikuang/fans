@@ -36,32 +36,7 @@
       "timeout": 60,
       "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
-    {
-      "key": "瓜子体育",
-      "name": "瓜子 • 体育",
-      "type": 3,
-      "api": "csp_SportsGuazi",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
-    {
-      "key": "咖啡体育",
-      "name": "咖啡 • 体育",
-      "type": 3,
-      "api": "csp_SportsKafei",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
+
     {
       "key": "天天",
       "name": "天天┃影视",
@@ -207,58 +182,44 @@
       "timeout": 60,
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
+
     {
       "key": "预告",
       "name": "新片┃预告",
       "type": 3,
       "api": "csp_YGP",
-      "searchable": 0,
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
-    {
-      "key": "1905",
-      "name": "1905｜影视",
-      "type": 3,
-      "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
-      "key": "蜻蜓FM",
-      "name": "蜻蜓┃FM",
+      "key": "华数",
+      "name": "华数 • 影视",
       "type": 3,
-      "api": "csp_QingtingFM",
-      "style": {
-        "type": "list"
-      },
-      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
-    {
-      "key": "博看听书",
-      "name": "博看 • 听书",
-      "type": 3,
-      "api": "csp_TingBokan",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
       "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
-      "key": "drpy_js_博看听书",
-      "name": "博看┃听书",
+      "key": "华谊影视",
+      "name": "华谊 • 影视",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华谊影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "韩圈",
+      "name": "韩圈 • APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "ext": "http://www.小不点.com/api/2026/fishhxq.php",
+      "searchable": 1,
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
@@ -379,15 +340,16 @@
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
        "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
+
     {
-      "key": "爱听音乐",
-      "name": "爱听┃ 音乐",
+      "key": "1905",
+      "name": "1905｜影视",
       "type": 3,
+      "api": "csp_Web1905",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/爱听音乐.py",
-       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "quickSearch": 0,
+      "filterable": 0,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "New6v",
@@ -432,7 +394,79 @@
       "ext": "./lib/DYG.json",
        "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
+    {
+      "key": "瓜子体育",
+      "name": "瓜子 • 体育",
+      "type": 3,
+      "api": "csp_SportsGuazi",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "咖啡体育",
+      "name": "咖啡 • 体育",
+      "type": 3,
+      "api": "csp_SportsKafei",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "蜻蜓FM",
+      "name": "蜻蜓┃FM",
+      "type": 3,
+      "api": "csp_QingtingFM",
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "博看听书",
+      "name": "博看 • 听书",
+      "type": 3,
+      "api": "csp_TingBokan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "博看┃听书",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/博看听书.js",
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
 
+    {
+      "key": "爱听音乐",
+      "name": "爱听┃ 音乐",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/爱听音乐.py",
+       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
     {
       "key": "MDrive",
       "name": "🗂我的云盘┃我配置",
