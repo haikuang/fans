@@ -203,6 +203,28 @@
       "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
+      "key": "Didahd",
+      "name": "嘀嗒影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/Didahd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
+      "key": "TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/TVB云播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+    {
       "key": "华谊影视",
       "name": "华谊 • 影视",
       "type": 3,
