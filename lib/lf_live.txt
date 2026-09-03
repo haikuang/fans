@@ -5,8 +5,6 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
-#国际•综合
-https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #LIVE•综合
@@ -27,3 +25,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/r
 https://gh-proxy.com/https://raw.githubusercontent.com/cs3306/IPTV-Sources/refs/heads/main/data/output/iptv_collection.m3u
 #IPTV-7•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt
+#IPTV-8•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u
