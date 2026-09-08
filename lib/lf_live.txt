@@ -29,3 +29,5 @@ https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads
 https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u
 #IPTV-9•综合
 https://gh-proxy.com/https://raw.githubusercontent.com/ANOKO1122/iptv-zb-zy/refs/heads/main/output/ipv4/result.m3u
+#IPTV-10•综合
+https://gh-proxy.com/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
