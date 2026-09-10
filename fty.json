@@ -103,7 +103,7 @@
     },
     {
       "key": "央视片库",
-      "name": "🇨🇳分享央视",
+      "name": "央视片库",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py",
       "searchable": 1,
@@ -156,16 +156,16 @@
         },
 
     {
-      "key": "戒",
-      "name": "分享界影",
+      "key": "4K影视2",
+      "name": "分享视界",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者视界.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
+      "api": "csp_AppGet",
+      "quickSearch": 1,
+      "timeout": 12,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"      
+  },
+
     {
       "key": "分享农民",
       "name": "农民┃影视",
