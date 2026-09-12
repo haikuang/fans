@@ -36,27 +36,6 @@
       "ext": "7lj763gg0939791h1l3888jig44gi291li",
       "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
     },
-    {
-      "key": "橘汁",
-      "name": "🅰橘汁",
-      "type": 3,
-      "api": "csp_AppDrama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
-        "host": "",
-        "site": "https://oss-1372779881.cos.ap-guangzhou.myqcloud.com/ross.txt",
-        "version": "3.0.2.3",
-        "decrypt": "1"
-      },
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
-    },
  
  {
       "name": "📦蒙太奇",
@@ -285,7 +264,7 @@
       "api": "csp_Hxq",
       "ext": "http://www.小不点.com/api/2026/fishhxq.php",
       "searchable": 1,
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "剧圈99",
@@ -300,7 +279,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "天堂",
@@ -321,8 +300,31 @@
         "version": "3.0.0.7",
         "decrypt": "0"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
+
+    {
+      "key": "橘汁",
+      "name": "橘汁 • APP",
+      "type": 3,
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.mxj.wylcjbxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.4",
+        "decrypt": "1"
+      },
+      "jar": "./lib/09122047.png"
+    },
+
     {
       "key": "苹果",
       "name": "苹果 • APP",
@@ -342,7 +344,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "蓝鹰",
@@ -358,7 +360,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "瓜子影视",
@@ -366,7 +368,7 @@
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "飞娱影视",
@@ -374,7 +376,7 @@
       "type": 3,
       "api": "csp_Feiyu",
       "searchable": 1,
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "独播影视",
@@ -382,7 +384,7 @@
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "金牌影视",
@@ -390,7 +392,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
 
     {
@@ -401,7 +403,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "New6v",
@@ -412,7 +414,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "美剧迷",
@@ -422,7 +424,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "迅雷吧",
@@ -433,7 +435,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://xunlei8.me",
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "电影港",
@@ -444,7 +446,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./lib/DYG.json",
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "瓜子体育",
@@ -457,7 +459,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "咖啡体育",
@@ -470,7 +472,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
 
     {
@@ -481,7 +483,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
     {
       "key": "博看听书",
@@ -494,7 +496,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "./lib/09091555.png"
+      "jar": "./lib/09122047.png"
     },
 
     {
@@ -505,7 +507,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "api": "https://pizazz.us.ci/other/py/爱听音乐.py",
-       "jar": "./lib/09091555.png"
+       "jar": "./lib/09122047.png"
     },
     {
       "key": "MDrive",
