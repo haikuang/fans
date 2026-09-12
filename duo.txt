@@ -30,6 +30,10 @@
     },
 
       {
+      "url":https://9877.kstore.space/sun.json",
+      "name": "高天流云"
+    },
+      {
       "url": https://gh-proxy.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json",
       "name": "高天流云JS"
     },
