@@ -129,6 +129,24 @@
 
 
     {
+      "key": "高清点播",
+      "name": "分享高清",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/高清点播🍀TG @hshsjk9.py",
+      "changeable": 0,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+    {
+      "key": "GZ",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py",
+      "searchable": 1,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+    {
       "key": "4K影视2",
       "name": "分享视界",
       "type": 3,
