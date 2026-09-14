@@ -29,7 +29,7 @@
       "key": "天天",
       "name": "⛅天天",
       "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
@@ -41,7 +41,7 @@
       "name": "📦蒙太奇",
       "key": "AppV7Mtq",
       "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -53,7 +53,7 @@
       "name": "🏃‍♂️‍➡️追剧",
       "key": "AppV7Zjdr",
       "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -65,7 +65,7 @@
       "name": "📖富强听书",
       "key": "TSty",
       "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -76,7 +76,7 @@
       "name": "🎸酷听音乐",
       "key": "Kuwo",
       "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_KuwoAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -84,55 +84,39 @@
       "genre": "music",
       "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/96c38469-df36-433c-b400-74ed5e5a7d7a.png"
     },
-    {
-      "key": "csp_Kugou",
-      "name": "🐶酷狗",
-      "type": 3,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_Kugou",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
 
     {
       "key": "央视片库",
       "name": "央视片库",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
     {
       "key": "csp_XYQHikerNm",
       "name": "在线┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
       "searchable": 1,
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
     {
       "key": "高清点播",
       "name": "分享高清",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/高清点播.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/高清点播.py",
       "filterable": 0,
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
     {
@@ -142,7 +126,7 @@
       "api": "csp_AppGet",
       "quickSearch": 1,
       "timeout": 12,
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
       "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
   },
 
@@ -150,10 +134,10 @@
             "key": "爱剧",
             "name": "爱剧┃影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
       "ext": "http://43.248.117.123:4680",
              "searchable": 1,
-            "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
         },
 
     {
@@ -161,88 +145,88 @@
       "name": "农民┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
-      "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
     {
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "py_网易云音乐",
       "name": "网易云音乐",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
     {
       "key": "华数",
       "name": "华数 • 影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "Didahd",
       "name": "嘀嗒影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Didahd.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Didahd.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "TVB云播",
       "name": "TVB云播",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
     {
       "key": "华谊影视",
       "name": "华谊 • 影视",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华谊影视.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华谊影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
     {
       "key": "Ncat",
       "name": "网飞猫",
       "type": 3,
-      "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Ncat.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Ncat.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh.xxooo.cf/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
     {
