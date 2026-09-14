@@ -27,14 +27,14 @@
 
     {
       "key": "天天",
-      "name": "天天┃影视",
+      "name": "⛅天天",
       "type": 3,
+      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_TTian",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li",
-      "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+      "ext": "7lj763gg0939791h1l3888jig44gi291li"
     },
  
  {
@@ -88,6 +88,7 @@
       "key": "csp_Kugou",
       "name": "🐶酷狗",
       "type": 3,
+      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_Kugou",
       "playerType": 2,
       "ext": {
@@ -97,8 +98,7 @@
             "type_id": "kugou"
           }
         ]
-      },
-      "jar":"https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar"
+      }
     },
 
     {
