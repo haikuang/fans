@@ -40,7 +40,7 @@
 
     {
       "key": "预告",
-      "name": "新片 • 预告",
+      "name": "新片┃ 预告",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 1,
@@ -50,7 +50,7 @@
 
     {
       "key": "华数",
-      "name": "华数 • 影视",
+      "name": "华数┃ 影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
       "searchable": 1,
@@ -62,7 +62,7 @@
 
     {
       "key": "华谊影视",
-      "name": "华谊 • 影视",
+      "name": "华谊┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华谊影视.py",
       "searchable": 1,
@@ -74,7 +74,7 @@
 
     {
       "key": "Didahd",
-      "name": "嘀嗒影视",
+      "name": "嘀嗒┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Didahd.py",
       "searchable": 1,
@@ -85,7 +85,7 @@
     },
     {
       "key": "TVB云播",
-      "name": "TVB云播",
+      "name": "TVB云播┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
       "searchable": 1,
@@ -97,7 +97,7 @@
 
      {
       "key": "韩圈",
-      "name": "韩圈 • APP",
+      "name": "韩圈┃APP",
       "type": 3,
       "api": "csp_Hxq",
       "searchable": 1,
@@ -106,7 +106,7 @@
 
     {
       "key": "剧圈99",
-      "name": "剧圈 • APP",
+      "name": "剧圈┃APP",
       "type": 3,
       "api": "csp_App99",
       "ext": {
@@ -122,7 +122,7 @@
 
     {
       "key": "天堂",
-      "name": "天堂 • APP",
+      "name": "天堂┃APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -144,7 +144,7 @@
 
     {
       "key": "橘汁",
-      "name": "橘汁 • APP",
+      "name": "橘汁┃APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -166,7 +166,7 @@
 
     {
       "key": "苹果",
-      "name": "苹果 • APP",
+      "name": "苹果┃APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -187,7 +187,7 @@
     },
     {
       "key": "蓝鹰",
-      "name": "蓝鹰 • APP",
+      "name": "蓝鹰┃APP",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -204,7 +204,7 @@
 
     {
       "key": "飞娱影视",
-      "name": "飞娱 • 影视",
+      "name": "飞娱┃ 影视",
       "type": 3,
       "api": "csp_Feiyu",
       "searchable": 1,
@@ -212,7 +212,7 @@
     },
     {
       "key": "独播影视",
-      "name": "独播 ┃影视",
+      "name": "独播┃影视",
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
@@ -221,7 +221,7 @@
 
     {
       "key": "金牌影视",
-      "name": "金牌 • 影视",
+      "name": "金牌┃ 影视",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
@@ -230,7 +230,7 @@
 
     {
       "key": "1905",
-      "name": "1905｜影视",
+      "name": "1905┃影视",
       "type": 3,
       "api": "csp_Web1905",
       "searchable": 1,
@@ -241,7 +241,7 @@
 
     {
       "key": "永乐影视",
-      "name": "永乐 • 影视",
+      "name": "永乐┃ 影视",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": {
@@ -277,7 +277,7 @@
     },
     {
       "key": "迅雷吧",
-      "name": "迅雷吧 ┃磁力",
+      "name": "迅雷吧┃磁力",
       "type": 3,
       "api": "csp_Xunlei8",
       "searchable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "电影港",
-      "name": "电影港 ┃ 磁力",
+      "name": "电影港┃ 磁力",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -299,7 +299,7 @@
     },
     {
       "key": "瓜子体育",
-      "name": "瓜子 • 体育",
+      "name": "瓜子┃体育",
       "type": 3,
       "api": "csp_SportsGuazi",
       "searchable": 0,
@@ -312,7 +312,7 @@
     },
     {
       "key": "咖啡体育",
-      "name": "咖啡 • 体育",
+      "name": "咖啡┃体育",
       "type": 3,
       "api": "csp_SportsKafei",
       "searchable": 0,
@@ -326,7 +326,7 @@
 
     {
       "key": "蜻蜓FM",
-      "name": "蜻蜓 • FM",
+      "name": "蜻蜓┃FM",
       "type": 3,
       "api": "csp_QingtingFM",
       "searchable": 0,
@@ -339,7 +339,7 @@
     },
     {
       "key": "博看听书",
-      "name": "博看 • 听书",
+      "name": "博看┃听书",
       "type": 3,
       "api": "csp_TingBokan",
       "searchable": 1,
@@ -353,7 +353,7 @@
 
     {
       "key": "电影天堂",
-      "name": "影视 • 电影天堂",
+      "name": "电影天堂┃影视 •",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -389,22 +389,10 @@
       "ext": "Guazi",
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"
     },
-
-    {
-      "key": "天天",
-      "name": "天天┃影视",
-      "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li"
-    },
  
     {
       "key": "csp_Dygang",
-      "name": "🧲电影港",
+      "name": "磁力┃电影港",
       "type": 3,
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
       "api": "csp_Dygang",
@@ -438,7 +426,7 @@
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"
     },
     {
-      "name": "📖富强听书",
+      "name": "富强┃听书",
       "key": "TSty",
       "type": 3,
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
@@ -449,7 +437,7 @@
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"
     },
     {
-      "name": "🎸酷听音乐",
+      "name": "酷听┃音乐",
       "key": "Kuwo",
       "type": 3,
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
@@ -523,20 +511,6 @@
     },
 
     {
-      "key": "py_爱听",
-      "name": "爱听┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/爱听音乐.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
-
-
-    {
       "key": "py_枫叶音乐",
       "name": "枫叶┃音乐",
       "type": 3,
@@ -550,7 +524,7 @@
     },
     {
       "key": "py_网易云音乐",
-      "name": "网易云音乐",
+      "name": "网易云┃音乐",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py",
       "searchable": 1,
