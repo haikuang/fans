@@ -107,7 +107,7 @@
     {
       "key": "剧圈99",
       "name": "剧圈┃APP",
-      "type": 3,
+       "type": 3,
       "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
