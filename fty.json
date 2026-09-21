@@ -95,6 +95,18 @@
       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
+    {
+      "key": "爱看",
+      "name": "爱看┃APP",
+      "type": 3,
+      "api": "csp_AiKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.117.123:4680",
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+
      {
       "key": "韩圈",
       "name": "韩圈┃APP",
@@ -286,17 +298,7 @@
       "ext": "https://xunlei8.me",
        "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
-    {
-      "key": "电影港",
-      "name": "电影港┃磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/DYG.json",
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
+
     {
       "key": "瓜子体育",
       "name": "瓜子┃体育",
@@ -467,17 +469,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-
-    {
-      "key": "4K影视2",
-      "name": "视界┃影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "quickSearch": 1,
-      "timeout": 12,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/分享者appGet.js;md5;bd19cfc610f2777505a3faa9de3ccbc7",
-      "ext": "https://appcms.4ksj.app|O3K6rYx75Q4xtiIE|V119"
-  },
 
           {
             "key": "爱剧",
