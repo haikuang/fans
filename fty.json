@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "首页┃豆瓣推荐（勿信任何广告）",
+      "name": "豆瓣索引┃勿信所有视频内广告",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
