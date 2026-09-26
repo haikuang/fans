@@ -31,3 +31,5 @@ https://gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main
 https://gh-proxy.org/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all.m3u8
 #IPTV-10•综合
 https://gh-proxy.org/https://raw.githubusercontent.com/akiralereal/iptv/refs/heads/main/IPTV.m3u
+#IPTV-11•综合
+https://gh-proxy.org/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all.m3u8
