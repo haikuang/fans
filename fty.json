@@ -457,6 +457,14 @@
     },
 
     {
+      "key": "咕噜",
+      "name": "咕噜┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+    {
       "key": "py_极速",
       "name": "极速┃影视",
       "type": 3,
