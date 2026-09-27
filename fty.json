@@ -94,7 +94,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://43.248.117.123:4680",
+      "ext": "http://43.248.117.123:14680",
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+
+    {
+      "key": "咕噜",
+      "name": "咕噜┃ APP",
+      "type": 3,
+      "api": "csp_Gulu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
@@ -110,7 +121,7 @@
     {
       "key": "剧圈99",
       "name": "剧圈┃APP",
-       "type": 3,
+      "type": 3,
       "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
@@ -192,11 +203,11 @@
     {
         "key": "蓝鹰",
         "name": "蓝鹰┃APP",
-        "type": 3,
-        "api": "csp_AppQi",
-        "searchable": 1,
-        "changeable": 1,
-        "ext": {
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
         "url": "http://103.217.190.91:5566",
         "dataKey": "hagYExMdMkeWfemK",
         "dataIv": "hagYExMdMkeWfemK",
@@ -231,21 +242,6 @@
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
        "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
-
-    {
-      "key": "永乐影视",
-      "name": "永乐┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-        "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-      },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
     {
@@ -376,7 +372,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
  
     {
@@ -400,7 +396,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
 
 
@@ -414,7 +410,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Zjdr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
 
 
@@ -427,7 +423,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
 
 
@@ -441,7 +437,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
 
     {
@@ -453,14 +449,6 @@
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
-
-    {
-      "key": "咕噜",
-      "name": "咕噜┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/分享咕噜.py",
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
