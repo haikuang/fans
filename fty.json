@@ -86,17 +86,6 @@
       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
-    {
-      "key": "爱看",
-      "name": "爱看┃APP",
-      "type": 3,
-      "api": "csp_AiKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://43.248.117.123:14680",
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
 
     {
       "key": "咕噜",
@@ -131,6 +120,22 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
+      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+    },
+
+    {
+      "key": "半日99",
+      "name": "半日┃APP",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+     },
       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
