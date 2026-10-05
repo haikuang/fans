@@ -380,17 +380,6 @@
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
  
-    {
-      "key": "天天",
-      "name": "天天┃影视",
-      "type": 3,
-      "api": "csp_TTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "7lj763gg0939791h1l3888jig44gi291li",
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
-    },
 
     {
       "key": "csp_Dygang",
@@ -1119,12 +1108,6 @@
       "type": 0,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
-      "playerType": 2
-    },
-    {
-      "name": "范明明（需开启V6网络）",
-      "type": 0,
-      "url": "./lib/3d75a78a0fc7ede372c03598d6d10367.m3u",
       "playerType": 2
     }
   ]
