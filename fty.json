@@ -379,7 +379,6 @@
       "ext": "Guazi",
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
- 
 
     {
       "key": "csp_Dygang",
@@ -467,6 +466,14 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+    {
+      "key": "jy.py",
+      "name": "界影┃视影",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/界影视.py",
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
