@@ -463,7 +463,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享者yunduo.js",
       "ext": {
-        "host": "https://duoduosdf12223234334.top,https://323433ssdfd.top,https://dduotv01.top,https://xds2435u23422342342u.top",
+        "host": "https://duoduosdf12223234334.top",
         "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
         "pkg": "com.web.player",
         "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
@@ -532,16 +532,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
-
-    {
-      "key": "爱剧",
-       "name": "爱剧┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
-      "ext": "http://43.248.117.123:4680",
-       "searchable": 1,
-       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-        },
 
     {
       "key": "分享农民",
