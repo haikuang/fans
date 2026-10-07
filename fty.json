@@ -458,6 +458,35 @@
     },
 
     {
+      "key": "yunduo1",
+      "name": "云朵┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享者yunduo.js",
+      "ext": {
+        "host": "https://duoduosdf12223234334.top",
+        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+        "pkg": "com.web.player",
+        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+        "sign": "ddtvf65f3a83d6d9ad6f",
+        "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
+        "ver": "7",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A"
+      },
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+    {
+      "key": "影探",
+      "name": "影探┃影视",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+
+    {
       "key": "py_极速",
       "name": "极速┃影视",
       "type": 3,
