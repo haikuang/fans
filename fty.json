@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;f782cdee81118405176fd260be9ca5cd",
+  "spider": "./fty.jar;md5;2386c62eb5f0b84dd53e27ad0fe9db49",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -399,7 +399,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Mtq",
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
@@ -413,7 +413,7 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Zjdr",
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
@@ -427,7 +427,7 @@
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
 
@@ -440,7 +440,7 @@
       "api": "csp_KuwoAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "genre": "music",
       "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },

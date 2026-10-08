@@ -1,454 +1,354 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="2026-10-07 18:43:29" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2026-10-07 18:43:29
+#EXTINF:-1 tvg-name="2026-10-08 12:17:38" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="列表更新时间",2026-10-08 12:17:38
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/time/time.mp4
 #EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
 https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1750419913" group-title="原创", 新橙記Orange丶
+https://live.ottiptv.cc/huya/30590779
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 武林萌主唐小姐
 https://live.ottiptv.cc/huya/11336726
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
 https://live.ottiptv.cc/huya/11342412
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/63/94321039835007d62f769ea2cac0fe_180_135.jpg?1748601180" group-title="原创", 小糯米丿
-https://live.ottiptv.cc/huya/128391
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="一起看", 小木子先生丶
-https://live.ottiptv.cc/huya/11342396
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/81/be5872f0ea604e209990000afa6e36_180_135.jpg?1609139683" group-title="一起看", 粤爱看港片
-https://live.ottiptv.cc/huya/23863809
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title="一起看", 蛮多的功夫
-https://live.ottiptv.cc/huya/23740156
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/a5/10ded51e3ad604d7c12bee7e4da8aa_180_135.jpg?1744288855" group-title="原创", 悠悠爱电影
-https://live.ottiptv.cc/huya/30611864
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/b7/0ed46e1fd1bd12cf384f42401cc128_180_135.jpg?1750419913" group-title="原创", 新橙記Orange丶
-https://live.ottiptv.cc/huya/30590779
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1051/69/f74876d8d45bf3c8852547db789df4_180_135.jpg?1775664231" group-title="原创", 伊太刀
-https://live.ottiptv.cc/huya/31235261
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/3f/8a9c1dac0ec9b9bfcdc1d38a2020e2_180_135.jpg?1779779369" group-title="原创", 百变御姐姐nice
-https://live.ottiptv.cc/huya/23290745
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/2d/d2661ebff6e5569998074adef29b57_180_135.jpg?1712954764" group-title="原创", 婧婧丶
-https://live.ottiptv.cc/huya/618917
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/aa/bcd7df420473cb3233857a75062895_180_135.jpg?1720520612" group-title="一起看", 活泼有趣的熊猫
-https://live.ottiptv.cc/huya/29982632
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1099/13/1cd27a673b833f91720347f5e03c1b_180_135.jpg?1779960820" group-title="原创", 夏日幽泉鼠
-https://live.ottiptv.cc/huya/31283988
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/a3/1e2b634e967d6bb1cc2d6c954084c5_180_135.jpg?1743826258" group-title="原创", 麦麦放映
-https://live.ottiptv.cc/huya/30682679
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 鯎爺
-https://live.ottiptv.cc/huya/11352944
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/68/dc5766e27199b2af146fc9d74d03ba_180_135.jpg?1779685160" group-title="原创", 花花影院
-https://live.ottiptv.cc/huya/29863394
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/15/6e54ee9788227c27827a342671e151_180_135.jpg?1737035419" group-title="原创", 得志未断绝
-https://live.ottiptv.cc/huya/30523326
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg" group-title="一起看", 小虎牙-QQFbPxwM1A
-https://live.ottiptv.cc/huya/11352958
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/8d/b5aab3e6b834af54fe62842018316d_180_135.jpg?1721298644" group-title="一起看", 精彩小雨幕
-https://live.ottiptv.cc/huya/30080148
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 小寒大暖鱼
-https://live.ottiptv.cc/huya/30970882
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/e1/6bf836f32d3863cd24776d7d7190b5_180_135.jpg?1711193126" group-title="原创", 阳阳影视
-https://live.ottiptv.cc/huya/29805872
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="原创", 阿斗归来了
-https://live.ottiptv.cc/huya/13303478
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/dc/858818a088cf3d7ef46732fb435740_180_135.jpg?1744692445" group-title="原创", 偶看见常威在打来福
-https://live.ottiptv.cc/huya/30627334
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/93/b6f3196df90c2c152429686fe580ce_180_135.jpg?1745284216" group-title="原创", 炒白果萝卜
-https://live.ottiptv.cc/huya/30440855
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/37/ed2fa6731b73a5c711724c93fde94e_180_135.jpg?1745824199" group-title="原创", 萌萌小桃子
-https://live.ottiptv.cc/huya/29807256
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/9b/b7877ea9731e170e9c51bd5d3f9515_180_135.jpg?1783604281" group-title="原创", 夏夜小妖咪
-https://live.ottiptv.cc/huya/31312768
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/ad/5fe92f32024e3d3fa3fab6d7dda615_180_135.jpg?1751445514" group-title="原创", 小满荷塘香色
-https://live.ottiptv.cc/huya/30860538
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/cd/4a542acfc3d5f8c7da3c90e2f0f5c7_180_135.jpg?1726130956" group-title="原创", 薄情凉了城
-https://live.ottiptv.cc/huya/30156310
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/e3/28a31261e2d598de3ddf2d7d20a0d5_180_135.jpg?1752584632" group-title="原创", 辰辰观影
-https://live.ottiptv.cc/huya/30882696
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/c8/bf3085b836f02ace75b71f020470e1_180_135.jpg?1743375918" group-title="原创", 黄口咸阳树
-https://live.ottiptv.cc/huya/30692708
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/eb/60ed4566609f96f9c396f9bd8ef42b_180_135.jpg?1743508098" group-title="原创", 齐鲁影视
-https://live.ottiptv.cc/huya/29807061
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/76863efe7039a772dcd1890296c76a_180_135.jpg?1757605023" group-title="原创", 春水不服食
-https://live.ottiptv.cc/huya/30951533
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/b5/a93a507d80ac07f7450da49a9fa8b5_180_135.jpg?1783745572" group-title="原创", 桃屁屁kiss
-https://live.ottiptv.cc/huya/31312799
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 晚安云起
-https://live.ottiptv.cc/huya/31373123
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/3c/5a9bf9abe6923657653736e128a1e9_180_135.jpg?1775015809" group-title="原创", 一起看我爱看剧
-https://live.ottiptv.cc/huya/30867383
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/24/d713c88119ab980d67f1242af3c366_180_135.jpg?1749208002" group-title="原创", 子宽放
-https://live.ottiptv.cc/huya/30362138
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/39/37d662c47aa34e912841592a9c48b7_180_135.jpg?1783998694" group-title="原创", 晚晚放映馆
-https://live.ottiptv.cc/huya/31316013
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/b3/d812a6dfbfb953e23cba66d04e5bb9_180_135.jpg?1764677086" group-title="原创", 啵啵爱播播
-https://live.ottiptv.cc/huya/30994768
 #EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 礼包星轨
 https://live.ottiptv.cc/huya/31392759
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/9c/48b8b04117c4e3bde05dbe6b193cff_180_135.jpg?1775707908" group-title="原创", 古镇小鹿
-https://live.ottiptv.cc/huya/30145009
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/51/dced48b09ee8ca6de89461920a1c65_180_135.jpg?1779374758" group-title="原创", 甜甜影院
-https://live.ottiptv.cc/huya/31093836
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 水纹冷白
-https://live.ottiptv.cc/huya/31371678
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800" group-title="原创", SJ-倾甜
-https://live.ottiptv.cc/huya/396729
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/81/47a4d354831652908c6ac1e9ff552e_180_135.jpg?1748744474" group-title="原创", 虎牙中式台球比赛
-https://live.ottiptv.cc/huya/29588938
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/3c/96e3b6263e23b0cf17531ff1e296de_180_135.jpg?1782126640" group-title="原创", 暖洋羊洋
-https://live.ottiptv.cc/huya/31295293
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/94/ee28851ef31e7e1575889c52afcd05_180_135.jpg?1757648014" group-title="原创", 超甜呦、
-https://live.ottiptv.cc/huya/30526458
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/59/686f2bab2fe1b208ec8c02db4a3199_180_135.jpg?1749510036" group-title="原创", 永别兵火里
-https://live.ottiptv.cc/huya/30772632
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/5c/5d092c7349d823ddc5c8cc947a062e_180_135.jpg?1746766645" group-title="原创", 也芥末-
-https://live.ottiptv.cc/huya/30219264
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/bb/66438dd30e3678450d5c11c1fa1bae_180_135.jpg?1737222396" group-title="原创", 小桃猪猪
-https://live.ottiptv.cc/huya/30527430
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/da/3083adffb188c6ae1f243b884b64a6_180_135.jpg?1764086002" group-title="原创", 一支小桃花
-https://live.ottiptv.cc/huya/31081313
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 放晴琴音
-https://live.ottiptv.cc/huya/31371713
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/3c/9dda52912a678cd7c5dbf739985951_180_135.jpg?1587008243" group-title="一起看", 男神歌者
+https://live.ottiptv.cc/huya/21241782
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/d8/b11b405e9f2bd9d403a62334ab4f64_180_135.jpg?1606985476" group-title="一起看", 蛮多的功夫
+https://live.ottiptv.cc/huya/23740156
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/21/89f5341dd6cd8ea5cf8e80e7a30f9b_180_135.jpg?1766717731" group-title="原创", 梦境幻影雪8
 https://live.ottiptv.cc/huya/31109333
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/33/2657627c0dc5f146a3fa3eba5057d0_180_135.jpg?1766287191" group-title="原创", 百川公会
-https://live.ottiptv.cc/huya/594913
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/65/aafc6ea74863b9c643f1ca066f1ef1_180_135.jpg?1769057599" group-title="原创", 、午饭有鱼有虾
-https://live.ottiptv.cc/huya/31091335
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/f9/cc6dec79622158f5b1daa68c608973_180_135.jpg?1782071465" group-title="原创", 敏敏软香肉
-https://live.ottiptv.cc/huya/31292911
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/f7/5625433f2ec86c9f0baeaa458c77a7_180_135.jpg?1767437765" group-title="原创", 白桃观影
-https://live.ottiptv.cc/huya/31106626
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1002/3d/dd41a70dd02221038f5d3fc5d4546e_180_135.jpg?1737081515" group-title="原创", 双双影剧
 https://live.ottiptv.cc/huya/30415827
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/f9/3a0da774f77e292acd787a8b78fe2c_180_135.jpg?1782381366" group-title="原创", 快乐de小猫
-https://live.ottiptv.cc/huya/31308716
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/5b/ca6d64814e18f2b6d0d9aa00bf9ba8_180_135.jpg?1742271909" group-title="原创", winccab
-https://live.ottiptv.cc/huya/30650192
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/0b/b97bc04738774b7931640d68698850_180_135.jpg?1680475310" group-title="原创", ′青春划过微凉、
-https://live.ottiptv.cc/huya/19715329
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/cb/1b622e66e0803b8bd8e8eddda5a835_180_135.jpg?1758729309" group-title="原创", 夜萝莉宝宝
-https://live.ottiptv.cc/huya/30968485
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/14/dcd493e78dcf1649f5d9f9975532e8_180_135.jpg?1779198505" group-title="原创", 爽儿影视
-https://live.ottiptv.cc/huya/31275822
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1039/74/f93fb999313464f1e4c9e5d7aa9bd3_180_135.jpg?1786708306" group-title="原创", 江爽【柿柿顺意】
-https://live.ottiptv.cc/huya/31214889
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ed/ae1d9f0d321fcde4e83663eb3c123a_180_135.jpg?1790225253" group-title="原创", 美娜影视
-https://live.ottiptv.cc/huya/31388739
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/49/2b014a1f6c423f5766b929491cb13e_180_135.jpg?1764617433" group-title="原创", 怡怡爱喝奶茶
-https://live.ottiptv.cc/huya/31087618
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/ed/f8f745b5cfd299e84f43cfd6814cc6_180_135.jpg?1789283867" group-title="原创", 初秋色柠檬
-https://live.ottiptv.cc/huya/31380093
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/dc/858818a088cf3d7ef46732fb435740_180_135.jpg?1744692445" group-title="原创", 偶看见常威在打来福
+https://live.ottiptv.cc/huya/30627334
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/45/414096003c01bdcf3f99896f3f71e4_180_135.jpg?1782485064" group-title="原创", 恢恢何团团
+https://live.ottiptv.cc/huya/31305143
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="一起看", 小木子先生丶
+https://live.ottiptv.cc/huya/11342396
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/eb/31cb485285359dd1db5a9a5072f30a_180_135.jpg?1737081827" group-title="原创", 我是娅娅吖
 https://live.ottiptv.cc/huya/30376663
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1045/56/4f465c55fce665b3ff825e8f55be0a_180_135.jpg?1782575718" group-title="原创", 由心婧婧
-https://live.ottiptv.cc/huya/31311890
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/9e/601c84c01c1450b09ac492368367bc_180_135.jpg?1743931781" group-title="原创", 虎桥路关羽
-https://live.ottiptv.cc/huya/30613314
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/41/6bb0a55ac222adee2d0e80009f79be_180_135.jpg?1737176671" group-title="原创", 沫宝儿吖
-https://live.ottiptv.cc/huya/30526426
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 散步霜华
-https://live.ottiptv.cc/huya/31371700
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/31/a927f62099c9c937ceb1a6c592b428_180_135.jpg?1757661143" group-title="原创", 瑶摇很nice
-https://live.ottiptv.cc/huya/30951757
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/ac/b947389188a815b5aa26c3b86f9403_180_135.jpg?1748703114" group-title="原创", 天天影社
-https://live.ottiptv.cc/huya/29808803
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/ee/d3d092df599c532b65b75c15e61fe4_180_135.jpg?1760683931" group-title="原创", 娇娇影视
-https://live.ottiptv.cc/huya/31027196
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 暮光榕树
-https://live.ottiptv.cc/huya/31371607
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/5a/d40b919302afc33056ee650f68aac2_180_135.jpg?1772089569" group-title="原创", 怡悦xixi
-https://live.ottiptv.cc/huya/31183556
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 鯎爺
+https://live.ottiptv.cc/huya/11352944
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/59/686f2bab2fe1b208ec8c02db4a3199_180_135.jpg?1749510036" group-title="原创", 永别兵火里
+https://live.ottiptv.cc/huya/30772632
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/c8/bf3085b836f02ace75b71f020470e1_180_135.jpg?1743375918" group-title="原创", 黄口咸阳树
+https://live.ottiptv.cc/huya/30692708
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1058/5b/ca6d64814e18f2b6d0d9aa00bf9ba8_180_135.jpg?1742271909" group-title="原创", winccab
+https://live.ottiptv.cc/huya/30650192
 #EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 欲觉秋千索
 https://live.ottiptv.cc/huya/31248609
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001" group-title="一起看", 鱼塘塘主张年年
-https://live.ottiptv.cc/huya/11342384
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 柔白秋实
-https://live.ottiptv.cc/huya/31371626
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/d7/ce1090f3c7d802500ba5f19903fc71_180_135.jpg?1789368904" group-title="原创", 小美观影
-https://live.ottiptv.cc/huya/30597893
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1088/0e/a9640679804e9d74c90fd6597fac1f_180_135.jpg?1758184998" group-title="原创", 鹿儿影视
-https://live.ottiptv.cc/huya/30986994
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/d3/a6de1c835820139fdbc04153a692e7_180_135.jpg?1741786550" group-title="原创", Muse小梅
-https://live.ottiptv.cc/huya/30573410
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 寒露森色宠宠
-https://live.ottiptv.cc/huya/31212603
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/38/0a044578785fd8bd3cce25019b0cb6_180_135.jpg?1581601065" group-title="原创", 贫困小张喜欢A锥
 https://live.ottiptv.cc/huya/30656608
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/1e/01db0159bb93ad77e36fc54aa56cc7_180_135.jpg?1755076554" group-title="原创", 沐希兔子
-https://live.ottiptv.cc/huya/29835225
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/61/9a91b336a43215f580fed6d5428bbc_180_135.jpg?1768534328" group-title="原创", 雨落人间女神
-https://live.ottiptv.cc/huya/31091289
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 彩虹青黛
-https://live.ottiptv.cc/huya/31371638
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1024/8d/9e9ec9cd47eba67e95d01e45e99619_180_135.jpg?1778824069" group-title="原创", 小乔观影
-https://live.ottiptv.cc/huya/31014063
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/10/7760ba74bda5277cca9e41c939a27a_180_135.jpg?1777044480" group-title="原创", 福宝儿丷
-https://live.ottiptv.cc/huya/31059425
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/e5/1939c7444bd2a964e76c2bf02be634_180_135.jpg?1757919506" group-title="原创", 斗破-萧薰儿
-https://live.ottiptv.cc/huya/29862625
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/d3/a6de1c835820139fdbc04153a692e7_180_135.jpg?1741786550" group-title="原创", Muse小梅
+https://live.ottiptv.cc/huya/30573410
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/8a/8953c15583c4c67a35d28104ad2901_180_135.jpg?1741695151" group-title="原创", 冰冰酱嘛
+https://live.ottiptv.cc/huya/30650512
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/da/3083adffb188c6ae1f243b884b64a6_180_135.jpg?1764086002" group-title="原创", 一支小桃花
+https://live.ottiptv.cc/huya/31081313
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/14/dcd493e78dcf1649f5d9f9975532e8_180_135.jpg?1779198505" group-title="原创", 爽儿影视
+https://live.ottiptv.cc/huya/31275822
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 小寒大暖鱼
+https://live.ottiptv.cc/huya/30970882
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1063/02/f9bbf51bfad5f4ce6ada768203149e_180_135.jpg?1782484967" group-title="原创", 凌婫婫
+https://live.ottiptv.cc/huya/31305388
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/68/e44c4a9939d74c32dc39944882ec61_180_135.jpg?1744585803" group-title="原创", 静静影视
 https://live.ottiptv.cc/huya/30712558
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/67/ff6c22dd68c1de86affb5a3bbea8c6_180_135.jpg?1741997971" group-title="原创", 小璐影视
 https://live.ottiptv.cc/huya/30655127
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/48/285066841d020cef9981f1289dc1eb_180_135.jpg?1740660197" group-title="原创", 不吃香菜丫丫
-https://live.ottiptv.cc/huya/30612264
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/c3/d6e1d026cfd848d10862cc3dd60cc1_180_135.jpg?1739948301" group-title="原创", 小猫影视
-https://live.ottiptv.cc/huya/30569079
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/26/36ec1dd8a17b5a6246e8bdce1f6238_180_135.jpg?1750141539" group-title="原创", 愤怒的小金花
-https://live.ottiptv.cc/huya/30837912
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/1a/b3574f36cb1e0e95f9ebd758e2f34a_180_135.jpg?1751953881" group-title="原创", 仙女鹿、
-https://live.ottiptv.cc/huya/29835716
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
-https://live.ottiptv.cc/huya/11342439
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1080/8a/8953c15583c4c67a35d28104ad2901_180_135.jpg?1741695151" group-title="原创", 冰冰酱嘛
-https://live.ottiptv.cc/huya/30650512
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/17/b8b3bb322183bbcf7f490c3187a053_180_135.jpg?1743982806" group-title="原创", 大雅唯白发
 https://live.ottiptv.cc/huya/30692769
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/57/dac802a6af24564bb90590e6999886_180_135.jpg?1746443599" group-title="原创", 小小小尼琪N1Ki丶
-https://live.ottiptv.cc/huya/30571777
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ef/de67d8238c39ef254e7563cc683643_180_135.jpg?1741326962" group-title="原创", 柒柒酱嘛
-https://live.ottiptv.cc/huya/30569095
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/48/285066841d020cef9981f1289dc1eb_180_135.jpg?1740660197" group-title="原创", 不吃香菜丫丫
+https://live.ottiptv.cc/huya/30612264
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1021/aa/bcd7df420473cb3233857a75062895_180_135.jpg?1720520612" group-title="一起看", 活泼有趣的熊猫
+https://live.ottiptv.cc/huya/29982632
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/e7/d4f17fe8278aa00c302295e86756bf_180_135.jpg" group-title="一起看", 小虎牙-QQFbPxwM1A
+https://live.ottiptv.cc/huya/11352958
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/04/8112ee01b0e39d2d42131bd96e3ea6_180_135.jpg?1741159378" group-title="原创", 樱花布布
 https://live.ottiptv.cc/huya/30626082
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/74/c57907e27f087f0166bf6a1cc827cf_180_135.jpg?1738752304" group-title="原创", RR寅子
-https://live.ottiptv.cc/huya/30241641
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/5a/832d8e3074c585092ed3eddd3ec000_180_135.jpg?1625328778" group-title="原创", 孤胆英雄
-https://live.ottiptv.cc/huya/31398489
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="一起看", 7喜先生
-https://live.ottiptv.cc/huya/11342421
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="一起看", 柯冉冉
-https://live.ottiptv.cc/huya/11352874
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 海湾电影
-https://live.ottiptv.cc/huya/31371694
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/60/9b46097878a55bd86ac13aef1ec78f_180_135.jpg?1650700937" group-title="原创", 仇仟璃
-https://live.ottiptv.cc/huya/19807776
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/18/945fc867f7b6dad2be7f132ae69451_180_135.jpg?1772089678" group-title="原创", 全糖艳麦zoo
-https://live.ottiptv.cc/huya/31183563
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="一起看", 心疼得抱住胖胖的自己
-https://live.ottiptv.cc/huya/11342425
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145" group-title="一起看", 古咕咕
-https://live.ottiptv.cc/huya/29465875
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/05/1be792c3b61d0358a25f533c3d42f5_180_135.jpg?1606108236" group-title="一起看", 草莓肠粉酱
-https://live.ottiptv.cc/huya/23650774
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看", 瞬间爆炸
-https://live.ottiptv.cc/huya/11352960
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/e5/c60285f2445730c6e17bad2eefe532_180_135.jpg" group-title="一起看", 傻妞
-https://live.ottiptv.cc/huya/11342426
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/d9/f76198544abd446bc812034fa9fc6f_180_135.jpg?1544172417" group-title="一起看", 大侠
-https://live.ottiptv.cc/huya/11602085
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1041/bd/e52b5d2b4a0032d2b3e95370defbdc_180_135.jpg?1770435324" group-title="原创", 蔓蔓绘梦
-https://live.ottiptv.cc/huya/31160635
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 海绵宝宝宝
-https://live.ottiptv.cc/huya/11352919
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/b1/2f13ab842010ed437e5dc4422f0982_180_135.jpg?1705565239" group-title="一起看", 一川星悬-
-https://live.ottiptv.cc/huya/29465870
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/e1/7baa7aec8cbc9136517f88d9ae0ce3_180_135.jpg?1735883336" group-title="原创", 西京观影
-https://live.ottiptv.cc/huya/30439645
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/1e/d7d0ebc73a0e82b5d13004011caf6a_180_135.jpg?1773713399" group-title="原创", 小萝莉爱爱
-https://live.ottiptv.cc/huya/31192789
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/1e/d7d0ebc73a0e82b5d13004011caf6a_180_135.jpg?1773713399" group-title="原创", 小萝莉爱爱
-https://live.ottiptv.cc/huya/31192789
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/14/108b2f09afcc12edb51ed1b3366a5a_180_135.jpg?1729650035" group-title="原创", 影评专员
-https://live.ottiptv.cc/huya/30311494
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/5e/5aac3908070130bbdcd7af4698d02c_180_135.jpg?1484792977" group-title="一起看", 美少女咸儿
-https://live.ottiptv.cc/huya/11336572
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/35/503fd3772e1b89f29dc2f01f96210c_180_135.jpg?1603073881" group-title="一起看", 兄台明鉴
-https://live.ottiptv.cc/huya/23482266
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576" group-title="一起看", 领带哥
-https://live.ottiptv.cc/huya/11342430
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/d0/fe3e8932013519fad159f46a499070_180_135.jpg?1751857477" group-title="原创", 花见羞羞
-https://live.ottiptv.cc/huya/30829078
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686" group-title="一起看", No1常在心
-https://live.ottiptv.cc/huya/11342402
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/89/5d126f20fda565a2d84fbff2b8423d_180_135.jpg?1767056814" group-title="原创", 道州万物并
-https://live.ottiptv.cc/huya/31125245
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/eb/17f80ff8f9851ee417b1fc688f6656_180_135.jpg?1494319827" group-title="一起看", 全优少年
-https://live.ottiptv.cc/huya/11602081
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="一起看", 陈翔六点半
-https://live.ottiptv.cc/huya/11274154
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/65/323b6589efe170d63337d4aad3f68c_180_135.jpg?1751440474" group-title="原创", 倩妮、
-https://live.ottiptv.cc/huya/30863133
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1012/f5/b6e246fc050f005a7eb50db0ec37b5_180_135.jpg?1448361051" group-title="一起看", 會唱歌的小野貓
-https://live.ottiptv.cc/huya/11352871
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="一起看", 大漠李白
-https://live.ottiptv.cc/huya/26355861
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/54/b38ffeeaa38b65154793d3f6715ad3_180_135.jpg?1751857318" group-title="原创", 芸芸看剧
-https://live.ottiptv.cc/huya/30832594
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/21/cf70c89d704f5ad1f7f45640117e18_180_135.jpg?1618468802" group-title="一起看", 里昂保护的玛蒂达
-https://live.ottiptv.cc/huya/21059594
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/93/b16f9e9f520e28434bc6f1cbe829ef_180_135.jpg?1705548531" group-title="一起看", 反方向的钟1874
-https://live.ottiptv.cc/huya/29465868
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/52/a6c35becee8a340ace9a25f52de787_180_135.jpg?1723789191" group-title="一起看", 水晶awa
-https://live.ottiptv.cc/huya/30080247
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1056/13/53b805fbdd7efc135d26a2f752c2c9_180_135.jpg?1767062161" group-title="原创", 青青观影
-https://live.ottiptv.cc/huya/31125322
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1021/38/798015db445aa31accd2fb80a80f10_180_135.jpg?1448967582" group-title="一起看", Wang-我的女人
-https://live.ottiptv.cc/huya/11352940
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/d4/f1c743b892f8198c93034cb1566bf6_180_135.jpg?1712955194" group-title="原创", 婧丶
-https://live.ottiptv.cc/huya/26298751
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/14/d55855e9ea8c4dccb976e42c2f51e6_180_135.jpg?1722326965" group-title="原创", 我是图图很淘气
-https://live.ottiptv.cc/huya/30080227
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4c/58791a804ba17e82f18fa95f2f99e9_180_135.jpg?1702967451" group-title="原创", 年年营
-https://live.ottiptv.cc/huya/29580970
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/14/a20cf5ab2e5018c57dce02d19b7022_180_135.jpg?1604504757" group-title="一起看", 甜甜
-https://live.ottiptv.cc/huya/20985796
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1043/d4/2417752fe83a25e9339f197e218a62_180_135.jpg?1744637014" group-title="原创", Mz-夏夏
-https://live.ottiptv.cc/huya/314676
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/55/feafba98c920aade78809d72136eb1_180_135.jpg?1448278125" group-title="一起看", --娇妹
-https://live.ottiptv.cc/huya/11342404
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="原创", 扁豆看电影
-https://live.ottiptv.cc/huya/16028551
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946" group-title="一起看", 野原的一家
-https://live.ottiptv.cc/huya/11352970
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1078/4c/f1042af7267bcae06c6d631b14d33f_180_135.jpg?1465667825" group-title="一起看", 小轩
-https://live.ottiptv.cc/huya/11352899
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/0d/e99ad5ecd72dbce1293f2dbf47d2e3_180_135.jpg?1587551057" group-title="一起看", 歌声无边界
-https://live.ottiptv.cc/huya/21241783
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/dc/c41f66f49ab927279049cc0fb83a11_180_135.jpg?1620907360" group-title="一起看", 野外生存技巧
-https://live.ottiptv.cc/huya/24609809
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/03/7531dc8a84bdf34feab7022ee9575b_180_135.jpg?1646811108" group-title="一起看", 白菘无人省
-https://live.ottiptv.cc/huya/26355864
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/26/36ec1dd8a17b5a6246e8bdce1f6238_180_135.jpg?1750141539" group-title="原创", 愤怒的小金花
+https://live.ottiptv.cc/huya/30837912
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/68/dc5766e27199b2af146fc9d74d03ba_180_135.jpg?1779685160" group-title="原创", 花花影院
+https://live.ottiptv.cc/huya/29863394
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1037/ef/de67d8238c39ef254e7563cc683643_180_135.jpg?1741326962" group-title="原创", 柒柒酱嘛
+https://live.ottiptv.cc/huya/30569095
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/c3/d6e1d026cfd848d10862cc3dd60cc1_180_135.jpg?1739948301" group-title="原创", 小猫影视
+https://live.ottiptv.cc/huya/30569079
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 水纹冷白
+https://live.ottiptv.cc/huya/31371678
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1040/57/dac802a6af24564bb90590e6999886_180_135.jpg?1746443599" group-title="原创", 小小小尼琪N1Ki丶
+https://live.ottiptv.cc/huya/30571777
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/8e/d39eddca948cf21b9191b8989c24e1_180_135.jpg?1773066014" group-title="原创", 萘萘呐hh
+https://live.ottiptv.cc/huya/31194378
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/c7/9e31aec72401378afca5cd7b84ab8e_180_135.jpg?1773065229" group-title="原创", 宸艺艺
+https://live.ottiptv.cc/huya/31194377
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/8d/b5aab3e6b834af54fe62842018316d_180_135.jpg?1721298644" group-title="一起看", 精彩小雨幕
+https://live.ottiptv.cc/huya/30080148
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/27/5b46bcc223aefe2ff9853c24df977d_180_135.jpg?1768873843" group-title="原创", 小雏莓莓
+https://live.ottiptv.cc/huya/31107167
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/cb/c1d4c2aef096686b69ae043e9f7650_180_135.jpg?1782726699" group-title="原创", 温柔璐琳
+https://live.ottiptv.cc/huya/31311855
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/c6/1219552ecdbfa3e8fefec5605de3bf_180_135.jpg?1625682800" group-title="原创", SJ-倾甜
+https://live.ottiptv.cc/huya/396729
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/fd/124521e66a8aa66f7438a7ff6fd6eb_180_135.jpg?1780758723" group-title="原创", 玉妮啵啵
+https://live.ottiptv.cc/huya/31292904
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/bb/66438dd30e3678450d5c11c1fa1bae_180_135.jpg?1737222396" group-title="原创", 小桃猪猪
+https://live.ottiptv.cc/huya/30527430
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 彩虹青黛
+https://live.ottiptv.cc/huya/31371638
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 晚安云起
+https://live.ottiptv.cc/huya/31373123
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/39/37d662c47aa34e912841592a9c48b7_180_135.jpg?1783998694" group-title="原创", 晚晚放映馆
+https://live.ottiptv.cc/huya/31316013
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/ed/f8f745b5cfd299e84f43cfd6814cc6_180_135.jpg?1789283867" group-title="原创", 初秋色柠檬
+https://live.ottiptv.cc/huya/31380093
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/5c/76863efe7039a772dcd1890296c76a_180_135.jpg?1757605023" group-title="原创", 春水不服食
+https://live.ottiptv.cc/huya/30951533
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/5c/5d092c7349d823ddc5c8cc947a062e_180_135.jpg?1746766645" group-title="原创", 也芥末-
+https://live.ottiptv.cc/huya/30219264
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1050/42/28f36f4d0767fb6efc42c1c1940e1c_180_135.jpg?1561358214" group-title="原创", 阿斗归来了
+https://live.ottiptv.cc/huya/13303478
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/37/ed2fa6731b73a5c711724c93fde94e_180_135.jpg?1745824199" group-title="原创", 萌萌小桃子
+https://live.ottiptv.cc/huya/29807256
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/81/cb5ff7a371da6d45fbae5a26bc75c0_180_135.jpg?1763894691" group-title="原创", Wechatt
 https://live.ottiptv.cc/huya/30535002
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/7d/4920743037f6d65c15a357f01fc698_180_135.jpg?1775952306" group-title="原创", 雪女悠悠
-https://live.ottiptv.cc/huya/31215877
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/a0/6343ce60e55d598a4ad3bed6fa43fd_180_135.jpg?1560231135" group-title="一起看", 个人向
-https://live.ottiptv.cc/huya/11352963
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/df/5d27ef00e226639b4ebe2fc8e214ae_180_135.jpg?1769729019" group-title="原创", 柔柔微冷
-https://live.ottiptv.cc/huya/31138934
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1065/1e/1261519283866330b97e12fb4e7526_180_135.jpg?1449121445" group-title="一起看", 萌新司机
-https://live.ottiptv.cc/huya/11352881
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1059/20/0aa07bd1ff565ba21e9eccf14644eb_180_135.jpg?1767411734" group-title="原创", 入梦影视
-https://live.ottiptv.cc/huya/31121607
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/83/54df9ebff5f3a73ed9f6a0a687f95c_180_135.jpg?1784528500" group-title="原创", 越式酥麻
-https://live.ottiptv.cc/huya/30764822
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/25/04b947aca136d6636679742a986415_180_135.jpg?1715945645" group-title="原创", 小迷糊
-https://live.ottiptv.cc/huya/29580971
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/76/fee9cd789465b9ad505bd494ca4429_180_135.jpg?1697191200" group-title="原创", 【炊烟大壮】
-https://live.ottiptv.cc/huya/24782284
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1003/d3/7bbf32d9dacbcd6290c615cdb18514_180_135.jpg?1445854501" group-title="一起看", 红茶妹妹
-https://live.ottiptv.cc/huya/11336592
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/26/aea600d1f3dc19bc21a3d61fefc2d8_180_135.jpg?1770375709" group-title="原创", 云雨巫山断肠
-https://live.ottiptv.cc/huya/31142461
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774" group-title="一起看", 裸奔的蜗牛╮
-https://live.ottiptv.cc/huya/11342418
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/86/9dff75f0f8265fad295f04eb4eea30_180_135.jpg" group-title="一起看", 四大裁子之首
-https://live.ottiptv.cc/huya/11602058
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 艾莉
-https://live.ottiptv.cc/huya/20969144
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/4a/659f5b93e2e645314b15a03662f870_180_135.jpg?1723003057" group-title="一起看", 傍晚猴
-https://live.ottiptv.cc/huya/30080236
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="原创", 止戈电影
-https://live.ottiptv.cc/huya/19863777
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1013/e1/63455f6cc24cdde3188a6d26335112_180_135.jpg?1465205440" group-title="一起看", 浮生没有若梦
-https://live.ottiptv.cc/huya/11601986
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看", 虎牙八点档
-https://live.ottiptv.cc/huya/880261
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1053/66/4d1fde96df08a46f8819f84496edb1_180_135.jpg?1774941798" group-title="原创", 小燕子紫薇
-https://live.ottiptv.cc/huya/31199435
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/5c/96ccc7026af7b8d7dee61bb6022f90_180_135.jpg?1766721808" group-title="原创", 周星驰--喜剧之王
-https://live.ottiptv.cc/huya/30631741
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="原创", 电影最TOP
-https://live.ottiptv.cc/huya/11774959
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="原创", 狗哥吃火锅
-https://live.ottiptv.cc/huya/17269326
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/4e/34317ec1baec7725eda8247bcd77d2_180_135.jpg?1711701543" group-title="一起看", YJ-无语凝烟
-https://live.ottiptv.cc/huya/26355856
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/c3/8863bcd20aa4cb84abb31bbf6ab250_180_135.jpg?1786068425" group-title="原创", 娜娜陪看
-https://live.ottiptv.cc/huya/31281026
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/35/b195d148d203b6292baeb338306cd3_180_135.jpg?1737077460" group-title="原创", 九思剧场
-https://live.ottiptv.cc/huya/30569910
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/eb/1513352638f38b58fc4eb15b839a78_180_135.jpg?1729651024" group-title="原创", 唯倜得同行
-https://live.ottiptv.cc/huya/30311525
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/fd/9432d92ec800bd45499fbb5a4429cc_180_135.jpg?1763211410" group-title="原创", 风中有垛雨做的云
-https://live.ottiptv.cc/huya/31055598
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669" group-title="原创", 科幻梦工场
-https://live.ottiptv.cc/huya/15152155
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/2b/78dfb36d77377464856ed5d474bf73_180_135.jpg" group-title="一起看", 超能力是放pi
-https://live.ottiptv.cc/huya/11352906
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/5b/2f3692646fef894e05a2d2cd3a1b27_180_135.jpg?1760815269" group-title="原创", 【蠟筆小新】
-https://live.ottiptv.cc/huya/24587878
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/26/37e4a4d1d0c17ff6756766113b0cc9_180_135.jpg?1767275796" group-title="原创", 雪花兔兔
-https://live.ottiptv.cc/huya/31067746
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="原创", 余小二哦
-https://live.ottiptv.cc/huya/10279885
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/1b/e658e859484cb9a062f05b1b542393_180_135.jpg?1542873828" group-title="一起看", 四次元先生
-https://live.ottiptv.cc/huya/11602071
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/70/b0e16dd051b7185ab6d30caed488e4_180_135.jpg?1729480958" group-title="原创", 阿光影视
-https://live.ottiptv.cc/huya/30292086
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/28/f53ca4c89888029b6806ced4354406_180_135.jpg?1741794173" group-title="原创", 小虎牙-q8XsX2lqBP
-https://live.ottiptv.cc/huya/30273533
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/90/00502272c435c9631a02598909486b_180_135.jpg?1743137174" group-title="原创", 家里有只小汤圆
-https://live.ottiptv.cc/huya/28078466
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/ed/91d774547b797d2f0136fe976748b0_180_135.jpg?1767874181" group-title="原创", 素素爱哭
-https://live.ottiptv.cc/huya/31125346
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="一起看", 种瓜得弟弟
-https://live.ottiptv.cc/huya/11352872
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 港片剧情真好
-https://live.ottiptv.cc/huya/29465859
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/91/4938488a0652e8a409af537afa1b1c_180_135.jpg?1724122094" group-title="一起看", 春水盈盈细浪翻
-https://live.ottiptv.cc/huya/30080255
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/f7/bc9b72fbdfbe155c8810ed60ac9344_180_135.jpg?1620733428" group-title="原创", S哥影视
-https://live.ottiptv.cc/huya/24720260
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/90/db0e42b809eb45dca98843ea7bc1a7_180_135.jpg?1777033373" group-title="原创", 柔式解压 
-https://live.ottiptv.cc/huya/30764819
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1034/ad/52ee6b86d88cd6de2c12c6051a5ae6_180_135.jpg?1446036196" group-title="一起看", 偷心大盗ヽ龍宝
-https://live.ottiptv.cc/huya/11342386
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/ae/e4c79d25571888f30bb8357272e293_180_135.jpg?1543373584" group-title="一起看", 粉娘
-https://live.ottiptv.cc/huya/11601978
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1008/96/cb848d2191146016f199b329a4d85b_180_135.jpg?1770420116" group-title="原创", 七七爱剧
-https://live.ottiptv.cc/huya/31147360
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1087/31/a927f62099c9c937ceb1a6c592b428_180_135.jpg?1757661143" group-title="原创", 瑶摇很nice
+https://live.ottiptv.cc/huya/30951757
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1034/65/aafc6ea74863b9c643f1ca066f1ef1_180_135.jpg?1769057599" group-title="原创", 、午饭有鱼有虾
+https://live.ottiptv.cc/huya/31091335
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1030/cd/4a542acfc3d5f8c7da3c90e2f0f5c7_180_135.jpg?1726130956" group-title="原创", 薄情凉了城
+https://live.ottiptv.cc/huya/30156310
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1064/74/c57907e27f087f0166bf6a1cc827cf_180_135.jpg?1738752304" group-title="原创", RR寅子
+https://live.ottiptv.cc/huya/30241641
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/3c/96e3b6263e23b0cf17531ff1e296de_180_135.jpg?1782126640" group-title="原创", 暖洋羊洋
+https://live.ottiptv.cc/huya/31295293
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 放晴琴音
+https://live.ottiptv.cc/huya/31371713
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 柔白秋实
+https://live.ottiptv.cc/huya/31371626
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/1f/edfb9f440be218d91f524bfe6679de_180_135.jpg?1742284479" group-title="原创", 涂涂观影团
+https://live.ottiptv.cc/huya/30513350
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 散步霜华
+https://live.ottiptv.cc/huya/31371700
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1015/9b/b7877ea9731e170e9c51bd5d3f9515_180_135.jpg?1783604281" group-title="原创", 夏夜小妖咪
+https://live.ottiptv.cc/huya/31312768
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1013/b5/a93a507d80ac07f7450da49a9fa8b5_180_135.jpg?1783745572" group-title="原创", 桃屁屁kiss
+https://live.ottiptv.cc/huya/31312799
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1062/a3/1e2b634e967d6bb1cc2d6c954084c5_180_135.jpg?1743826258" group-title="原创", 麦麦放映
+https://live.ottiptv.cc/huya/30682679
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 海湾电影
+https://live.ottiptv.cc/huya/31371694
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1089/ed/ae1d9f0d321fcde4e83663eb3c123a_180_135.jpg?1790225253" group-title="原创", 美娜影视
+https://live.ottiptv.cc/huya/31388739
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1003/48/d10a77fdc894206dc26c7762685ab0_180_135.jpg?1744003385" group-title="原创", 氷爺影视
+https://live.ottiptv.cc/huya/28901439
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1098/ad/5fe92f32024e3d3fa3fab6d7dda615_180_135.jpg?1751445514" group-title="原创", 小满荷塘香色
+https://live.ottiptv.cc/huya/30860538
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1044/94/ee28851ef31e7e1575889c52afcd05_180_135.jpg?1757648014" group-title="原创", 超甜呦、
+https://live.ottiptv.cc/huya/30526458
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/b3/d812a6dfbfb953e23cba66d04e5bb9_180_135.jpg?1764677086" group-title="原创", 啵啵爱播播
+https://live.ottiptv.cc/huya/30994768
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1090/cb/1b622e66e0803b8bd8e8eddda5a835_180_135.jpg?1758729309" group-title="原创", 夜萝莉宝宝
+https://live.ottiptv.cc/huya/30968485
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1072/51/dced48b09ee8ca6de89461920a1c65_180_135.jpg?1779374758" group-title="原创", 甜甜影院
+https://live.ottiptv.cc/huya/31093836
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/9c/48b8b04117c4e3bde05dbe6b193cff_180_135.jpg?1775707908" group-title="原创", 古镇小鹿
+https://live.ottiptv.cc/huya/30145009
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 暮光榕树
+https://live.ottiptv.cc/huya/31371607
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1001/e3/28a31261e2d598de3ddf2d7d20a0d5_180_135.jpg?1752584632" group-title="原创", 辰辰观影
+https://live.ottiptv.cc/huya/30882696
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/49/2b014a1f6c423f5766b929491cb13e_180_135.jpg?1764617433" group-title="原创", 怡怡爱喝奶茶
+https://live.ottiptv.cc/huya/31087618
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1052/e5/c60285f2445730c6e17bad2eefe532_180_135.jpg" group-title="一起看", 傻妞
+https://live.ottiptv.cc/huya/11342426
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 小号黑猫啊
+https://live.ottiptv.cc/huya/31302821
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/d7/ce1090f3c7d802500ba5f19903fc71_180_135.jpg?1789368904" group-title="原创", 小美观影
+https://live.ottiptv.cc/huya/30597893
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 大朴观影
+https://live.ottiptv.cc/huya/31007237
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1087/94/d718f164cbdab50db6d8c07d594a57_180_135.jpg?1449487171" group-title="一起看", 柯冉冉
+https://live.ottiptv.cc/huya/11352874
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 潇洒依旧广哥
+https://live.ottiptv.cc/huya/31371618
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/60/9b46097878a55bd86ac13aef1ec78f_180_135.jpg?1650700937" group-title="原创", 仇仟璃
+https://live.ottiptv.cc/huya/19807776
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1077/05/1be792c3b61d0358a25f533c3d42f5_180_135.jpg?1606108236" group-title="一起看", 草莓肠粉酱
+https://live.ottiptv.cc/huya/23650774
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/5e/5aac3908070130bbdcd7af4698d02c_180_135.jpg?1484792977" group-title="一起看", 美少女咸儿
+https://live.ottiptv.cc/huya/11336572
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/2a/40ef0eae13a49537b8c81bc95424d7_180_135.jpg?1775897185" group-title="原创", baby丶贝贝
 https://live.ottiptv.cc/huya/30697189
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="原创", 亮哥讲电影
-https://live.ottiptv.cc/huya/16144175
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/25/d7f1cac49929155f84ebd35fa8153d_180_135.jpg?1565864168" group-title="一起看", 我要在你头上暴扣
-https://live.ottiptv.cc/huya/19524135
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593" group-title="原创", 南西视频
-https://live.ottiptv.cc/huya/16913382
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1071/8f/1187b66da67cebb51a7827abf73376_180_135.jpg?1779772541" group-title="原创", 小森林淼淼
-https://live.ottiptv.cc/huya/31246031
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/93/8665f4725be166cecacec6cb664b7b_180_135.jpg?1789850187" group-title="原创", 大法师大法师
-https://live.ottiptv.cc/huya/29674255
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 雪布林
-https://live.ottiptv.cc/huya/30311504
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/4018f488b843a50819fc41ca7e9647_180_135.jpg?1607753977" group-title="原创", 力哥影視
-https://live.ottiptv.cc/huya/23419131
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1019/fa/69dd3b706ce51ea376b0ecbce2b00c_180_135.jpg" group-title="一起看", 樹袋熊小九九
-https://live.ottiptv.cc/huya/11282233
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1018/68/806bec75f38db660adcfdb89883268_180_135.jpg?1463968736" group-title="一起看", 茱麗葉
-https://live.ottiptv.cc/huya/11602072
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/36/b1ea957453055943c430ffd9715a7e_180_135.jpg?1727498043" group-title="原创", 影小渔
-https://live.ottiptv.cc/huya/30296971
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/6a/6dda2c3b0bef2346fb706744661210_180_135.jpg?1668057180" group-title="原创", 君子杉
-https://live.ottiptv.cc/huya/15321830
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="原创", 西部影坛
-https://live.ottiptv.cc/huya/30311497
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1083/61/effe3a49321578a9f231bbb4596194_180_135.jpg" group-title="一起看", 莫小辰
-https://live.ottiptv.cc/huya/11352916
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 海绵宝宝宝
+https://live.ottiptv.cc/huya/11352919
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1043/86/9dff75f0f8265fad295f04eb4eea30_180_135.jpg" group-title="一起看", 四大裁子之首
+https://live.ottiptv.cc/huya/11602058
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1021/38/798015db445aa31accd2fb80a80f10_180_135.jpg?1448967582" group-title="一起看", Wang-我的女人
+https://live.ottiptv.cc/huya/11352940
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1071/18/a683f9be4736d26d0e6256f213e57d_180_135.jpg?1446129885" group-title="一起看", 7喜先生
+https://live.ottiptv.cc/huya/11342421
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001" group-title="一起看", 鱼塘塘主张年年
+https://live.ottiptv.cc/huya/11342384
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1048/a0/6343ce60e55d598a4ad3bed6fa43fd_180_135.jpg?1560231135" group-title="一起看", 个人向
+https://live.ottiptv.cc/huya/11352963
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1082/14/108b2f09afcc12edb51ed1b3366a5a_180_135.jpg?1729650035" group-title="原创", 影评专员
+https://live.ottiptv.cc/huya/30311494
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1073/0a/87fd57c47451ff3bc787c7688b0636_180_135.jpg?1447838686" group-title="一起看", No1常在心
+https://live.ottiptv.cc/huya/11342402
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1084/e7/973a4388a3a04c8b0d140b88dd6d92_180_135.jpg" group-title="一起看", 心疼得抱住胖胖的自己
+https://live.ottiptv.cc/huya/11342425
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/1d/d9fb1fe2130e3f7d5e80379b24ebca_180_135.jpg?1509501381" group-title="一起看", 陈翔六点半
+https://live.ottiptv.cc/huya/11274154
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1036/eb/17f80ff8f9851ee417b1fc688f6656_180_135.jpg?1494319827" group-title="一起看", 全优少年
+https://live.ottiptv.cc/huya/11602081
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/93/b16f9e9f520e28434bc6f1cbe829ef_180_135.jpg?1705548531" group-title="一起看", 反方向的钟1874
+https://live.ottiptv.cc/huya/29465868
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看", 瞬间爆炸
+https://live.ottiptv.cc/huya/11352960
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1078/4c/f1042af7267bcae06c6d631b14d33f_180_135.jpg?1465667825" group-title="一起看", 小轩
+https://live.ottiptv.cc/huya/11352899
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1029/35/503fd3772e1b89f29dc2f01f96210c_180_135.jpg?1603073881" group-title="一起看", 兄台明鉴
+https://live.ottiptv.cc/huya/23482266
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/6e/39676d88e04e209d1aa2126582fd3d_180_135.jpg?1566179946" group-title="一起看", 野原的一家
+https://live.ottiptv.cc/huya/11352970
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1086/a6/ce57254a5973608596194aff9dcf15_180_135.jpg?1717728145" group-title="一起看", 古咕咕
+https://live.ottiptv.cc/huya/29465875
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
+https://live.ottiptv.cc/huya/11342439
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1040/61/9e8348d60b86f6391add9746a0fe0e_180_135.jpg" group-title="一起看", 种瓜得弟弟
+https://live.ottiptv.cc/huya/11352872
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/c1/288db99c4c84edecdfa3a4dd786802_180_135.jpg?1715914636" group-title="一起看", 大漠李白
+https://live.ottiptv.cc/huya/26355861
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1081/14/d55855e9ea8c4dccb976e42c2f51e6_180_135.jpg?1722326965" group-title="原创", 我是图图很淘气
+https://live.ottiptv.cc/huya/30080227
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1065/1e/1261519283866330b97e12fb4e7526_180_135.jpg?1449121445" group-title="一起看", 萌新司机
+https://live.ottiptv.cc/huya/11352881
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1093/52/a6c35becee8a340ace9a25f52de787_180_135.jpg?1723789191" group-title="一起看", 水晶awa
+https://live.ottiptv.cc/huya/30080247
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1079/14/a20cf5ab2e5018c57dce02d19b7022_180_135.jpg?1604504757" group-title="一起看", 甜甜
+https://live.ottiptv.cc/huya/20985796
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1053/da/61cc96019de66b9bbbcc888f279941_180_135.jpg?1462501097" group-title="一起看", 我爱黑科技
+https://live.ottiptv.cc/huya/11602068
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1035/e1/7baa7aec8cbc9136517f88d9ae0ce3_180_135.jpg?1735883336" group-title="原创", 西京观影
+https://live.ottiptv.cc/huya/30439645
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1042/0e/356fe2b69229b3b6e59517597aaa75_180_135.jpg?1446129774" group-title="一起看", 裸奔的蜗牛╮
+https://live.ottiptv.cc/huya/11342418
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1065/d9/f76198544abd446bc812034fa9fc6f_180_135.jpg?1544172417" group-title="一起看", 大侠
+https://live.ottiptv.cc/huya/11602085
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1010/f9/3a0da774f77e292acd787a8b78fe2c_180_135.jpg?1782381366" group-title="原创", 快乐de小猫
+https://live.ottiptv.cc/huya/31308716
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 艾莉
+https://live.ottiptv.cc/huya/20969144
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/b5/c088c7dc6b84aabd17a1e198bc0694_180_135.jpg?1596715717" group-title="一起看", 千里
+https://live.ottiptv.cc/huya/20985776
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/03/7531dc8a84bdf34feab7022ee9575b_180_135.jpg?1646811108" group-title="一起看", 白菘无人省
+https://live.ottiptv.cc/huya/26355864
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1057/03/7531dc8a84bdf34feab7022ee9575b_180_135.jpg?1646811108" group-title="一起看", 白菘无人省
+https://live.ottiptv.cc/huya/26355864
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1068/5c/96ccc7026af7b8d7dee61bb6022f90_180_135.jpg?1766721808" group-title="原创", 周星驰--喜剧之王
+https://live.ottiptv.cc/huya/30631741
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/86/f826780a41885b6adc20640dec5ddf_180_135.jpg?1620958326" group-title="原创", 余小二哦
+https://live.ottiptv.cc/huya/10279885
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1027/54/fad0fed531e375964f82741090f447_180_135.jpg?1666363182" group-title="原创", 虎牙电影陪看
+https://live.ottiptv.cc/huya/23177366
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1055/55/feafba98c920aade78809d72136eb1_180_135.jpg?1448278125" group-title="一起看", --娇妹
+https://live.ottiptv.cc/huya/11342404
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/25/04b947aca136d6636679742a986415_180_135.jpg?1715945645" group-title="原创", 小迷糊
+https://live.ottiptv.cc/huya/29580971
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看", 虎牙八点档
+https://live.ottiptv.cc/huya/880261
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1036/d4/f1c743b892f8198c93034cb1566bf6_180_135.jpg?1712955194" group-title="原创", 婧丶
+https://live.ottiptv.cc/huya/26298751
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/fd/9432d92ec800bd45499fbb5a4429cc_180_135.jpg?1763211410" group-title="原创", 风中有垛雨做的云
+https://live.ottiptv.cc/huya/31055598
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1012/5e/78f08eff3c9c51fbdf695431b9b1d4_180_135.jpg?1569319588" group-title="原创", 止戈电影
+https://live.ottiptv.cc/huya/19863777
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/21/cf70c89d704f5ad1f7f45640117e18_180_135.jpg?1618468802" group-title="一起看", 里昂保护的玛蒂达
+https://live.ottiptv.cc/huya/21059594
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4e/ae211bcda9e2928942fbcea9035377_180_135.jpg?1586044444" group-title="原创", 狗哥吃火锅
+https://live.ottiptv.cc/huya/17269326
 #EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1039/15/8fa37019a60515490eaeab2ba329c8_180_135.jpg?1449121515" group-title="一起看", 老司机
 https://live.ottiptv.cc/huya/11352946
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/a0/ae732951220448bf7c89d6f300b368_180_135.jpg?1694848301" group-title="原创", 一哥爱解说
-https://live.ottiptv.cc/huya/28806915
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1023/a5/6a32717522a4521d758c7b16842840_180_135.jpg?1715915943" group-title="原创", 庄升秋
-https://live.ottiptv.cc/huya/29581262
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1083/eb/1513352638f38b58fc4eb15b839a78_180_135.jpg?1729651024" group-title="原创", 唯倜得同行
+https://live.ottiptv.cc/huya/30311525
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1003/d3/7bbf32d9dacbcd6290c615cdb18514_180_135.jpg?1445854501" group-title="一起看", 红茶妹妹
+https://live.ottiptv.cc/huya/11336592
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/25/d7f1cac49929155f84ebd35fa8153d_180_135.jpg?1565864168" group-title="一起看", 我要在你头上暴扣
+https://live.ottiptv.cc/huya/19524135
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1026/90/00502272c435c9631a02598909486b_180_135.jpg?1743137174" group-title="原创", 家里有只小汤圆
+https://live.ottiptv.cc/huya/28078466
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1014/70/b0e16dd051b7185ab6d30caed488e4_180_135.jpg?1729480958" group-title="原创", 阿光影视
+https://live.ottiptv.cc/huya/30292086
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/b1/2f13ab842010ed437e5dc4422f0982_180_135.jpg?1705565239" group-title="一起看", 一川星悬-
+https://live.ottiptv.cc/huya/29465870
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1097/83/54df9ebff5f3a73ed9f6a0a687f95c_180_135.jpg?1784528500" group-title="原创", 越式酥麻
+https://live.ottiptv.cc/huya/30764822
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/a7/a4ef768d73ace55fbc7adce0f4e329_180_135.jpg?1517472689" group-title="原创", 电影最TOP
+https://live.ottiptv.cc/huya/11774959
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576" group-title="一起看", 领带哥
+https://live.ottiptv.cc/huya/11342430
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1083/61/effe3a49321578a9f231bbb4596194_180_135.jpg" group-title="一起看", 莫小辰
+https://live.ottiptv.cc/huya/11352916
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/13/d1e296180dda55ff7503c586380351_180_135.jpg?1612406399" group-title="一起看", 港剧日记
+https://live.ottiptv.cc/huya/23903130
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1094/ca/1eaca36d155e7436c403216897a73f_180_135.jpg?1540887593" group-title="原创", 南西视频
+https://live.ottiptv.cc/huya/16913382
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1061/4c/58791a804ba17e82f18fa95f2f99e9_180_135.jpg?1702967451" group-title="原创", 年年营
+https://live.ottiptv.cc/huya/29580970
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1092/76/fee9cd789465b9ad505bd494ca4429_180_135.jpg?1697191200" group-title="原创", 【炊烟大壮】
+https://live.ottiptv.cc/huya/24782284
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/0d/e99ad5ecd72dbce1293f2dbf47d2e3_180_135.jpg?1587551057" group-title="一起看", 歌声无边界
+https://live.ottiptv.cc/huya/21241783
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1054/dc/220aa819b2f3237d62bb66a75a0a43_180_135.jpg?1531813967" group-title="原创", 扁豆看电影
+https://live.ottiptv.cc/huya/16028551
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/24/4b484ab26497fa9309a7c78715217c_180_135.jpg?1522311669" group-title="原创", 科幻梦工场
+https://live.ottiptv.cc/huya/15152155
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1028/b7/06540532973d5fae0cc8d834972a47_180_135.jpg?1740131261" group-title="原创", 天雷鼓鼓说剧
+https://live.ottiptv.cc/huya/30277823
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/dc/c41f66f49ab927279049cc0fb83a11_180_135.jpg?1620907360" group-title="一起看", 野外生存技巧
+https://live.ottiptv.cc/huya/24609809
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1025/c6/8312da01c8b38d7efd6cefe6d628b2_180_135.jpg?1701624629" group-title="原创", HeungsamsFamily
+https://live.ottiptv.cc/huya/29487319
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 柚柚
+https://live.ottiptv.cc/huya/30080197
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1018/68/806bec75f38db660adcfdb89883268_180_135.jpg?1463968736" group-title="一起看", 茱麗葉
+https://live.ottiptv.cc/huya/11602072
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1067/2b/78dfb36d77377464856ed5d474bf73_180_135.jpg" group-title="一起看", 超能力是放pi
+https://live.ottiptv.cc/huya/11352906
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/f7/bc9b72fbdfbe155c8810ed60ac9344_180_135.jpg?1620733428" group-title="原创", S哥影视
+https://live.ottiptv.cc/huya/24720260
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1078/51/e171e7e7bfe82bc668bb891e822a5b_180_135.jpg?1781255279" group-title="原创", 越式酥麻
 https://live.ottiptv.cc/huya/30764818
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/0c/b53333444abba604faa2df4d77375b_180_135.jpg?1555566240" group-title="原创", 李小哇絮叨叨
-https://live.ottiptv.cc/huya/18441722
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1033/cf/642bd2219d704c644d3afb2db1d553_180_135.jpg?1694689027" group-title="原创", 荒野求生影探
-https://live.ottiptv.cc/huya/28556708
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/2e/63af68312cfe252c69328448baaf7f_180_135.jpg?1559260536" group-title="原创", 斌哥漫说
-https://live.ottiptv.cc/huya/18632116
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1022/ff/7218ea3da8546c89e032959483c25b_180_135.jpg?1764159427" group-title="原创", SJ-安安【小兔子】
-https://live.ottiptv.cc/huya/25132963
-#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="一起看", 电视迷痴迷港剧
-https://live.ottiptv.cc/huya/29465851
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1055/fe/686e7e61aa8ad31127277263194c1a_180_135.jpg?1773378649" group-title="原创", 雪见
-https://live.ottiptv.cc/huya/30765312
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/e5/298bcd971ed7e33e267708099e76f6_180_135.jpg?1577356757" group-title="原创", 月光下
-https://live.ottiptv.cc/huya/20599549
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1067/28/eb10b25db1f1a70fcb79da1403ab72_180_135.jpg?1556020041" group-title="原创", 亮哥讲电影
+https://live.ottiptv.cc/huya/16144175
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1049/36/b1ea957453055943c430ffd9715a7e_180_135.jpg?1727498043" group-title="原创", 影小渔
+https://live.ottiptv.cc/huya/30296971
+#EXTINF:-1 tvg-logo="https://diy-assets.msstatic.com/cqhfolder/NewDefault.png" group-title="原创", 韩式酥麻
+https://live.ottiptv.cc/huya/30765022
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1091/05/7f0dba02a0ce9ce8bbcdb955d5b6f6_180_135.jpg?1766995513" group-title="原创", 释小龙-少林小子
+https://live.ottiptv.cc/huya/30631747
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1006/a0/ae732951220448bf7c89d6f300b368_180_135.jpg?1694848301" group-title="原创", 一哥爱解说
+https://live.ottiptv.cc/huya/28806915
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1011/3a/94ed3402adcd9dfb2074578756c65b_180_135.jpg?1607659085" group-title="原创", 小丑讲电影
 https://live.ottiptv.cc/huya/16857432
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1016/6b/d7be47e56898b8dabdfa344522e6ce_180_135.jpg?1606206596" group-title="一起看", 好汉来也
 https://live.ottiptv.cc/huya/23652426
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1066/d0/fda0a975304c931c5cfe5ad53c71c0_180_135.jpg?1
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1013/e1/63455f6cc24cdde3188a6d26335112_180_135.jpg?1465205440" group-title="一起看", 浮生没有若梦
+https://live.ottiptv.cc/huya/11601986
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1020/a3/6941c2b4901e54c75a32d2ac66b747_180_135.jpg?1740364539" group-title="原创", LX娱乐-招主播
+https://live.ottiptv.cc/huya/28259384
+#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1049/f7/5aab1e5c04b4d47c603c64c279ab4f_180_135.jpg" group-title="一起看", 小猪猪
+https://live.ottiptv.cc/huya/11342416
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1007/0c/b53333444abba604faa2df4d77375b_180_135.jpg?1555566240" group-title="原创", 李小哇絮叨叨
+https://live.ottiptv.cc/huya/18441722
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1095/ee/20efb83981c3bcfcf15cf755514bdf_180_135.jpg?1646813525" group-title="一起看", 春江花朝吹香夢
+https://live.ottiptv.cc/huya/26355791
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1069/4a/659f5b93e2e645314b15a03662f870_180_135.jpg?1723003057" group-title="一起看", 傍晚猴
+https://live.ottiptv.cc/huya/30080236
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1085/a2/40851cf173c0d8475c03cb1167538b_180_135.jpg?1729650352" group-title="原创", 西部影坛
+https://live.ottiptv.cc/huya/30311497
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1005/ae/e4c79d25571888f30bb8357272e293_180_135.jpg?1543373584" group-title="一起看", 粉娘
+https://live.ottiptv.cc/huya/11601978
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1031/58/4018f488b843a50819fc41ca7e9647_180_135.jpg?1607753977" group-title="
