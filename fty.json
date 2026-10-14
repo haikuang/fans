@@ -490,7 +490,7 @@
       "key": "影探",
       "name": "影探┃影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py",
+      "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py",
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
