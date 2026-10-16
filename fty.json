@@ -268,17 +268,6 @@
        "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
-    {
-      "key": "迅雷吧",
-      "name": "迅雷吧┃磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://xunlei8.me",
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
 
     {
       "key": "瓜子体育",
@@ -555,18 +544,6 @@
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
 
-    {
-      "key": "py_枫叶音乐",
-      "name": "枫叶┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
 
     {
       "key": "py_网易云音乐",
