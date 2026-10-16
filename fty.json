@@ -480,6 +480,30 @@
     },
 
     {
+      "key": "请勿扒取",
+      "name": "亢龙┃影视",
+      "type": 1,
+      "api": "http://110.42.66.100:12678/api.php",
+      "playUrl": "json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": "json",
+      "categories": [
+        "电视剧",
+        "电影",
+        "动漫",
+        "综艺",
+        "日韩剧",
+        "美剧",
+        "少儿"
+      ],
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
+
+
+    {
       "key": "影探",
       "name": "影探┃影视",
       "type": 3,
