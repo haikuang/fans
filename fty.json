@@ -519,15 +519,6 @@
     },
 
     {
-      "key": "高清点播",
-      "name": "高清┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/高清点播.py",
-      "filterable": 0,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
-
-    {
       "key": "电影侠",
       "name": "影侠┃影视",
       "type": 3,
