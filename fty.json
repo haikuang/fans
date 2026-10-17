@@ -70,19 +70,6 @@
       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
     },
 
-
-    {
-      "key": "Didahd",
-      "name": "嘀嗒┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/Didahd.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
-    },
-
     {
       "key": "咕噜",
       "name": "咕噜┃ APP",
