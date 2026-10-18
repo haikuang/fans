@@ -537,6 +537,16 @@
     },
 
     {
+      "key": "蝴蝶",
+      "name": "蝴蝶┃影视",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
+      "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
+    },
+
+    {
       "key": "分享农民",
       "name": "农民┃影视",
       "type": 3,
