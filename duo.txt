@@ -45,6 +45,10 @@
       "url": "https://tv.xn--yhqu5zs87a.top",
       "name": "菜妮丝线"
     },
+ {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/js.json",
+      "name": "JS"
+    },
 
   {
       "url": "https://box.iqinu.com",
