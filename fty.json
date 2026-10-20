@@ -500,6 +500,13 @@
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
+    {
+      "key": "电影侠",
+      "name": "影侠┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/电影侠.py",
+      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+    },
 
     {
       "key": "py_极速",
@@ -534,13 +541,7 @@
       "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
     },
 
-    {
-      "key": "电影侠",
-      "name": "影侠┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/电影侠.py",
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
-    },
+
 
     {
       "key": "柠檬",
