@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;42869e09ec9d744c7ab61b6ae27839b8",
+  "spider": "./fty.jar;md5;654fb7dcb0aeaaea7dba0e662395f38e",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -417,7 +417,7 @@
         "host": [
           "https://llsp1.oss-cn-hangzhou.aliyuncs.com/llsp20250605.json",
           "https://llsp-1330823543.cos.ap-guangzhou.myqcloud.com/llsp20250605.json"
-        ],
+          ],
         "newHost": "http://118.31.73.148:9981",
         "bizHost": "http://llsp3.terribly.cn",
         "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAp1r0KfdEbfAATZXqWMQdEHCfeMdsI7gegO2CtQgzJ5UcXHtdnRUnWd8uKHd5p1jB8ndpTmZEv6BpODgYVLOqAjpO44Z1j6WJVXZ0h19zdjyzzOqhBkEmmKPcQiF+LYqjE/0t0xdNoxgxDBQXyK1PPfmQzfmhhlacQnStL181oCRimZhwEjjha4sqnjmMJTg6JBf6zj5o2btutVT8NUMMZRSmLXqMoDj6oTJapkStlRynihNKn9AiCyozUa6VOmrlZZEnL4yjIgBqYCIS7UAyWE38HeBj7OAEAn7IBrnn1Qrw9u0J2L3Fd40zdHcmBYZa6OF05GNpR1SVlmQtL/QwIDAQAB"
