@@ -32,7 +32,7 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/yangshipin.py",
       "ext": {},
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -45,7 +45,7 @@
       "changeable": 1,
       "filterable": 1,
       "timeout": 60,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -54,7 +54,7 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
 
@@ -67,7 +67,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -78,7 +78,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
      {
@@ -87,7 +87,7 @@
       "type": 3,
       "api": "csp_Hxq",
       "searchable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -103,7 +103,7 @@
         "buildNumber": "2002",
         "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -119,7 +119,7 @@
         "buildNumber": "2001",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
      },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -141,7 +141,7 @@
         "version": "3.0.2.4",
         "decrypt": "1"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -163,7 +163,7 @@
         "version": "1.0.0.3",
         "decrypt": "0"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -180,7 +180,7 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -189,7 +189,7 @@
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+       "jar": "./lib/spider.jar"
     },
 
     {
@@ -198,7 +198,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+       "jar": "./lib/spider.jar"
     },
 
     {
@@ -210,7 +210,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+       "jar": "./lib/spider.jar"
     },
 
     {
@@ -221,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+       "jar": "./lib/spider.jar"
     },
 
 
@@ -236,7 +236,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
     {
@@ -250,7 +250,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
 
@@ -265,7 +265,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
 
@@ -280,7 +280,7 @@
       "style": {
         "type": "list"
       },
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
 
@@ -293,7 +293,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 1,
-      "jar": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/jar/spider.jar"
+      "jar": "./lib/spider.jar"
     },
 
 
@@ -301,7 +301,7 @@
       "name": "瓜子┃影视",
       "key": "csp_Guazi",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_GuaziAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -314,7 +314,7 @@
       "key": "csp_Dygang",
       "name": "🧲电影港┃磁力",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_Dygang",
       "searchable": 1,
       "quickSearch": 1,
@@ -325,7 +325,7 @@
       "name": "蒙太奇┃影视",
       "key": "AppV7Mtq",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -337,7 +337,7 @@
       "name": "柚子┃影视",
       "key": "AppV7Xyz",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -350,7 +350,7 @@
       "name": "追剧┃影视",
       "key": "AppV7Zjdr",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
@@ -364,7 +364,7 @@
       "name": "富强┃听书",
       "key": "TSty",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -377,7 +377,7 @@
       "name": "酷听┃音乐",
       "key": "Kuwo",
       "type": 3,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/Yoursmile.jar",
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_KuwoAmns",
       "searchable": 1,
       "quickSearch": 1,
@@ -395,7 +395,7 @@
       "changeable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -422,7 +422,7 @@
         "bizHost": "http://llsp3.terribly.cn",
         "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqAp1r0KfdEbfAATZXqWMQdEHCfeMdsI7gegO2CtQgzJ5UcXHtdnRUnWd8uKHd5p1jB8ndpTmZEv6BpODgYVLOqAjpO44Z1j6WJVXZ0h19zdjyzzOqhBkEmmKPcQiF+LYqjE/0t0xdNoxgxDBQXyK1PPfmQzfmhhlacQnStL181oCRimZhwEjjha4sqnjmMJTg6JBf6zj5o2btutVT8NUMMZRSmLXqMoDj6oTJapkStlRynihNKn9AiCyozUa6VOmrlZZEnL4yjIgBqYCIS7UAyWE38HeBj7OAEAn7IBrnn1Qrw9u0J2L3Fd40zdHcmBYZa6OF05GNpR1SVlmQtL/QwIDAQAB"
       },
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
 
@@ -430,7 +430,7 @@
       "key": "yunduo1",
       "name": "云朵┃影视",
       "type": 3,
-      "api": "./JS/分享者yunduo.js",
+      "api": "https://gh-proxy.org/https://github.com/maoystv/6/blob/main/JS/分享者yunduo.js",
       "ext": {
         "host": "https://duoduosdf12223234334.top",
         "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
@@ -443,7 +443,7 @@
         "deviceBrand": "vivo",
         "deviceModel": "V2309A"
       },
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -466,7 +466,7 @@
         "美剧",
         "少儿"
       ],
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
 
@@ -475,7 +475,7 @@
       "name": "影探┃影视",
       "type": 3,
       "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py",
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -483,7 +483,7 @@
       "name": "影侠┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/电影侠.py",
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -495,7 +495,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "changeable": 0,
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -503,7 +503,7 @@
       "name": "界影┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/界影视.py",
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
     {
@@ -516,7 +516,7 @@
         "catesSet": "电影&电视剧&综艺&动漫&纪录片",
         "tabsSet": "极速蓝光"
       },
-      "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar":"./lib/分享者0.zip"
     },
 
 
@@ -562,7 +562,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip"
+      "jar": "./lib/分享者0.zip"
     },
 
     {
