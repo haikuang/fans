@@ -202,6 +202,14 @@
     },
 
     {
+      "key": "荐片",
+      "name": "荐片┃磁力",
+      "api": "csp_JianPian",
+      "type": 3,
+       "jar": "./lib/spider.jar"
+    },
+
+    {
       "key": "New6v",
       "name": "New6V┃磁力",
       "type": 3,
@@ -433,20 +441,6 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/界影视.py",
       "jar":"./lib/分享者0.zip"
     },
-
-    {
-      "key": "cat_荐片app",
-      "name": "荐片┃APP",
-      "type": 3,
-      "api": "https://7337.kstore.vip/xw/js/cat_荐片app.js",
-      "ext": {
-        "host": "https://api.ztcgi.com",
-        "catesSet": "电影&电视剧&综艺&动漫&纪录片",
-        "tabsSet": "极速蓝光"
-      },
-      "jar":"./lib/分享者0.zip"
-    },
-
 
 
     {
