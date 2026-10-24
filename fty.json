@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;654fb7dcb0aeaaea7dba0e662395f38e",
+  "spider": "./fty.jar;md5;b55978c4fe6d12e2fea9075f17c8a67a",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -198,6 +198,17 @@
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+       "jar": "./lib/spider.jar"
+    },
+
+    {
+      "key": "1905",
+      "name": "1905┃ 影视",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
        "jar": "./lib/spider.jar"
     },
 
@@ -410,7 +421,7 @@
       "key": "影探",
       "name": "影探┃影视",
       "type": 3,
-      "api": "https://raw.giteeusercontent.com/suixin8/00/raw/0/yt.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/影探4K.py",
       "jar":"./lib/分享者0.zip"
     },
 
