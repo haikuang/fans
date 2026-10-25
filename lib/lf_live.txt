@@ -7,8 +7,6 @@
 以/开头，存储卡的根目录
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
-#LIVE•综合
-https://gh-proxy.org/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/LIVE.txt
 #南风•综合
 https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 #IPTV-1•综合
