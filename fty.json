@@ -846,7 +846,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+        "json": "./lib/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
     },
     {
@@ -879,8 +879,8 @@
       "key": "虎牙js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/虎牙.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -895,8 +895,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1000,7 +1000,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+        "json": "./lib/0075389dca9afadd4614e9713765ff17.txt"
       }
     },
     {
@@ -1016,15 +1016,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+        "json": "./lib/6496356286589c68f52c2f99c0c674c7.txt"
       }
     },
     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1046,7 +1046,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
+        "json": "./lib/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
     },
     {
@@ -1062,7 +1062,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+        "json": "./lib/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       }
     },
     {
@@ -1078,7 +1078,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
+        "json": "./lib/8f55d520f8d70056695740ef151744a7.txt"
       }
     },
     {
@@ -1094,28 +1094,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+        "json": "./lib/c66a4b5356141c49fd45ec51568017b4.txt"
       }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-    {
-      "key": "cc",
-      "name": "请勿信视频中任何广告",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
     }
   ],
   "rules": [
@@ -1155,13 +1135,13 @@
     {
       "name": "Kimentanm",
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "url": "./lib/iptv.m3u",
       "playerType": 2
     },
     {
       "name": "虎牙一起看",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "url": "./lib/huyayqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -1169,7 +1149,7 @@
     {
       "name": "斗鱼一起看",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "url": "./lib/douyuyqk.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
@@ -1177,7 +1157,7 @@
     {
       "name": "YY轮播",
       "type": 0,
-      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "url": "./lib/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
