@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;b55978c4fe6d12e2fea9075f17c8a67a",
+  "spider": "./fty.jar;md5;d2a33b53d09ec59c4cb7e3f482ef3907",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -340,29 +340,30 @@
       "filterable": 1
     },
 
- {
-      "name": "蒙太奇┃影视",
+   {
+      "name": "📦蒙太奇",
       "key": "AppV7Mtq",
       "type": 3,
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
-      "jar":"./lib/Yoursmile.jar"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
+
     {
-      "name": "柚子┃影视",
+      "name": "🍊柚子",
       "key": "AppV7Xyz",
       "type": 3,
+      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
-      "jar":"./lib/Yoursmile.jar"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 
     {
@@ -380,16 +381,15 @@
 
 
     {
-      "name": "富强┃听书",
-      "key": "AppV7Dsx",
+      "name": "📖富强听书",
+      "key": "TSty",
       "type": 3,
-      "api": "csp_AppV7Amns",
+      "jar":"./lib/Yoursmile.jar",
+      "api": "csp_TStyAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AppV7Dsx",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
-      "jar":"./lib/Yoursmile.jar"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 
     {
@@ -518,6 +518,21 @@
       "jar": "./lib/分享者0.zip"
     },
 
+    {
+      "key": "MDrive",
+      "name": "🗂我的云盘┃配置",
+      "type": 3,
+      "api": "csp_MyDriveGuard",
+      "changeable": 0,
+      "indexs": 0,
+      "searchable": 1,
+      "style": {
+        "type": "oval"
+      },
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt"
+      }
+    },
     {
       "key": "MDrive",
       "name": "🗂我的云盘┃配置",
@@ -773,17 +788,6 @@
       "changeable": 0
     },
     {
-      "key": "咕咕",
-      "name": "🦉咕咕┃动漫",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
-    },
-    {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
       "type": 3,
@@ -870,7 +874,7 @@
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -1127,9 +1131,9 @@
   ],
   "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
   "hosts": [
-    "img1.wsyzy.org=fan.cloudflare.182682.xyz",
-    "fiizvfck.top=fan.cloudflare.182682.xyz",
-    "images.67c6c7a.com=fan.cloudflare.182682.xyz"
+    "img1.wsyzy.org=cmcc.vvvv.ee",
+    "fiizvfck.top=cmcc.vvvv.ee",
+    "images.67c6c7a.com=cmcc.vvvv.ee"
   ],
   "lives": [
     {
