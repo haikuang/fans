@@ -124,7 +124,7 @@
 
     {
       "key": "橘汁",
-      "name": "橘汁┃APP",
+      "name": "橘汁 • APP",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -133,12 +133,12 @@
       "ext": {
         "appName": "橘汁",
         "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
         "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
+        "pkg": "com.asjdhjhd.mgd.p3",
         "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.4",
+        "site": "./lib/app.txt",
+        "version": "3.0.7.0",
         "decrypt": "1"
       },
       "jar": "./lib/spider.jar"
@@ -326,7 +326,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 
     {
@@ -344,25 +344,25 @@
       "name": "蒙太奇┃影视",
       "key": "AppV7Mtq",
       "type": 3,
-      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
+      "jar":"./lib/Yoursmile.jar"
     },
     {
       "name": "柚子┃影视",
       "key": "AppV7Xyz",
       "type": 3,
-      "jar":"./lib/Yoursmile.jar",
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
+      "jar":"./lib/Yoursmile.jar"
     },
 
     {
@@ -375,22 +375,22 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 
 
     {
       "name": "富强┃听书",
-      "key": "TSty",
+      "key": "AppV7Dsx",
       "type": 3,
-      "jar":"./lib/Yoursmile.jar",
-      "api": "csp_TStyAmns",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "ext": "AppV7Dsx",
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png",
+      "jar":"./lib/Yoursmile.jar"
     },
-
 
     {
       "name": "酷听┃音乐",
@@ -402,7 +402,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "music",
-      "jar": "https://file.icve.com.cn/file_doc/997/227/F9538F89E13ADF0CFBCA7909AE555AB6.png"
+      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
     },
 
     {
@@ -424,6 +424,18 @@
       "jar":"./lib/分享者0.zip"
     },
 
+    {
+      "key": "看客联盟[skapp]",
+      "name": "联盟┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/skapp.py",
+      "ext": {
+        "host": "https://kankelm.cn:2024/appdomain.txt",
+        "key": "ygcnbcvybqqckwqy",
+        "iv": "1583560747143708"
+    },
+      "jar":"./lib/分享者0.zip"
+    },
 
     {
       "key": "影探",
