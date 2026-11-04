@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;e6c78bbbd60e50f611c9aac6ff273fd8",
+  "spider": "./fty.jar;md5;10e816e12a91e021ca809ca07f58762d",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -545,21 +545,6 @@
       }
     },
     {
-      "key": "MDrive",
-      "name": "🗂我的云盘┃配置",
-      "type": 3,
-      "api": "csp_MyDriveGuard",
-      "changeable": 0,
-      "indexs": 0,
-      "searchable": 1,
-      "style": {
-        "type": "oval"
-      },
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt"
-      }
-    },
-    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -636,7 +621,11 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": {
+        "v2": "1",
+        "deviceId": "6fd6416460897d6b"
+      }
     },
     {
       "key": "立播",
