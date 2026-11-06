@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;10e816e12a91e021ca809ca07f58762d",
+  "spider": "./fty.jar;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -326,7 +326,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
     {
@@ -350,7 +350,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
     {
@@ -363,7 +363,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
     {
@@ -376,7 +376,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
 
@@ -389,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
     {
@@ -402,7 +402,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "music",
-      "jar": "https://file.icve.com.cn/file_doc/868/18/D93049BA6615EAB01B69A52FF03C02C9.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/75b0af3e-1176-4828-b210-f9f8357fb3d6.png"
     },
 
     {
@@ -624,7 +624,7 @@
       "changeable": 1,
       "ext": {
         "v2": "1",
-        "deviceId": "6fd6416460897d6b"
+        "deviceId": "6dc66339e1314f88"
       }
     },
     {
@@ -869,12 +869,12 @@
       "key": "有声小说",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "csp_Tingshu275Guard",
+      "api": "csp_YueTingGuard",
       "style": {
         "type": "rect",
         "ratio": 1
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
@@ -1137,7 +1137,7 @@
   ],
   "lives": [
     {
-      "name": "综合直播",
+      "name": "综合",
       "type": 0,
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
