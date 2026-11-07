@@ -254,6 +254,20 @@
     },
 
     {
+      "key": "荐片",
+      "name": "荐片 • 磁力",
+      "api": "csp_JianPian",
+      "type": 3,
+      "ext": {
+        "site": [
+          "https://www.whhyn.com",
+          "https://www.zxfmj.com"
+        ]
+      },
+       "jar": "./lib/spider.jar"
+    },
+
+    {
       "key": "New6v",
       "name": "New6V┃磁力",
       "type": 3,
