@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
+  "spider": "./fty.jar;md5;5efc6505e4e2b151e1610012dd757506",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -59,16 +59,40 @@
 
 
     {
-      "key": "华数",
-      "name": "华数┃影视",
+      "key": "华谊影视",
+      "name": "华谊 • 影视",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华谊影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "jar": "./lib/spider.jar"
     },
+
+    {
+      "key": "TVB云播",
+      "name": "TVB云播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/TVB云播.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1,
+      "jar": "./lib/spider.jar"
+    },
+
+    {
+      "key": "一起影视",
+      "name": "一起 • APP",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./lib/spider.jar"
+    },
+
 
     {
       "key": "咕噜",
@@ -184,6 +208,23 @@
     },
 
     {
+      "key": "蓝鸟",
+      "name": "蓝鸟 • APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "dataKey": "oW5UxZ5kWVr1DI69",
+        "dataIv": "oW5UxZ5kWVr1DI69",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      },
+      "jar": "./lib/spider.jar"
+    },
+
+    {
       "key": "独播影视",
       "name": "独播┃影视",
       "type": 3,
@@ -209,14 +250,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-       "jar": "./lib/spider.jar"
-    },
-
-    {
-      "key": "荐片",
-      "name": "荐片┃磁力",
-      "api": "csp_JianPian",
-      "type": 3,
        "jar": "./lib/spider.jar"
     },
 
@@ -406,17 +439,6 @@
     },
 
     {
-      "key": "csp_XYQHikerNm",
-      "name": "在线┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar":"./lib/分享者0.zip"
-    },
-    {
       "key": "分享多多.py",
       "name": "多多┃影视",
       "type": 3,
@@ -424,26 +446,6 @@
       "jar":"./lib/分享者0.zip"
     },
 
-    {
-      "key": "看客联盟[skapp]",
-      "name": "联盟┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/skapp.py",
-      "ext": {
-        "host": "https://kankelm.cn:2024/appdomain.txt",
-        "key": "ygcnbcvybqqckwqy",
-        "iv": "1583560747143708"
-    },
-      "jar":"./lib/分享者0.zip"
-    },
-
-    {
-      "key": "美剧侠.py",
-      "name": "美剧┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/美剧侠.py",
-      "jar":"./lib/分享者0.zip"
-    },
 
     {
       "key": "影探",
@@ -456,13 +458,6 @@
       "jar":"./lib/分享者0.zip"
     },
 
-    {
-      "key": "电影侠",
-      "name": "影侠┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/电影侠.py",
-      "jar":"./lib/分享者0.zip"
-    },
 
     {
       "key": "py_极速",
@@ -486,17 +481,6 @@
 
 
     {
-      "key": "柠檬",
-      "name": "柠檬┃影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-    },
-
-
-    {
       "key": "分享农民",
       "name": "农民┃影视",
       "type": 3,
@@ -504,30 +488,7 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/xbpq (3).jar",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/XBPQ/分享农民.json"
     },
-    {
-      "key": "py_枫叶音乐",
-      "name": "枫叶┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/枫叶音乐.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60
-    },
 
-    {
-      "key": "py_网易云音乐",
-      "name": "网易云┃音乐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 0,
-      "timeout": 60,
-      "jar": "./lib/分享者0.zip"
-    },
 
     {
       "key": "MDrive",
@@ -621,11 +582,7 @@
       "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "v2": "1",
-        "deviceId": "6dc66339e1314f88"
-      }
+      "changeable": 1
     },
     {
       "key": "立播",
@@ -774,7 +731,7 @@
     },
     {
       "key": "AiDj",
-      "name": "❤️AI┃短漫剧",
+      "name": "❤️AI剧┃弹幕",
       "type": 3,
       "api": "csp_AiDjGuard",
       "ext": {
