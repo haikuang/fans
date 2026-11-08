@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;5efc6505e4e2b151e1610012dd757506",
+  "spider": "./fty.jar;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -466,9 +466,9 @@
       "name": "影探┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/影探4K.py",
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
+      "changeable": 1,
       "jar":"./lib/分享者0.zip"
     },
 
@@ -630,7 +630,6 @@
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
-      "playerType": "2",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -682,7 +681,6 @@
       "type": 3,
       "api": "csp_AppTTGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -729,7 +727,6 @@
       "type": 3,
       "api": "csp_JPJGuard",
       "timeout": 10,
-      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
