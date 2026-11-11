@@ -57,6 +57,17 @@
       "jar": "./lib/spider.jar"
     },
 
+    {
+      "key": "华数",
+      "name": "华数 • 影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/py/华数.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "./lib/spider.jar"
+    },
 
     {
       "key": "华谊影视",
