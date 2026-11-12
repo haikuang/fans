@@ -254,6 +254,14 @@
     },
 
     {
+      "key": "懂片",
+      "name": "懂片 • 影视",
+      "type": 3,
+      "api": "csp_DongPian",
+       "jar": "./lib/spider.jar"
+    },
+
+    {
       "key": "独播影视",
       "name": "独播┃影视",
       "type": 3,
