@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;9d5f341aa5f3353b50cc3bc16b4f3e8a",
+  "spider": "./fty.jar;md5;164fa61b160f3119f4f21489b9dfaf56",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -549,28 +549,6 @@
       "jar":"./lib/分享者0.zip"
     },
 
-    {
-      "key": "柠檬",
-      "name": "柠檬┃影视",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/jar/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1",
-      "jar":"./lib/分享者0.zip"
-    },
-
-    {
-      "key": "人人视频",
-      "name": "人人┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/人人视频.py",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar":"./lib/分享者0.zip"
-    },
 
     {
       "key": "jy.py",
@@ -1188,7 +1166,8 @@
   "hosts": [
     "img1.wsyzy.org=cmcc.vvvv.ee",
     "fiizvfck.top=cmcc.vvvv.ee",
-    "images.67c6c7a.com=cmcc.vvvv.ee"
+    "images.67c6c7a.com=cmcc.vvvv.ee",
+    "sub.ottiptv.cc=cmcc.vvvv.ee"
   ],
   "lives": [
     {
@@ -1221,14 +1200,6 @@
       "name": "斗鱼一起看",
       "type": 0,
       "url": "./lib/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "./lib/yylunbo.m3u",
       "playerType": 2,
       "timeout": 10,
       "ua": "okHttp/Mod-1.5.0.0"
