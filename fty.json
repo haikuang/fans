@@ -451,6 +451,20 @@
     },
 
     {
+      "name": "📦师兄",
+      "key": "AppV7Dsx",
+      "type": 3,
+      "jar":"./lib/Yoursmile.jar",
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Dsx",
+      "jar": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png"
+    },
+
+
+    {
       "name": "追剧┃影视",
       "key": "AppV7Zjdr",
       "type": 3,
