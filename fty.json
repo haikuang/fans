@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;fa1bcd5643872834ee03be5ba2f23ac7",
+  "spider": "./fty.jar;md5;b145c1db9db5f37d2be8f13a7de84464",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -131,15 +131,6 @@
         "sk": "SK-woniu-thanks",
         "ver": "1"
       },
-      "jar": "./lib/spider.jar"
-    },
-
-     {
-      "key": "韩圈",
-      "name": "韩圈┃APP",
-      "type": 3,
-      "api": "csp_Hxq",
-      "searchable": 1,
       "jar": "./lib/spider.jar"
     },
 
@@ -503,17 +494,6 @@
       "jar": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261114/fb8598729388cbaf8c808c6ab4895f69.png"
     },
 
-    {
-      "name": "🎸橙子音乐",
-      "key": "Czyy",
-      "type": 3,
-      "jar":"./lib/Yoursmile.jar",
-      "api": "csp_CzyyAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261114/fb8598729388cbaf8c808c6ab4895f69.png"
-    },
 
     {
       "key": "csp_XYQHikerNm",
@@ -1231,11 +1211,6 @@
       "url": "http://193.123.86.190:14888/TV/iptv.php",
       "ua": "bingcha/1.1 (mianfeifenxiang)",
       "playerType": 2
-    },
-    {
-      "name": "牛播一",
-      "url": "http://127.0.0.1:9978/proxy?do=cctva",
-      "timeZone": "Asia/Shanghai"
     },
     {
       "name": "Kimentanm",
