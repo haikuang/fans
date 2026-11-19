@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;c7ac89ae1d981e87afb9698a8a4ca30b",
+  "spider": "./fty.jar;md5;6ef2e95b434509eed5b943aa44bb3fdf",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -468,6 +468,18 @@
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
     },
 
+    {
+      "name": "🔥经典推荐",
+      "key": "Xxxg",
+      "type": 3,
+      "jar":"./lib/Yoursmile.jar",
+      "api": "csp_XxxgAmns",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "Xxxg",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+    },
 
     {
       "name": "📖富强听书",
