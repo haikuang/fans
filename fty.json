@@ -235,7 +235,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+        "site": "./lib/lyjszx.txt",
         "dataKey": "oW5UxZ5kWVr1DI69",
         "dataIv": "oW5UxZ5kWVr1DI69",
         "init": "initV122",
@@ -266,7 +266,7 @@
       "name": "金牌┃影视",
       "type": 3,
       "api": "csp_Jpys",
-      "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+      "ext": "https://www.sunnafh.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
        "jar": "./lib/spider.jar"
     },
 
@@ -401,7 +401,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -425,7 +425,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Mtq",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -438,7 +438,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -451,7 +451,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Dsx",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
 
@@ -465,7 +465,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -478,7 +478,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "Xxxg",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -490,7 +490,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
     {
@@ -503,7 +503,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "genre": "music",
-      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17278527-b3a6-4985-a235-839f8a3d7845.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/06f4e557-b688-4920-86c3-6f1475e9a7c2.png"
     },
 
 
