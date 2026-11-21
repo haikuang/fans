@@ -48,14 +48,6 @@
       "jar":"./lib/分享者0.zip"
     },
 
-    {
-      "key": "预告",
-      "name": "新片┃预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 1,
-      "jar": "./lib/spider.jar"
-    },
 
     {
       "key": "华数",
@@ -235,7 +227,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": {
-        "site": "./lib/lyjszx.txt",
+        "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
         "dataKey": "oW5UxZ5kWVr1DI69",
         "dataIv": "oW5UxZ5kWVr1DI69",
         "init": "initV122",
