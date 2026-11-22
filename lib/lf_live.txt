@@ -5,6 +5,8 @@
 相对路径说明
 以./开头，相对位置是本订阅文件
 以/开头，存储卡的根目录
+#央卫•综合
+https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/yangshipin.py
 #result•综合
 https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
 #南风•综合
