@@ -30,7 +30,7 @@
       "key": "央视片库",
       "name": "央视┃片库",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/PY/央库云.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
