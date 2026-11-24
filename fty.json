@@ -571,7 +571,7 @@
       "name": "联盟┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/skapp.py",
-      "ext": {
+       "ext": {
         "host": "https://kankelm.cn:2024/appdomain.txt",
         "key": "ygcnbcvybqqckwqy",
         "iv": "1583560747143708"
