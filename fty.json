@@ -27,15 +27,6 @@
     },
 
     {
-      "key": "js_好趣",
-      "name": "好趣┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/好趣.js",
-      "jar":"./lib/分享者0.zip"
-    },
-
-    {
       "key": "yangshipin_vod",
       "name": "央卫┃直播",
       "type": 3,
@@ -477,6 +468,19 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Zjdr",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
+    },
+
+    {
+      "name": "⭐杜北",
+      "key": "Dubk",
+      "type": 3,
+      "jar":"./lib/Yoursmile.jar",
+      "api": "csp_DubkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Dubk",
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/4f052dfd-2873-4f1e-9c42-c3f444fc60fa.png"
     },
 
