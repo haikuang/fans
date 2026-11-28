@@ -1,5 +1,5 @@
 {
-  "spider": "./fty.jar;md5;da4bc13399ce6343619deb2e9dd16fc0",
+  "spider": "./fty.jar;md5;fa149671d3bfb3a718b98c77f47cef45",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
@@ -533,6 +533,17 @@
       "name": "河豚┃影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/河豚.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar":"./lib/分享者0.zip"
+    },
+
+    {
+      "key": "mnyy",
+      "name": "米诺┃影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/分享者mino.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
