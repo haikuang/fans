@@ -27,8 +27,6 @@ https://gh-proxy.org/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main
 https://gh-proxy.org/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all.m3u8
 #IPTV-9•综合
 https://gh-proxy.org/https://raw.githubusercontent.com/hahapkpk/hbyd-live/refs/heads/main/hbyd-live.m3u
-#IPTV-10•综合
-https://gh-proxy.org/https://raw.githubusercontent.com/jamsluuuuu/iptv/refs/heads/main/china-hk-mo-tw-live.m3u
 #分享者•综合
 https://gh-proxy.org/https://raw.githubusercontent.com/haikuang/fans/refs/heads/main/lib/live.txt
 
